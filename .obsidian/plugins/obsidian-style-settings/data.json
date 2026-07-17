@@ -1,0 +1,7 @@
+{
+  "obsidian-composer-theme@@theme-variant-light": "composer--XiaScheme-light",
+  "obsidian-composer-theme@@theme-variant-dark": "composer--XiaScheme-dark",
+  "obsidian-composer-theme@@table-style": "composer--AcademicTableStyle",
+  "obsidian-composer-theme@@composer--ParagraphIndent": false,
+  "obsidian-composer-theme@@composer--EnableIndentationGuidLine": true
+}

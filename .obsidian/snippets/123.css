@@ -1,0 +1,42 @@
+/* ===== 普通段落首行缩进 2 字 ===== */
+
+/* 阅读视图里的普通段落 */
+.markdown-reading-view .markdown-preview-section > p,
+.markdown-preview-view .markdown-preview-section > p {
+  text-indent: 2em !important;
+  margin: 0 0 0.6em 0 !important;
+}
+
+/* 导出 PDF / 打印时的普通段落 */
+.print .markdown-preview-view .markdown-preview-section > p {
+  text-indent: 2em !important;
+  margin: 0 0 0.6em 0 !important;
+}
+
+/* ===== 不该缩进的东西，一律归零 ===== */
+
+.markdown-reading-view h1,
+.markdown-reading-view h2,
+.markdown-reading-view h3,
+.markdown-reading-view h4,
+.markdown-reading-view h5,
+.markdown-reading-view h6,
+.markdown-reading-view li,
+.markdown-reading-view pre,
+.markdown-reading-view code,
+.markdown-reading-view blockquote,
+.markdown-reading-view table,
+.print h1,
+.print h2,
+.print h3,
+.print h4,
+.print h5,
+.print h6,
+.print li,
+.print pre,
+.print code,
+.print blockquote,
+.print table {
+  text-indent: 0 !important;
+}
+
