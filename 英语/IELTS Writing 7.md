@@ -86,4 +86,5 @@ solution：
 5. 改善让步段
 6. 改善表达
 
-开头:  As technology development and the growth of the to entertain  has increasingly become a focal point of public concern,  the decrease of people visiting art gallaries has profound implications for individuals and society alike. This essay will first analyse the two dominant underlying causes of this trend and then evaluate its potential effects./solutions
+开头:  With technology advances(要体现进步就得用advances而不是development) , the diversification of entertainment options and consumers’ increasing price sensitivity ,  the decrease of people visiting art gallaries has profound implications for individuals and society alike. This essay will first analyse the two dominant underlying causes of this trend and then evaluate its potential solutions.
+
