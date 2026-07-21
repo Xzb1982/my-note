@@ -82,9 +82,11 @@ Regading the solutions, the supervision of internet companies and the relevant p
 solution：
 3. 增加体验，活动很有趣=》文化体验，去线下体验感更好
 4. 扩大消费群体=》承包学校研学；公司团建；
+总目标：推动人类艺术延续，保护人类艺术价值
 举例的时候要说是哪些国家
 5. 改善让步段
 6. 改善表达
 
-开头:  With technology advances(要体现进步就得用advances而不是development) , the diversification of entertainment options and consumers’ increasing price sensitivity ,  the decrease of people visiting art gallaries has profound implications for individuals and society alike. This essay will first analyse the two dominant underlying causes of this trend and then evaluate its potential solutions.
+开头:  With technology advances(要体现进步就得用advances而不是development) , the diversification of entertainment options and workforces' increasing emphasis on cost-effectiveness ,  the decrease of people visiting art gallaries has profound implications for individuals and society alike. This essay will first analyse the two dominant underlying causes of this trend and then evaluate its potential solutions.
 
+One of the primary driving forces behind the decrease is the rapidly advance of technology and the diversification of people's entertainment options.Specifically, the growing popularity of the Internet and augmented reality make everyone admire the fine arts without visiting art museums.As an illustration , many China's art gallaries have digitalized the fine arts in their online galleries and displayed the fine arts through the augmented reality technologies.Another equally significant contributing factor is visiting art galleries on purpose is quite mentally and physically costly to the middle class , who is the important one of the major consumers' group of the art museums.For instance, more and more middle class families preferred entertained resorts , which providing more recreational value, to art galleries or historic sites which required not only to experience them offline , but also visitors' thinking and self-inspiration.
