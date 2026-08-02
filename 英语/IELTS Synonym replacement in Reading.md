@@ -151,7 +151,7 @@ ParagraphB :  Contrary to popular belief, procrastination is not due to lazines
  D. prioritising tasks according to their importance（这里只有一个task 所以不涉及多个task的轻重缓急）
 E. avoiding things that stop us concentrating on our tasks
 
-你可以通过单复数、时态来纠选项的一些小细节
+==**你可以通过单复数、时态来纠选项的一些小细节**==
 
 ParagraphF： An important first step is to manage our environment and how we view the task. There are a number of evidence-based strategies that can _「Q25-26」_ _「Q25-26」_ _「Q25-26」_ help us fend off distractions that can occupy our minds when we should be focusing on the thing we should be getting on with. ==For example, reminding ourselves about why the task is important and valuable can increase positive feelings towards it.== Forgiving ourselves and feeling compassion when we procrastinate can help break the procrastination cycle. We should admit that we feel bad, but not be overly critical of ourselves. _「Q15」_ We should remind ourselves that we're not the first person to procrastinate, nor the last. Doing this can take the edge off the negative feelings we have about ourselves when we procrastinate. This can all make it easier to get back on track.
 
