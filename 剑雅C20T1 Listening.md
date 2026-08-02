@@ -68,3 +68,71 @@ It's not the kind of place you leave feeling hungry though, is it? With tiny por
 9、30
 
 10、tiny
+
+
+11Heather says pottery differs from other art forms because![](https://pc-new.ieltsbro.com/_next/static/media/analysis_listen_pic.03b23daf.png)
+
+ ![](https://pc-new.ieltsbro.com/_next/static/media/input_radio_correct.25c8d6a3.png) it lasts longer in the ground.
+
+ it is practised by more people.
+
+ it can be repaired more easily.
+ 4」
+
+「Q11」Like many people, I'm sure you know that pottery as an art form is tens of thousands of years old, and we know this because it stands the test of time.
+「5」
+
+「Q11」Things like baskets and pictures don't survive in the earth in the same way that pots do.
+
+17-18Which TWO things does Heather explain about kilns?![](https://pc-new.ieltsbro.com/_next/static/media/analysis_listen_pic.03b23daf.png)
+
+ ==**A. what their function is**==
+
+ B. when they were invented
+
+ C. ways of keeping them safe
+
+ D. where to put one in your home
+
+ ==**E. what some people use instead of one**==
+
+「23」
+
+「Q17-18」Basically, a kiln removes the water from clay at temperatures of around a thousand degrees Celsius. This allows anything you've made to set permanently in shape.
+
+「24」
+
+It's a pretty ugly, heavy object that's hard to keep in a house or flat so most people don't have one.
+
+「25」
+
+「Q17-18」You may think, "Can't I use my oven?" Well, that's possible but domestic ovens don't really get hot enough and eventually the clay will crack and fall apart.
+E的答案在这
+「26」
+
+「Q17-18」Some people fire pottery in a fire pit outside – but bear in mind that can be dangerous.
+注意这里只是说fire pit（火堆）危险
+「27」
+
+「Q17-18」You also need to know about safety procedures for kilns as they release toxic compounds into the air.
+
+
+19-20Which TWO points does Heather make about a potter's tools?
+
+
+ A. Some are hard to hold.
+
+ B. Some are worth buying.
+
+ ==**C. Some are essential items.**==  basic tools 
+
+ D. Some have memorable names.
+
+ ==**E. Some are available for use by participants.**==  a few tools  .... we can provide
+「32」
+
+「Q19-20」However, there are some basic tools that you will need to handle the clay on the wheel. Some look very strange and have even odder names that you may find hard to remember.
+
+「33」
+
+「Q19-20」Rather than go through them all now, I'll just name a few tools as we go along. We can provide these and I wouldn't recommend spending money on them yet.
