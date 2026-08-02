@@ -136,3 +136,110 @@ E的答案在这
 「33」
 
 「Q19-20」Rather than go through them all now, I'll just name a few tools as we go along. We can provide these and I wouldn't recommend spending money on them yet.
+
+
+21-22Which TWO things do the students both believe are responsible for the increase in loneliness?
+
+ A. social media
+ B. smaller nuclear families
+ ==**C. urban design**==
+ D. longer lifespans
+ ==**E. a mobile workforce**==
+
+「Q21-22」Did you come to any conclusions about ==**what the reasons for the increase are?**==
+
+「5」
+
+Well, I'd assumed it was mainly an issue for the elderly – but in fact it's something which affects young people just as much.
+
+「6」
+
+Mmm. So ==**nothing really to do with longer lifespans**==. What about social media?
+否定D
+「7」
+
+In my case, ==**far from**== making me feel isolated, it actually does the ==**opposite**==.
+否定A
+「8」
+
+「Q21-22」It definitely does ==more good== than harm. I'd say loneliness has a lot to do with the way ==**cities are designed**== – people living in high-rise flats with not much opportunity to speak to their neighbours.
+
+「9」
+
+「Q21-22」I ==**think you're right.**==
+肯定了C
+「10」
+
+Another possible reason is that people are having fewer children and don't live in large extended family groups.
+
+「11」
+
+But, in this country anyway, that all changed decades ago and yet loneliness is a more recent problem.
+
+「12」
+
+「Q21-22」I suppose so. A more plausible explanation is that people are having to ==**move around for work**== and often end up living miles away from their family and friends.
+
+「13」
+
+「Q21-22」==**That's true.**==
+肯定了E
+
+27When comparing loneliness to depression, the students
+
+ ==**doubt that there will ever be a medical cure for loneliness.**==
+
+ ![](https://pc-new.ieltsbro.com/_next/static/media/input_radio_error.34245179.png) claim that the link between loneliness and mental health is overstated.
+
+ express frustration that loneliness is not taken more seriously.
+「29」
+
+「Q27」OK. So, loneliness and depression are clearly related and that's been recognised by various governments around the world. But unlike depression, loneliness has no recognised clinical form.
+
+「30」
+
+「Q27」There's no available diagnosis or ==**effective treatment**== – and that's not likely to change.
+
+29==**The students agree**== that talking to strangers is a good strategy for dealing with loneliness because（需要两个学生都同意）
+
+ it creates a sense of belonging.
+
+ it builds self-confidence.
+
+ ![](https://pc-new.ieltsbro.com/_next/static/media/input_radio_error.34245179.png) it makes people feel more positive.
+35」
+
+「Q29」Yeah. We could discuss ways of dealing with loneliness as well. Like just talking to strangers.
+
+「36」
+
+「Q29」Loads of studies have shown that interactions with shop assistants and bar staff make people feel ==**more optimistic and relaxed.**==
+
+「37」
+
+「Q29」==**I don't know about that**== but it must make people feel more connected with their community.
+否定了C
+「38」
+
+「Q29」==**True**==. Although you need to be a certain kind of person to be able to just strike up a conversation.
+肯定了A
+
+30The students find it difficult to understand why solitude is considered to be
+
+ similar to loneliness.
+
+ ![](https://pc-new.ieltsbro.com/_next/static/media/input_radio_error.34245179.png) necessary for mental health.
+
+ an enjoyable experience.
+「40」
+
+「Q30」It's strange the way some people can't stand being by themselves while others love it.
+
+「41」
+
+「Q30」Yeah. The research shows a certain amount of solitude is beneficial for well-being, which I appreciate – ==**but being alone isn't something I actually like**==. I'd never ==**choose to go on holiday alone**==, for example.
+肯定了B，但是这里需要选择的是：“学生们难以理解的”，所以应该选择C
+而A是学生们能理解的
+「42」
+
+「Q30」Me neither.
