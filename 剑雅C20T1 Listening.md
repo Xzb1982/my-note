@@ -1,5 +1,11 @@
 Questions 1-10
 
+首先，听力先看题，定词性，然后一定要认真听意思
+
+优先写小写， 或者和题目一样来写
+
+一定会出现一个拼写题，数字题，请注意听，还有一些特殊表达例如double zero
+
 Complete the table below.
 
 Write ONE WORD AND/OR A NUMBER for each answer.

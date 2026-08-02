@@ -1,3 +1,4 @@
+先看题型，看那些题是填空，优先做填空；接着看题目，要大概了解是讲什么的；最后再回去看文章
 3Adult male kakapo bring food back to nesting females.![](https://pc-new.ieltsbro.com/_next/static/media/analysis_read_pic.8d62dc9e.png)
 
  TRUE
