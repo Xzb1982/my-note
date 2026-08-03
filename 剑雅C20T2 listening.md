@@ -211,3 +211,13 @@ And what people forget is that they often used quite dangerous materials – che
 「39」
 
 「Q28」You're right.
+
+Part 4
+
+**Ethical concerns**  
+  
+• Quinoa:  
+  
+   - Its success led to an increase in its    39. price
+  
+   - Overuse of resources resulted in poor quality  40.soil
