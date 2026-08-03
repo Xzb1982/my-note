@@ -247,9 +247,16 @@ Part4
 
 「6」
 
-「Q32」Universal design aims to make products that work for everyone and that includes considering the needs of people who have cognitive difficulties, which can present quite a challenge.
+「Q32」Universal design aims to make products that work for everyone and that includes considering the needs of people who have ==**cognitive difficulties**==, which can present quite a challenge.
 
- - PPE jackets are often unsuitable because of the size of women's  .
-「27」
 
-「Q38」The problem with this is that women can be tall and still have much smaller shoulders than the average man. Ill-fitting PPE such as hi-vis jackets, vests and body armour can put women at risk.
+• To assist the elderly:
+
+  - designers avoid using   in interfaces
+ 「13」
+
+「Q35」For example, it's well known that vision declines with age, and that we also become worse at distinguishing between similar colours; in particular, shades of blue,
+
+「14」
+
+「Q35」which is why software designers rarely create interfaces with this colour.
