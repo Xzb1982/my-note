@@ -181,7 +181,7 @@ Opinions
 Same in my area.
 注意，这里sport center两者都对此感到不怎么开心，因为都没有在两位所在的城市里面增设
 
-28The students agree that developing disused industrial sites may![](https://pc-new.ieltsbro.com/_next/static/media/analysis_listen_pic.03b23daf.png)
+28The students agree that developing disused industrial sites may
 
  ![](https://pc-new.ieltsbro.com/_next/static/media/input_radio_correct.25c8d6a3.png) have unexpected costs.
 
