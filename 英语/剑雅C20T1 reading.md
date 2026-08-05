@@ -48,3 +48,15 @@ For hundreds of years, the only tree that was more popular in Britain than elm
 ![[Pasted image 20260805111423.png]]
 _「Q26」_ It was also suitable for items that experienced high levels of impact and was used to build the keel of the 19th-century sailing ship Cutty Sark as well as mining equipment.
 注意不要被坑了，是the keel of the ship
+
+
+PART 3
+
+37Phones have a greater impact on our stress levels than other electronic media devices.
+
+ YES
+
+ NO
+
+ ![](https://pc-new.ieltsbro.com/_next/static/media/input_radio_correct.25c8d6a3.png) NOT GIVEN
+题目是not given 还是 no，取决于==**能不能在满足原文的情况下，构造出两种可能性，也就是能证成题干的情况和证伪题干的情况都能被构造出来**==，如果两种情况都可被构造，那么NOT GIVEN 就可以入选
