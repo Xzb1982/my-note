@@ -18,4 +18,33 @@ Kākāpō breed in summer and autumn, but only in years when food is plentiful.�
  • the Recovery Plan included an increase in .
 
 
-In 1996, a new Recovery Plan was launched, together with a specialist advisory group called the Kākāpō Scientific and Technical Advisory Committee and ==**a higher amount of funding**==. Renewed steps were taken to control predators on the three islands. Cats were eradicated from Little Barrier Island in 1980, and possums were eradicated from Codfish Island by 1986. However, the population did not start to increase until rats were removed from all three islands, and the birds were more intensively managed. This involved moving the birds between islands, supplementary feeding of adults and rescuing and hand-raising any failing chicks.
+
+
+
+
+19  If a tree gets infected with Dutch elm disease, the damage rapidly becomes visible.  
+  
+20  It may be better to wait and see if the mature elms that have survived continue to flourish.
+
+
+F   Any prospect of the elm returning relies heavily on trees being either resistant to, or tolerant of, the disease. This means a widespread reintroduction would involve existing or new hybrid strains derived from resistant, generally non-native elm species. A new generation of seedlings have been bred and tested to see if they can withstand the fungus by cutting a small slit on the bark and injecting a tiny amount of the pathogen. _「Q19」_ 'The effects are very quick,' says Russell. 'You return in four to six weeks and trees ==**that**== are resistant show no symptoms, whereas(然而，但是（用以比较或对比两个事实）) ==**those**== that are susceptible show leaf loss and may even have died completely.'
+
+F 任何榆树回归的前景都在很大程度上有赖于树种要么可以抵抗、要么则可以承受荷兰榆树病。这就意味着，广泛的重新种植将会使用到已有或新培育的杂交树种，源自抗病的、基本并非本土原产的榆树品种。已经培育了新一代的小树苗并测试了它们能否扛住病菌，采用的方法是在树皮上切一个小口子、注射进少量的致病菌。"效果立竿见影，"==**Russell说**==。"你在四到六周后再回来看，那些抗病的树木不会显示任何病症，==**而**==那些感染了病菌的树木则明显大量落叶且也许甚至已经完全死亡。"
+
+G   All of this raises questions of social acceptance, acknowledges Russell. 'If we're putting elm back into the landscape, a small element of it is not native - are we bothered about that?' _「Q15」_ For her, the environmental case for reintroducing elm is strong. 'They will host wildlife, which is a good thing.' Others are more wary. 'On the face of it, it seems like a good idea,' says Elliot. The problem, he suggests, is that, 'You're replacing a native species with a horticultural analogue*. You're effectively cloning.' There's also the risk of introducing new diseases. Rather than plant new elms, the Woodland Trust emphasises providing space to those elms that have survived independently. _「Q20」_ 'Sometimes the best thing you can do is just give nature time to recover ... over time, you might get resistance,' says Elliot.
+
+G 所有这一切引发了社会认可的问题，Russell承认道。"如果我们要将榆树安放回乡村景致中去，它身上就会有一个元素不是土生土长的——我们会对此感到烦恼么？"对她来说，重新引入榆树的环保理由是强大的。"它们将会庇护一众野生生物，这是件好事。"另一些人则更加谨慎。"表面上看来，这似乎是个好主意，"==**Elliot这样说**==。但他也指出，问题在于，"你是在用一种园艺模拟品替代一个本土品种。你实际上就是在克隆。"还存在引入新疾病的风险。比起种植新榆树，林地信托强调的是给那些凭一己之力存活下来的榆树提供空间。"有时候你所能做的最好的事，不过是给自然留出恢复的时间......一段时间之后，你也许就得到了抵抗力，"Elliot这样说。
+
+注意NB  ==**You may use any letter more than once.**==
+NB指的是 nota bene 特别注意，==**但是最近机考不再出现NB而只是写上 u may use any letter > 1次**==
+
+
+ **Uses of a popular tree**
+
+  
+  
+For hundreds of years, the only tree that was more popular in Britain than elm was  .Starting in the Bronze Age, many tools were made from elm and people also used it to make weapons. In the 18th century, it was grown to provide wood for boxes and   . Due to its strength, elm was often used for mining equipment and the Cutty Sark's   was also constructed from elm.
+
+![[Pasted image 20260805111423.png]]
+_「Q26」_ It was also suitable for items that experienced high levels of impact and was used to build the keel of the 19th-century sailing ship Cutty Sark as well as mining equipment.
+注意不要被坑了，是the keel of the ship
