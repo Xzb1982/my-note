@@ -45,7 +45,7 @@
 
 Tokyo是这六个城市当中载客量最大的城市，达到了1927million每年
 **1.小标题做主语**
-The number of passengers in Tokyo was the highest among the six mentioned cities,reaching 1927 million per year./which reached/at 1927 million
+The number of passengers in Tokyo was the highest among the six ==**mentioned cities**==,reaching 1927 million per year./which reached/at 1927 million
 
 **2.城市做主语**
 弱动词：have/get/let/make
