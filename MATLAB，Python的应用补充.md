@@ -29,4 +29,28 @@ for循环完整的参数的写法是
 也就是：起点：步长：终点
 
 MATLAB构造函数
-![[Pasted image 20260810140656.png]]
+![[Pasted image 20260810140656.png]]![[Pasted image 20260810145116.png]]
+
+![[Pasted image 20260810145407.png]]
+你可以发现这里有个步进，也就是进入这个子函数，那么进入这个子函数，运算完了之后继续下一步，就直接出结果了
+
+MATLAB绘图
+![[Pasted image 20260810150237.png]]
+
+![[Pasted image 20260810150507.png]]
+![[Pasted image 20260810150710.png]]
+在这里，就相当于创建了一个year序列，从0到10，然后步长为2
+
+![[Pasted image 20260810150857.png]]
+population = zeros(1行，11列)
+这个是构建全0矩阵的语句
+
+![[Pasted image 20260810151502.png]]
+
+![[Pasted image 20260810151708.png]]
+
+![[Pasted image 20260810151804.png]]
+
+可以看一下上面的，怎么一步步画图的
+
+相应的，python代码的画图，如图所示：![[Pasted image 20260810152011.png]]
