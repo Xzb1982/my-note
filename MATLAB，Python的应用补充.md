@@ -20,3 +20,13 @@ close all
 ![[Pasted image 20260810132651.png]]
 ![[Pasted image 20260810132605.png]]
 上图是matlab条件选择逻辑的程序写法
+
+MATlab for循环的编写
+
+![[Pasted image 20260810135152.png]]
+for循环完整的参数的写法是
+![[Pasted image 20260810135546.png]]
+也就是：起点：步长：终点
+
+MATLAB构造函数
+![[Pasted image 20260810140656.png]]
