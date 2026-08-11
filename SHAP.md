@@ -1,6 +1,9 @@
 
 [[SHAP]]
 	SHAP的全称是 **SHapley Additive exPlanations**，即“基于夏普利值的加性解释方法”。
+	SHAP和模型无关，它是一种解释算法，也就是把模型的运用机制解释出来；
+	==**对于每个模型，SHAP需要针对不同模型做不同的解释**==，你可以访问这个网站看一下SHAP是怎么解释其他模型的，包括线性回归。[具有Shapley值的可解释人工智能介绍——SHAP最新文档](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html)
+	SHAP在决策树回归的应用
 		对某一个具体样本，模型为什么会预测出这个结果？每个自变量分别把预测值提高或降低了多少？
 		SHAP把模型的预测结果分解为：
 		$$f(x) = E[f(X)]+ \sum^p_{j=1} \phi_{j}$$
@@ -46,3 +49,4 @@
 		是否参与辅导班的X2的SHAP值：$$\frac{1}{2}(65-60) + \frac{1}{2}(80-72) = 6.5$$
 		那么==**这名学生的两个变量的贡献可以分解为：预测成绩 = 平均预测成绩+学习时间贡献+辅导班贡献==**
 		**==具体为：80=60+13.5+6.5**==
+	
