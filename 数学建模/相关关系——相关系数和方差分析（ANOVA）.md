@@ -203,3 +203,29 @@ ANOVA方差分析
 				\end{align*} $$
 				最后残差为：$$e_{ij} =x_{ij}-\hat{x}_{ij} =x_{ij}-\bar{x_{i·}}-\bar{x_{·j}}+\bar{x}$$
 		类似地，我们也是用SSR除上对应自由度，SSC除上对应的自由度，分别和除上自由度的SSE比较，如果比值接近于1就说明行/列因素对要研究的对象没啥影响；>1就说明有显著影响
+		自由度分别是：
+			SST:kr-1
+			SSR:k-1
+			SSC:r-1
+			SSE:(k-1)(r-1)
+		检验统计量F:
+			行因素统计量F：$$F_{R} = \frac{MSR}{MSE} \sim F(k-1,(k-1)(r-1))$$
+			列因素统计量F:$$F_{C} = \frac{MSC}{MSE} \sim F(r-1,(k-1)(r-1))$$
+		统计决策
+			![[Pasted image 20260813110021.png]]
+		例题
+			![[Pasted image 20260813110058.png]]
+		无交互双因素ANOVA的关系强度测量
+			还是用到R^2 = (SSR+SSC)/SST
+			![[Pasted image 20260813110257.png]]
+		有交互双因素方差分析
+			![[Pasted image 20260813110404.png]]
+			首先先提出假设：
+				![[Pasted image 20260813110428.png]]
+			之后构造统计量：
+				先计算平方和![[Pasted image 20260813110500.png]]
+				这里的平方和多了一个，相当于总公式变成：
+				$$x_{ij}= \mu+\alpha_{i}+\beta_{j}+ \alpha_{i}\beta_{j}+\epsilon_{ij}$$
+				![[Pasted image 20260813110607.png]]
+				![[Pasted image 20260813110712.png]]
+				![[Pasted image 20260813110748.png]]
