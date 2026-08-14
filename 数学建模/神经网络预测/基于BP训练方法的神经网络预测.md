@@ -103,6 +103,8 @@ f(x) = \frac{1}{1+e^{-x}},那么有：(\hat{y^k_{j}})' = \hat{y^k_{j}}(1-\hat{y^
 				于是我知道了：每次学习率的迭代，会让权重和阈值调整，我的目标是让误差尽可能小
 				这也是为什么我们需要算力，因为这让我们可以尽可能迭代得更多，从而让误差尽可能小
 
+
+
 相关代码
 	首先import numpy pandas
 	还有from sklearn.preprocessing import StandardScaler（标准化模块）
