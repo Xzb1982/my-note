@@ -105,12 +105,32 @@ This excitement over the search for psychological underpinnings of economics con
 Other strands of what became institutionalism are not so traceable to Veblen’s influence. Many institutionalists, including Hamilton, J. M. Clark, John R. Commons, and Robert L. Hale had significant interests in issues of law and economics. Indeed, Commons’s classification as an institutionalist grew out of his 1924 book, The Legal Foundations of Capitalism. Commons’s approach was built on his notions of the pervasiveness of distributional conflicts, of legislatures and courts as attempting to resolve conflicts (at least between those interest groups with representation), and of the evolution of the law as the outcome of these ongoing processes of conflict resolution. At the micro level, he developed his concept of the “transaction” as the basic unit of analysis. In turn, the terms of transactions were determined by the structure of “working rules,” including legal rights, duties, liberties, and exposures, and by economic (bargaining) power. More generally, the institutionalist interest in law and economics covered topics such as the evolution of property rights, the legal context of transactions, intangible property and goodwill, valuation of public utilities, rate regulation, many issues in labor law, collective bargaining, health and safety regulations, and consumer protection. It should be noted that both Hamilton and Hale moved into law schools and that they had close connections with legal scholars of the realist school and with a number of Supreme Court justices.  
 构成制度主义的另一些思想脉络，并不能像前述思想那样明确地追溯到凡勃伦的影响。许多制度主义者，包括汉密尔顿、J. M. 克拉克、约翰·R·康芒斯和罗伯特·L·黑尔，都对法律与经济学问题抱有浓厚兴趣。事实上，康芒斯之所以被归为制度主义者，正是源于他在 1924 年出版的《资本主义的法律基础》。康芒斯的理论建立在以下观念之上：分配冲突无处不在；立法机关和法院试图解决这些冲突（至少解决那些有利益集团代表参与的冲突）；而法律的演变则是这些持续不断的冲突解决过程所产生的结果。在微观层面上，他提出了“交易”这一概念，将其视为分析的基本单位。反过来，交易的条款由“工作规则”的结构——包括法律权利、义务、自由和承担的风险——以及经济（讨价还价）力量所决定。 更广泛地说，制度主义者对法律与经济学的兴趣涵盖了诸多主题，例如产权的演变、交易的法律背景、无形财产与商誉、公用事业估值、费率管制、劳动法中的许多问题、集体谈判、健康与安全法规，以及消费者保护。需要指出的是，Hamilton 和 Hale 后来都进入了法学院任教，并且与现实主义法学派的法律学者以及多位最高法院大法官保持着密切联系。
 
-veblen的有一些影响并不能很明确地推导到旧制度主义经济学的一些思想脉络
+Except for material on intangible property, little of this emphasis on law and economics came directly from Veblen. The major sources were the legaleconomic work of Richard Ely (who taught Commons) and H. C. Adams (who taught Hamilton). They, in turn, had been very much impacted by their exposure to the German historical school. The German historical influence was extremely strong in American economics in the 1880s and 1890s,  and this influence fed into institutionalism.   
+除了有关无形财产的材料之外，这种对法律与经济学的重视很少直接源自 Veblen。其主要来源是 Richard Ely（Commons 曾师从于他）和 H. C. Adams（Hamilton 曾师从于他）在法律与经济学方面的著述。他们本人则深受德国历史学派影响。德国历史学派的影响在 19 世纪 80 年代和 90 年代的美国经济学界极为强烈，  而这种影响也融入了制度主义。
+
+旧制度主义中有些思想脉络，不能像前面讨论的心理学和演化论脉络那样明确地追溯到凡勃伦。法律—经济学就是其中一条相对独立的思想脉络。
 	许多旧制度主义经济学，例如Hamilton,  Clark, Commons, Hale对法律与经济学问题抱有浓厚兴趣
 	commons被归为制度主义者，源于他的《资本主义的法律基础》
 		commons认为：分配冲突无处不在；立法机关和法院（司法机关）试图解决这些分配冲突
 		而法律的演进则是这些持续不断的冲突在不断地解决之中产生的结果
 		在微观层面上，commons提出了"交易"，并将其视为分析的基本单位
+			传统经济学通常把分析单位理解为：
+				- 古典经济学：劳动和商品生产；
+				- 边际效用理论：个人及其消费选择；
+				- 康芒斯的制度经济学：人与人之间的交易关系。
+				康芒斯认为，一件商品在实际交付以前，参与者首先必须确定：
+					- 谁拥有该商品；
+					- 谁有权出售；
+					- 谁有义务付款；
+					- 违约后谁可以要求法院强制执行；
+					- 雇主有什么权力；
+					- 劳动者有哪些自由；
+					- 哪些行为受到法律保护；
+					- 哪些损失只能由当事人自己承担。
+			除了有关无形财产的材料之外，这种对法律与经济学的重视很少直接源自 Veblen
+			主要来源是 Richard Ely（Commons 曾师从于他）和 H. C. Adams（Hamilton 曾师从于他）在法律与经济学方面的著述。
+				而他们本人深受德国历史学派影响
+				德国历史学派的影响在 19c80s-19c90s的美国经济学界极为强烈，而这种影响也融入了制度主义。
 	广泛地来讲，旧制度主义经济学对法律和经济学的兴趣涵盖了很多主题
 		例如：产权的演变、
 		交易的法律背景、
@@ -123,41 +143,106 @@ veblen的有一些影响并不能很明确地推导到旧制度主义经济学�
 		消费者保护
 		实际上Hamilton 和 Hale 后来都进入了法学院任教并与现实主义法学家等保持着密切联系
 
-Except for material on intangible property, little of this emphasis on law and economics came directly from Veblen. The major sources were the legaleconomic work of Richard Ely (who taught Commons) and H. C. Adams (who taught Hamilton). They, in turn, had been very much impacted by their exposure to the German historical school. The German historical influence was extremely strong in American economics in the 1880s and 1890s,  and this influence fed into institutionalism.   
-除了有关无形财产的材料之外，这种对法律与经济学的重视很少直接源自 Veblen。其主要来源是 Richard Ely（Commons 曾师从于他）和 H. C. Adams（Hamilton 曾师从于他）在法律与经济学方面的著述。他们本人则深受德国历史学派影响。德国历史学派的影响在 19 世纪 80 年代和 90 年代的美国经济学界极为强烈，  而这种影响也融入了制度主义。
+
 
 Finally, and of tremendous importance to the attraction of institutionalism, was the claim that it represented the ideal of empirical science.  The major influence here was Wesley Mitchell’s combination of Veblenian ideas concerning the significance of the institutions of the “money economy”-an economy characterized by general recourse to market transactions, business conducted for profit, developed monetary and banking institutions, corporate finance, and a complex and closely interrelated price system-with the quantitative and statistical approach he had absorbed as a student at Chicago. Early in his career, Mitchell had begun work on an empirical examination of the evolution and functioning of the institutions of the “money economy,” including their development out of the manorial system of labor dues (Mitchell, 1910 [1996]), but in 1910 he abandoned this project as too large and too speculative and refocused on just one part of it. This resulted in Mitchell’s (1913) book Business Cycles, a work that was widely regarded at the time as a paradigm for a scientific economics. Mitchell thought of business cycles as a phenomenon arising out of the patterns of behavior generated by the institutions of a developed money economy (Mitchell, 1927, pp. 61-188). In his Presidential Address to the American Economic Association, and in other papers, he explicitly connected quantitative work and the institutional approach, arguing that it is institutions that create the regularities in the behavior of the mass of people that quantitative work analyses (Mitchell, 1924, 1925). This idea was not limited to Mitchell, but was also expressed in the work of other institutionalists of quantitative bent, such as F. C. Mills, Morris Copeland, and Willard Thorp.  
 最后，对制度主义的吸引力而言极其重要的一点，是它声称自己代表了经验科学的理想。  这里的主要影响来自韦斯利·米切尔：他将凡勃伦关于“货币经济”制度重要性的思想——这种经济的特征是普遍诉诸市场交易、以营利为目的的经营活动、发达的货币和银行制度、公司金融，以及复杂且紧密相互关联的价格体系——与他在芝加哥求学期间所吸收的定量和统计方法结合起来。米切尔在其职业生涯早期就开始对“货币经济”制度的演变和运行进行经验性研究，其中包括考察这些制度如何从劳役地租的庄园制度中发展而来（Mitchell，1910 [1996]）；但在 1910 年，他认为这一课题过于庞大且推测性太强，遂放弃了整个项目，转而专注于其中的一个部分。由此产生了米切尔（1913）的《商业周期》一书；当时，人们普遍将这部著作视为科学经济学的典范。 米切尔认为，商业周期是由发达货币经济的制度所产生的行为模式所引起的一种现象（Mitchell，1927 年，第 61—188 页）。在他为美国经济学会所作的主席演讲以及其他论文中，他明确地将定量研究与制度分析方法联系起来，认为正是制度造就了社会大众行为中的规律性，而定量研究正是对这种规律性进行分析（Mitchell，1924 年、1925 年）。这一观点并非米切尔一人所独有，其他具有定量研究倾向的制度主义者，如 F. C. Mills、Morris Copeland 和 Willard Thorp，也在其著作中表达了类似看法。
 
-Institutionalism was held to be more “scientific” than orthodox economics because it was both more empirical and more in line with the latest research in other related disciplines. Of course, the institutionalist ideal of a scientific economics by no means excluded theory, but such theory was supposed to be closer to reality and more open to empirical testing than “orthodox” theory. In the institutionalist vision, empirical evidence was not limited to quantitative and statistical methods, but could include case studies, documentary evidence (trade union  
-制度主义之所以被认为比正统经济学更“科学”，是因为它不仅更注重经验，而且更符合其他相关学科的最新研究成果。当然，制度主义者所理想的科学经济学绝不排斥理论，但这种理论应当更贴近现实，也比“正统”理论更易接受经验检验。在制度主义者的构想中，经验依据并不局限于定量和统计方法，还可以包括案例研究、文献证据（工会
+对于为什么旧制度主义经济学具备吸引力
+	其原因在于旧制度主义经济学声称自己代表了经验科学的理想
+		Mitchell将veblen关于“货币经济”制度重要性的思想与他在芝加哥期间所吸收的定量和统计方法结合。
+			veblen的这种经济的特征是==普遍诉诸市场交易、以营利为目的的经营活动、发达的货币和银行制度、公司金融，以及复杂且紧密相互关联的价格体系==
+		Mitchell在其职业生涯早期就开始对==“货币经济”制度的演变和运行==进行经验性研究，其中包括考察==**这些货币制度如何从劳役地租的庄园制度**==中发展而来（Mitchell，1910 [1996]）；
+		但在 1910 年，他认为这一课题过于庞大且推测性太强，遂放弃了整个项目，==转而专注于其中的一个部分==。
+			由此产生了米切尔（1913）的《商业周期》一书；当时，人们普遍将这部著作视为科学经济学的典范。
+			Mitchell：商业周期是由==**发达货币经济的制度所产生的行为模式所引起的**==一种现象
+			mitchell明确地将==**定量研究与制度分析方法联系起来**==，认为正是==**制度造就了社会大众行为中的规律性，而定量研究正是对这种规律性进行分析**==
+				其他具有定量研究倾向的制度主义者，如 F. C.米尔斯 、Morris Copeland 和 Willard Thorp，也在他们自己的著作中表达了类似看法。
 
-constitutions, for example), and the study of judicial opinions and court decisions. In this spirit, J. M. Clark (1927, p. 221) argued:  
-例如宪法），以及对司法意见和法院判决的研究。本着这种精神，J. M. Clark（1927 年，第 221 页）提出：
+这里的货币经济，指的是：生产、交换、融资和资源配置普遍通过==**市场交易、货币价格、利润核算和信用关系**==来组织的一整套经济制度。
+
+Institutionalism was held to be more “scientific” than orthodox economics because it was both more empirical and more in line with the latest research in other related disciplines. Of course, the institutionalist ideal of a scientific economics by no means excluded theory, but such theory was supposed to be closer to reality and more open to empirical testing than “orthodox” theory. In the institutionalist vision, empirical evidence was not limited to quantitative and statistical methods, but could include case studies, documentary evidence (trade union constitutions, for example), and the study of judicial opinions and court decisions. In this spirit, J. M. Clark (1927, p. 221) argued:  
+制度主义之所以被认为比正统经济学更“科学”，是因为它不仅更注重经验，而且更符合其他相关学科的最新研究成果。当然，制度主义者所设想的科学经济学绝不排斥理论；但他们认为，理论应当更加贴近现实，比“正统”理论更便于用经验材料加以检验，并能够根据检验结果进行修正。在制度主义者的构想中，经验依据并不局限于定量和统计方法，还可以包括案例研究、文献证据（例如工会宪法），以及对司法意见和法院判决的研究。本着这种精神，J. M. Clark（1927 年，第 221 页）提出：
 
 Economics must come into closer touch with facts and embrace broader ranges of data than “orthodox” economics has hitherto done. It must establish touch with these data, either by becoming more inductive, or by much verification of results, or by taking over the accredited results of specialists in other fields, notably psychology, anthropology, jurisprudence and history. Thus the whole modern movement may be interpreted as a demand for procedure which appears more adequately scientific . . .  
-经济学必须更加贴近事实，并涵盖比“正统”经济学迄今所涵盖的更广泛的数据范围。它必须与这些数据建立联系：要么使自身变得更加归纳，要么大幅加强对研究结果的验证，要么采纳其他领域专家所认可的研究成果，尤其是心理学、人类学、法学和历史学领域的成果。因此，整个现代运动都可以被理解为一种要求采用更为充分、更加科学的研究程序的呼声……
+经济学必须同事实建立更密切的联系，并把比“正统”经济学迄今所采用的范围更广的经验材料纳入研究。它必须真正同这些经验材料结合起来：或者更多地采用归纳方法，从事实材料中形成一般性结论；或者对研究所得的结论进行广泛的经验检验；或者吸收其他领域专家已经取得并获得认可的研究成果，尤其是心理学、人类学、法学和历史学领域的成果。因此，整个这一现代思想运动，可以被理解为要求采用一种更充分地符合科学标准的研究程序……
+
+旧制度主义经济学被认为比正统的经济学更科学的原因
+	1.不仅注重经验，也符合其他相关学科的最新研究
+		旧制度主义经济学觉得==这些理论应当更贴近现实==，而且比正统理论更方便地==使用经验材料加以检验，而且能根据检验结果进行修正==
+		对于旧制度主义经济学，检验依据可以包含很多，例如案例研究、司法意见、文献证据等
+		clark基于此提出：
+			经济学必须更加贴近事实，而且需要比正统的经济学涵盖更广的材料；
+			这种经济学必须和这些数据建立起联系
+				1.更多地采用归纳方法
+				2.从事实材料中得到一般性结论
+				3.对研究所得到的结论进行更为广泛的经验检验
+				4,.或者吸收其他领域专家的研究成果
+			
+	
+
+
 
 In the years just after the end of World War I, the institutionalist agenda seemed full of potential. What was being held out was an approach to economics that claimed to be “modern” and “scientific;” that focused on the critical examination of the existing institutional structure; that was in line with the empirical methods of the exact sciences; that would build upon the latest work in social psychology, philosophy, and law; and that was closely connected to important and pressing issues of economic and social reform (Rutherford, 2000b; Yonay, 1998). This was compared to an “orthodox” neoclassical economics that was presented as based on an outmoded psychology and assumptions that were “unrealistic” in critical ways; difficult to apply to real world policy problems; and subject to little, if any, empirical test.  The institutionalist program attracted a large number of younger economists, and became a significant part of interwar American economics.  
-第一次世界大战结束后的最初几年里，制度主义者的议程似乎充满了潜力。它所倡导的是一种声称“现代”且“科学”的经济学研究路径；这种路径着眼于对现有制度结构进行批判性审视；与精密科学的经验方法相一致；以社会心理学、哲学和法律领域的最新研究成果为基础；并且与经济和社会改革中重要而紧迫的问题密切相关（Rutherford, 2000b；Yonay, 1998）。与之相比，“正统”的新古典经济学被描述为建立在过时的心理学和在关键方面“不切实际”的假设之上；难以应用于现实世界的政策问题；并且几乎不接受经验检验。  制度主义纲领吸引了大批年轻经济学家，并成为两次世界大战之间美国经济学的重要组成部分。
+第一次世界大战结束后的最初几年里，制度主义者的议程似乎充满了潜力。==**它所倡导的是一种声称“现代”且“科学”的经济学研究路径**==；这种路径着眼于对现有制度结构进行批判性审视；与精密科学的经验方法相一致；以社会心理学、哲学和法律领域的最新研究成果为基础；并且与经济和社会改革中重要而紧迫的问题密切相关（Rutherford, 2000b；Yonay, 1998）。与之相比，“正统”的新古典经济学被描述为建立在过时的心理学和在关键方面“不切实际”的假设之上；难以应用于现实世界的政策问题；并且几乎不接受经验检验。  制度主义纲领吸引了大批年轻经济学家，并成为两次世界大战之间美国经济学的重要组成部分。
+
+旧制度主义经济学的特征
+	总特征：“现代”且“科学”的研究路径
+	①对现有制度结构进行批判性审视
+	②对标一些精密科学的精密方法进行研究
+	③以社会心理学、哲学和法律领域的最新研究成果为基础
+	④与经济和社会改革中重要而紧迫的问题联系起来
+而正统的新古典经济学被描述为：
+	建立在过时的心理学和在关键方面“不切实际”的假设之上
+	并且难以应用于现实问题
+	且几乎不受经验检验
+
+随后旧制度主义经济学吸引了大批年轻的经济学家，并成为两次世界大战之间美国经济学的重要组成部分
+
+- 古典经济学：亚当·斯密、李嘉图、约翰·斯图亚特·密尔等。
+- 边际革命与新古典经济学：杰文斯、门格尔、瓦尔拉斯、马歇尔、J. B. 克拉克、费雪等。
+- 旧制度经济学：凡勃伦、米切尔、康芒斯、汉密尔顿等。
+- 凯恩斯经济学：以凯恩斯1936年出版的《就业、利息和货币通论》为标志。
+- 新古典综合：二战后把凯恩斯宏观经济学与新古典微观经济学结合起来，以萨缪尔森等人为代表。
+==**这里的新古典经济学指的是马歇尔的边际理论**==
 
 ## The Ascent of American Institutionalism in the Interwar Period  
 两次世界大战之间美国制度主义的兴起
 
-Institutionalism emerged as a self-identified movement in 1918. The timing had something to do with the end of World War I. The war had impressed upon many the great importance of improved economic data and policy analysis, and of the potential role of government in the economy. The period of reconstruction seemed to offer significant opportunities to bring changes to the conduct of economic research, education, and policy. Hamilton, Stewart, and Harold Moulton were particularly excited by the possibilities, and they, along with Mitchell, planned the 1918 conference session where Hamilton (1919) delivered his manifesto "The Institutional Approach to  
-制度主义于 1918 年作为一场自我认同的运动应运而生。这一时机与第一次世界大战的结束不无关系。战争使许多人深刻认识到，改进经济数据和政策分析的重要性，以及政府在经济中可能发挥的作用。重建时期似乎为改变经济研究、教育和政策的开展方式提供了重大机遇。汉密尔顿、斯图尔特和哈罗德·莫尔顿尤其为这些可能性感到振奋；他们与米切尔共同策划了 1918 年的会议分会，汉密尔顿（1919）在会上发表了他的宣言《制度主义研究路径》热这里只有精品
-
-Economic Theory."  This group also became heavily involved in the establishment of such research institutes as the National Bureau of Economic Research, the (Brookings) Institute of Economics, and in educational experiments such as the New School for Social Research and the Robert Brookings Graduate School.  The Brookings Graduate School ceased as a distinct entity in 1928, but not before it had produced many students of institutionalist leaning-for example Isador Lubin, Mordecai Ezekiel, and Winfield Riefler-all of whom had notable careers in government.  
-经济理论。”  这一群体还积极参与创办了国民经济研究局、（布鲁金斯）经济学研究所等研究机构，以及开展新社会研究学院和罗伯特·布鲁金斯研究生院等教育试验。  布鲁金斯研究生院于 1928 年不再作为一个独立实体存在，但在此之前，它已培养出许多倾向于制度主义的学生——例如伊萨多尔·卢宾、莫迪凯·以西结和温菲尔德·里夫勒——他们后来都在政府部门取得了显著成就。
+Institutionalism emerged as a self-identified movement in 1918. The timing had something to do with the end of World War I. The war had impressed upon many the great importance of improved economic data and policy analysis, and of the potential role of government in the economy. The period of reconstruction seemed to offer significant opportunities to bring changes to the conduct of economic research, education, and policy. Hamilton, Stewart, and Harold Moulton were particularly excited by the possibilities, and they, along with Mitchell, planned the 1918 conference session where Hamilton (1919) delivered his manifesto "The Institutional Approach to  Economic Theory."  This group also became heavily involved in the establishment of such research institutes as the National Bureau of Economic Research, the (Brookings) Institute of Economics, and in educational experiments such as the New School for Social Research and the Robert Brookings Graduate School.  The Brookings Graduate School ceased as a distinct entity in 1928, but not before it had produced many students of institutionalist leaning-for example Isador Lubin, Mordecai Ezekiel, and Winfield Riefler-all of whom had notable careers in government.  
+制度主义于1918年作为一场具有明确自我认同的学术运动出现，其兴起的时间与第一次世界大战结束有一定关系。战争使许多人深刻认识到，改善经济数据（指的是改进经济数据的搜集、整理、统计和发布工作，使数据更加完整、准确、及时并具有可比性。）和政策分析具有十分重要的意义，也使他们看到了政府在经济生活中可能发挥的重要作用。战后重建似乎提供了难得的机会，可以借此改变经济研究、经济教育和经济政策的实践方式。汉密尔顿、斯图尔特和哈罗德·莫尔顿尤其为这些可能性所鼓舞。他们与米切尔共同策划了1918年经济学会议上的一个专题分会，汉密尔顿在会上发表了后来于1919年刊出的宣言性论文《经济理论的制度主义进路》。这批学者随后还深度参与创建了美国国家经济研究局、（布鲁金斯）经济研究所等研究机构，并投身于社会研究新学院和罗伯特·布鲁金斯研究生院等实验性教育项目。1928年，布鲁金斯研究生院不再作为一个独立机构存在；但在此之前，它已经培养了许多具有制度主义倾向的学生，例如伊萨多尔·卢宾、莫迪凯·伊齐基尔和温菲尔德·里弗勒，三人后来都在政府部门取得了相当突出的成就。
 
 Moreover, Columbia and Wisconsin became established as major centers for institutionalism. Columbia had Wesley Mitchell, J. M. Clark, F. C. Mills, Rexford Tugwell, and sympathetic faculty in other areas like James Bonbright in business, William Ogburn in sociology, John Dewey in philosophy, and A. A. Berle, Robert Hale, and Karl Llewellyn in Law.  Gardiner Means joined the economic research staff of the Columbia Law School in 1927. The Wisconsin faculty included John Commons, Edwin Witte, Selig Perlman, Martin Glaeser and several others of institutionalist persuasion. These two universities were among the top four in the production of economics Ph.D.s in the interwar period in America (Froman, 1942). Other institutionalist groups existed at Texas (where Clarence Ayres was hired in 1930), and in a number of other schools and colleges.  
 此外，哥伦比亚大学和威斯康星大学逐渐成为制度主义的重要中心。哥伦比亚大学拥有韦斯利·米切尔、J. M. 克拉克、F. C. 米尔斯、雷克斯福德·特格韦尔，以及其他领域中持同情态度的教员，例如商学领域的詹姆斯·邦布赖特、社会学领域的威廉·奥格本、哲学领域的约翰·杜威，以及法学领域的 A. A. 伯利、罗伯特·黑尔和卡尔·卢埃林。  加迪纳·米恩斯于 1927 年加入哥伦比亚法学院的经济研究人员队伍。威斯康星大学的教员包括约翰·康芒斯、埃德温·威特、塞利格·珀尔曼、马丁·格莱泽，以及其他几位倾向于制度主义的学者。在美国两次世界大战之间的时期，这两所大学跻身经济学博士培养数量最多的四所大学之列（Froman，1942）。得克萨斯大学（克拉伦斯·艾尔斯于 1930 年受聘于此）以及其他一些大学和学院也存在制度主义团体。
 
+一战之后，许多人认识到对经济数据搜集的严谨化和政策分析是很重要的
+	同时也让他们看到了政府在经济生活中是可以发挥作用的
+	汉密尔顿、斯图尔特和哈罗德·莫尔顿尤其为这些可能性所鼓舞。他们与米切尔共同策划了1918年经济学会议上的一个专题分会，汉密尔顿在会上发表了后来于1919年刊出的宣言性论文《经济理论的制度主义进路》
+	这批学者随后还深度参与创建了美国国家经济研究局、（布鲁金斯）经济研究所等研究机构，并投身于社会研究新学院和罗伯特·布鲁金斯研究生院等实验性教育项目。尽管1928年布鲁金斯研究生院不再作为一个独立机构存在
+	但在1928之前，它已经培养了许多具有旧制度主义经济学倾向的学生，例如Isador Lubin, Mordecai Ezekiel, and Winfield Riefler
+
+哥伦比亚大学和威斯康星大学逐渐成为制度主义的重要中心
+	例如哥大的韦斯利·米切尔、J. M. 克拉克、F. C. 米尔斯、雷克斯福德·特格韦尔
+	还有商学领域的詹姆斯·邦布赖特、社会学领域的威廉·奥格本、哲学领域的约翰·杜威，以及法学领域的 A. A. 伯利、罗伯特·黑尔和卡尔·卢埃林
+	加迪纳·米恩斯于 1927 年加入哥伦比亚法学院的经济研究人员队伍。
+威斯康星大学的教员包括约翰·康芒斯、埃德温·威特、塞利格·珀尔曼、马丁·格莱泽，以及其他几位倾向于制度主义的学者。
+得克萨斯大学（克拉伦斯·艾尔斯于 1930 年受聘于此）以及其他一些大学和学院也存在制度主义团体。
+
+
 The institutionalist movement made a number of positive contributions during this period. First, following from their view of science, institutionalists took the issue of improving economic measurement seriously. The NBER not only produced many empirical studies relating to business cycles, labor, and price movements, but also played a vital role in the development of national income accounting, particularly through the work of Mitchell’s student, Simon Kuznets. The NBER business cycle project developed the use of leading economic indicators. In conjunction with the Federal Reserve, the NBER also did much to develop monetary and financial data, including Morris Copeland’s work on money flows (begun in 1944), that later became the flow-of-funds accounts. Moreover, institutionalists were heavily involved in the effort to improve the statistical work of government agencies. Walter Stewart did much  
-制度主义运动在这一时期作出了许多积极贡献。首先，基于其对科学的理解，制度主义者认真对待改进经济计量这一问题。NBER 不仅开展了许多有关商业周期、劳动力和价格变动的实证研究，而且还在国民收入核算的发展过程中发挥了重要作用，尤其是通过米切尔的学生西蒙·库兹涅茨所进行的工作。NBER 的商业周期项目推动了领先经济指标的运用。NBER 还与联邦储备系统合作，为货币和金融数据的发展作出了诸多贡献，其中包括莫里斯·科普兰关于货币流量的研究（始于 1944 年），这项研究后来发展成为资金流量账户。此外，制度主义者还广泛参与了改进政府机构统计工作的努力。沃尔特·斯图尔特为此作出了很大贡献。
+制度主义运动在这一时期作出了许多积极贡献。首先，基于其对科学的理解，制度主义者认真对待改进经济计量这一问题。美国全国经济研究所 （英语： National Bureau of Economic Research,缩写为NBER) 不仅开展了许多有关商业周期、劳动力和价格变动的实证研究，而且还在国民收入核算的发展过程中发挥了重要作用，尤其是通过米切尔的学生西蒙·库兹涅茨( Kuznets,库兹涅茨曲线)所进行的工作。NBER 的商业周期项目（NBER围绕商业周期开展的研究计划）推动了领先经济指标的运用。NBER 还与联邦储备系统合作，为货币和金融数据的发展作出了诸多贡献，其中包括莫里斯·科普兰关于货币流量的研究（始于 1944 年），这项研究后来发展成为资金流量账户。此外，制度主义者还广泛参与了改进政府机构统计工作的努力。沃尔特·斯图尔特为此作出了很大贡献。
 
 to improve the statistical and research division of the Federal Reserve, work that was continued by Winfield Riefler and others. Isador Lubin, followed by Ewan Clauge (a student of Commons), did much to improve the statistical work of the Department of Labor. Copeland, Thorp, and Mills were all involved with the joint American Statistical Association/Social Science Research Council Committee on Governmental Statistics and Informational Services (COGSIS) between 1933 and 1935. Copeland was Executive Secretary of the Central Statistical Board between 1933 and 1939; this board also included Lubin, Ezekiel, and Riefler. COGSIS and the Central Statistical Board between them did a vast amount to improve government statistical services.  This work is sometimes undervalued, but it laid permanent foundations for the development of empirical economics.  
 改进联邦储备系统的统计与研究部门，这项工作后来由 Winfield Riefler 等人继续推进。Isador Lubin 之后，Ewan Clauge（Commons 的一名学生）为改进劳工部的统计工作做出了很大贡献。1933 年至 1935 年间，Copeland、Thorp 和 Mills 都参与了美国统计协会与社会科学研究委员会联合成立的政府统计与信息服务委员会（COGSIS）。1933 年至 1939 年间，Copeland 担任中央统计委员会执行秘书；Lubin、Ezekiel 和 Riefler 也曾在该委员会任职。COGSIS 与中央统计委员会共同为改进政府统计服务做了大量工作。  这项工作有时受到低估，但它为实证经济学的发展奠定了持久的基础。
+
+GPT：“资金流量账户”（Flow of Funds Accounts）可以通俗地理解为：
+
+> 一张覆盖整个国民经济的“资金从哪里来、流到哪里去”的金融地图。
+
+它系统记录家庭、企业、政府、银行和国外部门之间通过存款、贷款、债券、股票等金融工具发生的资金往来，以及由此形成的资产和负债。
+
+==**美国这套账户后来改称“美国金融账户”（Financial Accounts of the United States），由美联储按季度发布，即Z.1账户。**==
+
 
 Secondly, institutionalists made contributions to a number of key debates in economics on issues such as psychology and economics, business cycles, the pricing behavior of firms, ownership and control of corporations, monopoly and competition, unions and labor markets, various types of market problems and failures, public utilities and regulation, and law and economics. These contributions were framed by their institutionalist viewpoint. It is only possible to give a flavor of the breadth of these contributions here.  
 其次，制度经济学家在经济学中若干关键争论上作出了贡献，涉及心理学与经济学、商业周期、企业的定价行为、公司的所有权与控制权、垄断与竞争、工会与劳动力市场、各种类型的市场问题与市场失灵、公用事业与监管，以及法律与经济学等议题。这些贡献都以他们的制度主义视角为框架。本文在此只能略述这些贡献的广泛性。
@@ -165,14 +250,17 @@ Secondly, institutionalists made contributions to a number of key debates in eco
 In the area of psychology and economics, J. M. Clark’s (1918) essay “Economics and Modern Psychology” is especially noteworthy for clearly anticipating more modern work on decision-making costs and bounded rationality. On business cycles, Mitchell’s  and Burns and Mitchell’s  work was based on a view of cycles as resulting from complex interactions between business decisions, the banking and monetary system, and leads and lags in the movement of prices. Their work contains many specific hypotheses, and tests of hypotheses (including formal tests) concerning cyclical phenomena. Clark (1917) also developed the accelerator concept out of his reading of Mitchell’s Business Cycles, and continued to contribute to theoretical and policy debates over cycle theory, full employment, and price controls (Shute, 1997).  
 在心理学与经济学领域，J. M. Clark（1918）的论文《经济学与现代心理学》尤其值得注意，因为它清晰地预见了后来关于决策成本与有限理性的研究。在商业周期方面，Mitchell 的  以及 Burns 和 Mitchell 的  研究，基于这样一种观点：周期源于企业决策、银行与货币体系，以及价格变动中的领先与滞后之间的复杂互动。他们的研究包含许多有关周期现象的具体假设及其检验（包括正式检验）。Clark（1917）还通过研读 Mitchell 的《商业周期》提出了加速数概念，并继续为有关周期理论、充分就业和价格管制的理论与政策争论作出贡献（Shute，1997）。
 
-The pricing behavior of firms facing high overheads, and the possibly adverse effect of competition under circumstances where marginal cost pricing might not cover overhead, was subject to theoretical analysis by Clark (1923). The notion that, under certain circumstances, competition could be destructive or lead to adverse consequences was a common one among institutionalists. Hamilton’s study of the coal industry detailed an industry that was competitive, but afflicted by chronic excess capacity and poor working conditions (Hamilton and Wright, 1925). George Stocking’s (1925) Columbia Ph.D. thesis dealt with common pool problems and was entitled “The Oil Industry and the Competitive System: A Study in Waste.” Ezekiel (1938) worked on agricultural pricing, including the cobweb model and its implications for the orthodox view of “self-regulating” markets. There was much  
-面对高额间接成本的企业的定价行为，以及在边际成本定价可能无法覆盖间接成本的情况下竞争可能产生的不利影响，Clark（1923）对此进行了理论分析。制度学派普遍认为，在某些情况下，竞争可能具有破坏性，或导致不利后果。Hamilton 对煤炭行业的研究详细描述了一个具有竞争性、但长期受产能过剩和恶劣工作条件困扰的行业（Hamilton and Wright，1925）。George Stocking（1925）在哥伦比亚大学完成的博士论文探讨了公地资源问题，题为《石油工业与竞争体系：一项关于浪费的研究》。Ezekiel（1938）研究了农产品定价，包括蛛网模型及其对正统经济学关于“自我调节”市场观点的影响。还有许多
+GPT：“加速数概念”（accelerator concept）通常称为“加速原理”或“投资加速原理”。它的核心意思是：
 
-discussion of the inadequacy of the standard models of perfect competition and pure monopoly, backed up by numerous industry case studies (Hamilton and Associates, 1938). Means (1935) developed the theory of administered pricing, which sparked a large literature on relative price inflexibility. Later, Clark (1940) developed his concept of “workable competition.”  
-对标准的完全竞争和纯粹垄断模型不充分性的讨论，并以大量行业案例研究作为佐证（Hamilton and Associates，1938）。Means（1935）提出了管理价格理论，引发了关于相对价格僵化的大量文献。后来，Clark（1940）发展了他的“可行竞争”概念。
+> 企业投资主要取决于产品需求或产出的变化，而不只是需求或产出本身的高低；消费需求的小幅变化，可能引起资本品投资的大幅变化。
+
+The pricing behavior of firms facing high overheads, and the possibly adverse effect of competition under circumstances where marginal cost pricing might not cover overhead, was subject to theoretical analysis by Clark (1923). The notion that, under certain circumstances, competition could be destructive or lead to adverse consequences was a common one among institutionalists. Hamilton’s study of the coal industry detailed an industry that was competitive, but afflicted by chronic excess capacity and poor working conditions (Hamilton and Wright, 1925). George Stocking’s (1925) Columbia Ph.D. thesis dealt with common pool problems and was entitled “The Oil Industry and the Competitive System: A Study in Waste.” Ezekiel (1938) worked on agricultural pricing, including the cobweb model and its implications for the orthodox view of “self-regulating” markets. There was much  discussion of the inadequacy of the standard models of perfect competition and pure monopoly, backed up by numerous industry case studies (Hamilton and Associates, 1938). Means (1935) developed the theory of administered pricing, which sparked a large literature on relative price inflexibility. Later, Clark (1940) developed his concept of “workable competition.”  
+面对高额间接成本的企业的定价行为，以及在边际成本定价可能无法覆盖间接成本的情况下竞争可能产生的不利影响，Clark（1923）对此进行了理论分析。制度学派普遍认为，在某些情况下，竞争可能具有破坏性，或导致不利后果。Hamilton 对煤炭行业的研究详细描述了一个具有竞争性、但长期受产能过剩和恶劣工作条件困扰的行业（Hamilton and Wright，1925）。George Stocking（1925）在哥伦比亚大学完成的博士论文探讨了公地资源问题，题为《石油工业与竞争体系：一项关于浪费的研究》。Ezekiel（1938）研究了农产品定价，包括蛛网模型及其对正统经济学关于“自我调节”市场观点的影响。还有许多对标准的完全竞争和纯粹垄断模型不充分性的讨论，并以大量行业案例研究作为佐证（Hamilton and Associates，1938）。Means（1935）提出了管理价格理论，引发了关于相对价格僵化的大量文献。后来，Clark（1940）发展了他的“可行竞争”概念。
 
 On issues of corporate finance and ownership, Bonbright and Means (1932) co-authored The Holding Company (1932), and Berle and Means (1932) The Modern Corporation and Private Property. These works much extended Veblen’s earlier discussions of the separation of ownership and control. On labor market issues, a great deal of work was produced on unions, both empirical studies of union membership (Wolman, 1924), and theoretical discussions such as Selig Perlman’s Theory of the Labor Movement (1928). Issues of wage determination were discussed in general terms by Walton Hamilton and Stacy May in The Control of Wages (1923), and in terms of “the wage bargain” or “the labor bargain” by other institutional labor economists such as Commons (1924) and Sumner Slichter (1931). In this work much attention was given to labor relations issues of collective bargaining and systems of conciliation and mediation.  
 关于公司融资与所有权问题，Bonbright 和 Means（1932）合著了《控股公司》（1932），Berle 和 Means（1932）则合著了《现代公司与私有财产》。这些著作大大拓展了 Veblen 早先对所有权与控制权分离的论述。关于劳动力市场问题，大量研究围绕工会展开，既有对工会成员的实证研究（Wolman，1924），也有理论探讨，例如 Selig Perlman 的《劳工运动理论》（1928）。Walton Hamilton 和 Stacy May 在《工资控制》（1923）中以一般性术语讨论了工资决定问题；其他制度主义劳动经济学家，如 Commons（1924）和 Sumner Slichter（1931），则从“工资协议”或“劳资协议”的角度加以论述。在这些研究中，人们高度关注集体谈判以及调解与斡旋制度等劳资关系问题。
+
+
 
 Clark (1926) discussed a large number of types of market failure in his Social Control of Business. These included monopoly, maintaining the ethical level of competition, problems of agency, displacement of people by rapid economic and technological change, poverty, advertising and lack of correct information and standards, lack of equality of opportunity, externalities (“unpaid costs of industry”), public goods (“inappropriable services”), the wastes of “arms race” types of competition (such as competitive advertising), unemployment, the failure to take into account the interests of posterity or future generations, and other discrepancies between private and social accounting.  
 Clark（1926）在其《企业的社会控制》中讨论了大量市场失灵的类型。其中包括垄断、维持竞争的道德水平、代理问题、快速经济与技术变革导致人员被取代、贫困、广告以及缺乏正确的信息和标准、机会不平等、外部性（“产业未支付的成本”）、公共物品（“不可据为己有的服务”）、“军备竞赛”式竞争所造成的浪费（如竞争性广告）、失业、未能考虑子孙后代或未来世代的利益，以及私人核算与社会核算之间的其他差异。
@@ -180,24 +268,105 @@ Clark（1926）在其《企业的社会控制》中讨论了大量市场失灵�
 Bonbright’s (1937) Valuation of Property also dealt with the difference between commercial and social valuation, although with an emphasis on issues of the valuation of public utilities. Bonbright (1937), Hale (1921), and Glaeser (1927) all wrote extensively on issues of public utility regulation, with Hale probably having the greatest impact on the direction of court decisions through his campaign of criticism of the “fair value” concept as a basis for rate regulation (Bonbright, 1961, p. 164). The courts’ changing interpretation of the doctrine of “affectation with public interest,” which was used to justify regulatory intervention, and the “public” character of much supposedly “private” business was discussed by Tugwell (1922), Clark (1926), Hamilton (1930) and Hale (Fried, 1998).  
 Bonbright（1937）的《财产估值》也论述了商业估值与社会估值之间的差异，不过重点在于公共事业估值问题。Bonbright（1937）、Hale（1921）和 Glaeser（1927）都曾广泛撰写有关公共事业监管的问题，其中 Hale 通过批评以“公平价值”概念作为费率监管基础的运动，或许对法院判决方向产生了最大影响（Bonbright，1961，第 164 页）。Tugwell（1922）、Clark（1926）、Hamilton（1930）和 Hale（Fried，1998）讨论了法院对“涉及公共利益”原则不断变化的解释——该原则被用来为监管干预提供正当性——以及许多被认为是“私人”的企业所具有的“公共”性质。
 
-More general interconnections between law and economics and the operation of markets were addressed by Hamilton (1938), Hale (1923), and Commons (1924, 1934). Market transactions were conceived of as a transfer of rights, not physical goods, and a transfer that took place in a context of legal and economic power, and always involving some degree of “coercion,” in the sense of some degree of restriction upon alternatives (Commons, 1932; Samuels, 1973). Commons (1934, pp. 55-67) distinguished between bargaining transactions (market transactions) and managerial trans-  
-汉密尔顿（1938）、黑尔（1923）和康芒斯（1924，1934）探讨了法律与经济学以及市场运行之间更为普遍的相互联系。市场交易被理解为权利的转让，而非实物商品的转移；这种转让发生在法律权力和经济权力的背景下，并且总是涉及某种程度的“强制”，即对可选方案施加某种程度的限制（康芒斯，1932；Samuels，1973）。康芒斯（1934，第 55—67 页）区分了讨价还价型交易（市场交易）和管理型交  
-actions (hierarchy), and was aware of the substitutability between the two. He produced a discussion of organizations as “going concerns” engaging in “routine” and “strategic” transactions. He also provided a theory of the behavior of legislatures based on “log-rolling,” and a theory of judicial decision-making based on the concept of “reasonableness,” a concept that included, but was not limited to, a concern with efficiency (Commons, 1932, pp. 24-25; 1934, pp. 751-755).  
-易（等级制），并意识到二者之间具有可替代性。他将组织论述为从事“例行性”和“战略性”交易的“持续经营实体”。他还提出了一种基于“利益交换”的立法机关行为理论，以及一种基于“合理性”概念的司法决策理论；这一概念虽包含对效率的关注，但并不限于此（康芒斯，1932，第 24—25 页；1934，第 751—755 页）。
+More general interconnections between law and economics and the operation of markets were addressed by Hamilton (1938), Hale (1923), and Commons (1924, 1934). Market transactions were conceived of as a transfer of rights, not physical goods, and a transfer that took place in a context of legal and economic power, and always involving some degree of “coercion,” in the sense of some degree of restriction upon alternatives (Commons, 1932; Samuels, 1973). Commons (1934, pp. 55-67) distinguished between bargaining transactions (market transactions) and managerial trans-actions (hierarchy), and was aware of the substitutability between the two. He produced a discussion of organizations as “going concerns” engaging in “routine” and “strategic” transactions. He also provided a theory of the behavior of legislatures based on “log-rolling,” and a theory of judicial decision-making based on the concept of “reasonableness,” a concept that included, but was not limited to, a concern with efficiency (Commons, 1932, pp. 24-25; 1934, pp. 751-755).    
+汉密尔顿（1938）、黑尔（1923）和康芒斯（1924，1934）探讨了法律与经济学以及市场运行之间更为普遍的相互联系。市场交易被理解为权利的转让，而非实物商品的转移；这种转让发生在法律权力和经济权力的背景下，并且总是涉及某种程度的“强制”，即对可选方案施加某种程度的限制（康芒斯，1932；Samuels，1973）。康芒斯（1934，第 55—67 页）区分了讨价还价型交易（市场交易）和管理型交易（等级制），并意识到二者之间具有可替代性。他将组织论述为从事“例行性”和“战略性”交易的“持续经营实体”。他还提出了一种基于“利益交换”的立法机关行为理论，以及一种基于“合理性”概念的司法决策理论；这一概念虽包含对效率的关注，但并不限于此（康芒斯，1932，第 24—25 页；1934，第 751—755 页）。
 
-Finally, institutionalists made important contributions to policy in their roles in the development of unemployment insurance, workmen’s compensation, Social Security, labor legislation, public utility regulation, agricultural price support programs, and in the promotion of government “planning” to create high and stable levels of output. Commons had pioneered public utility regulation, unemployment insurance, and workmen’s compensation in Wisconsin, and the Wisconsin model was widely influential. Many institutionalists were active members of the American Association of Labor Legislation, including Mitchell, Hamilton, Slichter, Commons, and many of Commons’s students (including John B. Andrews, the Permanent Secretary). The AALL promoted many reforms to labor legislation as well as medical insurance programs (Chasse, 1994). Medical insurance was later pursued by the Committee on the Cost of Medical Care, which involved both Hamilton and Mitchell.  
+Finally, institutionalists made important contributions to policy in their roles in the development of unemployment insurance, workmen’s compensation, Social Security, labor legislation, public utility regulation, agricultural price support programs, and in the promotion of government “planning” to create high and stable levels of output. Commons had pioneered public utility regulation, unemployment insurance, and workmen’s compensation in Wisconsin, and the Wisconsin model was widely influential. Many institutionalists were active members of the American Association of Labor Legislation, including Mitchell, Hamilton, Slichter, Commons, and many of Commons’s students (including John B. Andrews, the Permanent Secretary). The AALL promoted many reforms to labor legislation as well as medical insurance programs (Chasse, 1994). Medical insurance was later pursued by the Committee on the Cost of Medical Care, which involved both Hamilton and Mitchell.
 最后，制度经济学家还在政策领域作出了重要贡献，参与推动了失业保险、工伤赔偿、社会保障、劳工立法、公用事业监管、农产品价格支持计划的发展，并倡导政府进行“规划”，以创造较高且稳定的产出水平。康芒斯曾在威斯康星州率先推动公用事业监管、失业保险和工伤赔偿，而威斯康星模式也产生了广泛影响。许多制度经济学家都是美国劳工立法协会的活跃成员，其中包括米切尔、汉密尔顿、斯利希特、康芒斯，以及康芒斯的许多学生（包括常任秘书约翰·B·安德鲁斯）。美国劳工立法协会推动了许多劳工立法改革以及医疗保险计划（Chasse，1994）。后来，医疗保险问题由医疗费用委员会继续推动，汉密尔顿和米切尔都参与其中。
+
+GPT：蛛网模型（cobweb model）解释的是：
+
+> 在生产存在时间滞后的市场中，生产者根据上一期价格决定本期产量，可能造成价格和产量反复波动，而不一定自动回到均衡。
+
+就相当于“🐷循环”：
+- 本期猪肉供应不足，价格上涨。
+- 养殖户看到高价，决定增加养殖。
+- 但生猪不能立即上市，新增供给要到下一期才出现。
+- 下一期大量生猪集中上市，供给过剩，价格下跌。
+- 养殖户看到低价，又减少养殖。
+- 再下一期供给不足，价格重新上涨。
+- 高价又刺激养殖户扩大生产，循环重新开始。
+
 
 Institutionalists had significant influence within the New Deal. Commons’s students, such as Witte, Arthur J. Altmeyer, and Wilbur Cohen, played leading roles in the development of federal Social Security programs. Hamilton was a member of the National Recovery Administration Board, and also served as Director of the Bureau of Research and Statistics of the Social Security Board. Berle and Tugwell were two of Roosevelt’s original “Brains Trust,” and Tugwell and Means were the leading advocates of the “structuralist” or planning approach that had influence in the early part of the New Deal. Tugwell was Assistant Secretary of Agriculture. Means also worked as an economic advisor in the Department of Agriculture, and later led the industrial research group of the National Resources Committee, a group that also included Lubin, Ezekiel, and Thorp, as well as Lauchlin Currie. Riefler became Economic Advisor to the Executive Council. Thorp served as Consumers’ Division Director of the National Emergency Council and Chairman of the Advisory Council of the National Recovery Administration. Ezekiel became economic advisor to the Secretary of Agriculture and played a prominent role in the design of agricultural policy. Lubin became Commissioner of Labor Statistics, and, later, Special Assistant to President Roosevelt. Glaeser became special advisor to the Tennessee Valley Authority.  
 制度主义者在新政中发挥了重要影响。康芒斯的学生，如维特、阿瑟·J·奥尔特迈尔和威尔伯·科恩，在联邦社会保障项目的制定过程中担任了重要角色。汉密尔顿是国家复兴管理局委员会成员，同时还担任社会保障委员会研究与统计局局长。伯利和塔格韦尔是罗斯福最初“智囊团”的两名成员，而塔格韦尔和米恩斯则是“结构主义”或计划方法的主要倡导者；这种方法在新政初期颇具影响力。塔格韦尔曾任农业部助理部长。米恩斯也曾在农业部担任经济顾问，后来领导国家资源委员会的工业研究小组；该小组还包括卢宾、以西结、索普以及劳克林·柯里。里夫勒后来成为行政委员会经济顾问。索普曾任国家紧急委员会消费者部主任，以及国家复兴管理局顾问委员会主席。 以西结成为农业部长的经济顾问，并在农业政策的制定中发挥了重要作用。鲁宾成为劳工统计局局长，后来又担任罗斯福总统的特别助理。格莱泽成为田纳西河谷管理局的特别顾问。
 
-## American Institutionalism after 1945  
-1945 年后的美国制度主义
+旧制度主义经济学在两次大战期间做出了很多积极贡献
+	A
+		旧制度主义经济学家认真对待改进经济计量的问题，并且基于美国全国经济研究所开展了很多实证研究，并且在国民收入核算这一方面发挥了比较大的作用
+			特别是米切尔的学生西蒙·库兹涅茨所进行的工作
+		同时，NBER的商业周期项目推动了很多新的经济指标的运用
+		NBER还和联储合作，推动了货币和金融数据的发展
+			其中包括莫里斯·科普兰关于货币流量的研究（始于 1944 年），这项研究后来发展成为资金流量账户。
+		此外，旧制度主义经济学参与改进了政府机构的统计工作
+			沃尔特·斯图尔特为此作出了很大贡献。
+		改进联储的统计与研究部门，这项工作后来由 Winfield Riefler 等人继续推进。
+			Isador Lubin 之后，Ewan Clauge（Commons 的一名学生）为改进劳工部的统计工作做出了很大贡献。
+		1933 年至 1935 年间，Copeland、Thorp 和 Mills 都参与了美国统计协会与社会科学研究委员会联合成立的政府统计与信息服务委员会（COGSIS）。
+		1933 年至 1939 年间，Copeland 担任中央统计委员会执行秘书；Lubin、Ezekiel 和 Riefler 也曾在该委员会任职。
+		COGSIS 与中央统计委员会共同为改进政府统计服务做了大量工作。  这项工作有时受到低估，但它==为实证经济学的发展奠定了持久的基础==。
+	B
+		旧制度主义经济学家在经济学中若干关键争论上作出了贡献，而且涉及到心理学与经济学、商业周期、企业的定价行为、公司的所有权与控制权、垄断与竞争、工会与劳动力市场、各种类型的市场问题与市场失灵、公用事业与监管，以及法律与经济学等议题。
+		这些贡献都以他们的制度主义视角为框架。
+			在心理学与经济学领域，Clark（1918）的论文《经济学与现代心理学》尤其值得注意，因为==它清晰地预见了后来关于决策成本与有限理性的研究==。
+			在商业周期方面，Mitchell本人的研究   以及 Burns 和 Mitchell 的共同  研究，都基于这样一种观点：==**（商业）周期源于企业决策、银行与货币体系，以及价格变动中的领先与滞后之间的复杂互动**==。
+			他们的研究中包含许多有关周期现象的具体假设及其检验（包括正式检验）。Clark（1917）还通过研读 Mitchell 的《商业周期》提出了==**加速数概念**==，并继续为有关周期理论、充分就业和价格管制的理论与政策争论作出贡献（Shute，1997）。
+			更多领域
+				Clark（1923）对  在固定成本很高的行业，激烈竞争可能把价格压到只够支付新增生产成本的水平，却不足以支付厂房、设备等固定开支，结果可能是整个行业长期亏损。  进行了理论分析。
+					这引出了旧制度主义经济学的观点，他们认为：==**在某些情况下，竞争可能具备破坏性/导致不利后果**==
+					例如：Hamilton 在对煤炭行业的研究中，详细描述了一个==**具有竞争性、但长期受产能过剩和恶劣工作条件困扰的行业**==
+				George Stocking（1925）在哥伦比亚大学完成的博士论文探讨了公地资源问题，题为《石油工业与竞争体系：一项关于浪费的研究》。
+				Ezekiel（1938）研究了农产品定价，包括蛛网模型及其对正统经济学关于“自我调节”市场观点的影响。还有许多==对标准的完全竞争和纯粹垄断模型的不充分性==的讨论，并以大量行业案例研究作为佐证（Hamilton and Associates，1938）。
+				对于公司融资与所有权
+					以下这些著作大大拓展了 Veblen 早先对==**所有权与控制权分离**==的论述。
+						Bonbright 和 Means（1932）合著了《控股公司》（1932），
+						Berle 和 Means（1932）则合著了《现代公司与私有财产》
+				关于劳动力市场问题，大量研究围绕工会展开，既有对工会成员的实证研究（Wolman，1924），也有理论探讨
+					例如 Selig Perlman 的《劳工运动理论》（1928）。
+					Walton Hamilton 和 Stacy May 在《工资控制》（1923）中以一般性术语讨论了工资决定问题；
+					其他制度主义劳动经济学家，如 Commons（1924）和 Sumner Slichter（1931），则从“工资协议”或“劳资协议”的角度加以论述。
+					在这些研究中，==**人们高度关注集体谈判以及调解与斡旋制度等劳资关系问题**==。
+				市场失灵问题
+					Clark（1926）在其《企业的社会控制》中讨论了大量市场失灵的类型。
+						其中包括垄断、维持竞争的道德水平、代理问题、快速经济与技术变革导致人员被取代、贫困、广告以及缺乏正确的信息和标准、机会不平等、外部性（“产业未支付的成本”）、公共物品（“不可据为己有的服务”）、“军备竞赛”式竞争所造成的浪费（如竞争性广告）、失业、未能考虑子孙后代或未来世代的利益，以及私人核算与社会核算之间的其他差异。
+				商业估值与社会估值之间的差异
+					Bonbright（1937）的《财产估值》也论述了商业估值与社会估值之间的差异，不过重点在于公共事业估值问题。
+					Bonbright（1937）、Hale（1921）和 Glaeser（1927）都曾广泛撰写有关公共事业监管的问题，其中 Hale 通过批评以“公平价值”概念作为费率监管基础的运动，或许对法院判决方向产生了最大影响（Bonbright，1961，第 164 页）。
+					Tugwell（1922）、Clark（1926）、Hamilton（1930）和 Hale（Fried，1998）讨论了法院对“涉及公共利益”原则不断变化的解释——该原则被用来==**为监管干预提供正当性**==——以及许多被认为是“私人”的企业所具有的“公共”性质。
+				法律与经济学以及市场运行之间更为普遍的联系
+					汉密尔顿（1938）、黑尔（1923）和康芒斯（1924，1934）探讨了法律与经济学以及市场运行之间更为普遍的相互联系。
+						市场交易被理解为==**权利的转让，而非实物商品的转移**==；
+						这种转让发生在法律权力和经济权力的背景下，并且==**总是涉及某种程度的“强制”，即对可选方案施加某种程度的限制**==（康芒斯，1932；Samuels，1973）。
+					康芒斯（1934，第 55—67 页）区分了讨价还价型交易（市场交易）和管理型交易（等级制），并意识到二者之间具有可替代性。
+						他将组织论述为从事“例行性”和“战略性”交易的“持续经营实体”。
+					他还提出了一种基于“利益交换”的立法机关行为理论，以及一种基于“合理性”概念的司法决策理论；
+						这一概念虽包含对效率的关注，但并不限于此（康芒斯，1932，第 24—25 页；1934，第 751—755 页）。
+	C  在政策领域作出了重要贡献
+		参与推动了失业保险、工伤赔偿、社会保障、劳工立法、公用事业监管、农产品价格支持计划的发展，并倡导政府进行“规划”，以创造较高且稳定的产出水平。
+			康芒斯曾在威斯康星州率先推动公用事业监管、失业保险和工伤赔偿，而威斯康星模式也产生了广泛影响。
+			许多制度经济学家都是美国劳工立法协会的活跃成员，其中包括米切尔、汉密尔顿、斯利希特、康芒斯，以及康芒斯的许多学生（包括常任秘书约翰·B·安德鲁斯）。
+			美国劳工立法协会推动了许多劳工立法改革以及医疗保险计划（Chasse，1994）。
+			后来，医疗保险问题由医疗费用委员会继续推动，汉密尔顿和米切尔都参与其中。 
+		制度主义者在新政中发挥了重要影响。
+			康芒斯的学生，如维特、阿瑟·J·奥尔特迈尔和威尔伯·科恩，在==联邦社会保障项目==的制定过程中担任了重要角色。
+			汉密尔顿是国家复兴管理局委员会成员，同时还担任社会保障委员会研究与统计局局长。
+			伯利和塔格韦尔是罗斯福最初“智囊团”的两名成员，而塔格韦尔和米恩斯则是“结构主义”或计划方法的主要倡导者；这种方法在新政初期颇具影响力。
+			塔格韦尔曾任农业部助理部长。
+			米恩斯也曾在农业部担任经济顾问，后来领导国家资源委员会的工业研究小组；
+				该小组还包括卢宾、以西结、索普以及劳克林·柯里。
+			里夫勒后来成为行政委员会经济顾问。
+			索普曾任国家紧急委员会消费者部主任，以及国家复兴管理局顾问委员会主席。
+			以西结成为农业部长的经济顾问，并在农业政策的制定中发挥了重要作用。
+			鲁宾成为劳工统计局局长，后来又担任罗斯福总统的特别助理。
+			格莱泽成为田纳西河谷管理局的特别顾问。
 
-Institutionalism attained a significant position in American economics in the interwar period, both in academia and in government, but then declined in position and prestige. There are quite a number of overlapping reasons for this,  
-在两次世界大战之间的时期，制度主义无论在学术界还是政府中都在美国经济学界占据了重要地位，但随后其地位和声望逐渐下降。造成这一现象的原因有很多彼此交叠，  
-some of which reach back into the 1920s and '30s, but I will focus on just a few of the more important.  
-其中一些可以追溯到 20 世纪 20 年代和 30 年代，但我将只关注其中几个较为重要的原因。
+
+
+## American Institutionalism after 1945  
+1945 年后的美国制度主义（旧制度主义经济学的式微）
+
+Institutionalism attained a significant position in American economics in the interwar period, both in academia and in government, but then declined in position and prestige. There are quite a number of overlapping reasons for this,  some of which reach back into the 1920s and '30s, but I will focus on just a few of the more important.  
+在两次世界大战之间的时期，制度主义无论在学术界还是政府中都在美国经济学界占据了重要地位，但随后其地位和声望逐渐下降。造成这一现象的原因有很多彼此交叠，  其中一些可以追溯到 20 世纪 20 年代和 30 年代，==但我将只关注其中几个较为重要的原因。==
 
 Institutionalism clearly did not live up to its own early promise, particularly in its failure to pin down exactly what foundations in “modern psychology” it was supposed to have. After the mid-1920s, psychologists abandoned the instinct/habit approach in favor of a behaviorism that became increasingly narrow and difficult to see as an adequate foundation for economics. In this climate, the enthusiasm for new psychological approaches that had played such a role in the institutionalist movement’s beginnings could not be sustained. Moreover, institutionalist work could be attacked as ad hoc, or as lacking proper foundations in a theory of individual behavior (Koopmans, 1947). Institutionalism probably played a part in ridding economics of explicitly hedonistic language, but it did not develop the alternative basis to convince the profession as a whole to abandon its rationalistic foundations (Lewin, 1996).  
 制度主义显然没有兑现其早期承诺，尤其是未能明确指出它所应依托的“现代心理学”究竟是什么。20 世纪 20 年代中期以后，心理学家放弃了本能/习惯路径，转而支持行为主义，而行为主义日益变得狭隘，很难再被视为经济学的充分基础。在这种氛围下，曾在制度主义运动初创时期发挥重要作用的、对新心理学路径的热情无法持续。此外，制度主义研究还可能被批评为临时拼凑，或缺乏关于个体行为理论的适当基础（Koopmans，1947）。制度主义或许在使经济学摆脱明确的享乐主义语言方面发挥了一定作用，但它并未发展出足以说服整个经济学界放弃其理性主义基础的替代性依据（Lewin，1996）。
@@ -208,13 +377,17 @@ It must also be said that institutionalists failed to develop their theories of 
 It is also the case that, from the 1930s onwards, many new developments in theory and methods occurred within more mainstream economics. Institutionalist ideas on planning as a solution to business cycles had not fared well over the course of the New Deal, and had been replaced by Keynesian ideas (Barber, 1996). In many respects, Keynesian economics took over the role of the exciting “new” economics that institutionalism had played in the early 1920s.  
 同样需要指出的是，从 20 世纪 30 年代起，主流经济学内部在理论和方法方面也出现了许多新的发展。制度主义者关于以计划作为解决商业周期之道的观点，在新政期间表现不佳，随后被凯恩斯主义思想所取代（Barber，1996）。在许多方面，凯恩斯主义经济学接替了制度主义在 20 世纪 20 年代初所扮演的、令人振奋的“新”经济学的角色。
 
-In addition, mainstream economics gained an empirical component with the rise of econometrics. Institutionalists could no longer claim greater “scientific” standing because of their empiricism; indeed, they were accused by Koopmans (1947) of “measurement without theory.” The empirical tradition of the NBER continued, but with little of the association between quantitative work and institutionalism that was such a hallmark of the movement in the interwar period. 此外，随着计量经济学的兴起，主流经济学获得了实证性成分。制度主义者不再能够凭借其实证主义主张拥有更高的“科学”地位；事实上，Koopmans（1947）指责他们“没有理论的测量”。NBER 的实证传统延续了下来，但定量研究与制度主义之间的联系已所剩无几，而这种联系正是两次世界大战之间制度主义运动的一大标志。 
+In addition, mainstream economics gained an empirical component with the rise of econometrics. Institutionalists could no longer claim greater “scientific” standing because of their empiricism; indeed, they were accused by Koopmans (1947) of “measurement without theory.” The empirical tradition of the NBER continued, but with little of the association between quantitative work and institutionalism that was such a hallmark of the movement in the interwar period. 
+此外，随着计量经济学的兴起，主流经济学获得了实证性成分。制度主义者不再能够凭借其实证主义主张拥有更高的“科学”地位；事实上，Koopmans（1947）指责他们“没有理论的测量”。NBER 的实证传统延续了下来，但定量研究与制度主义之间的联系已所剩无几，而这种联系正是两次世界大战之间制度主义运动的一大标志。 
 
-Furthermore, neoclassical theory underwent significant development, especially from the 1930s onward, including theories of imperfect and monopolistic  
-此外，新古典理论经历了重大发展，尤其是从 20 世纪 30 年代起，其中包括不完全竞争理论和垄断性彩票计划
+Koopmans在1947年直接指责的对象，不是所有旧制度主义经济学家，而是：
 
-competition,  and market failures and externalities. Neoclassicism developed a language capable of encompassing many of the issues of concern to institutionalists; issues that had formerly fallen outside of the neoclassical theoretical compass.  
-竞争、  以及市场失灵和外部性。新古典主义发展出了一套能够涵盖许多制度主义者所关注问题的语言；这些问题此前都被排除在新古典主义理论的范围之外。
+> 阿瑟·伯恩斯（Arthur F. Burns）和韦斯利·米切尔（Wesley C. Mitchell）合著的《商业周期的测量》（Measuring Business Cycles，1946），以及这部著作所代表的NBER商业周期研究方法。
+
+Furthermore, neoclassical theory underwent significant development, especially from the 1930s onward, including theories of imperfect and monopolistic  competition,  and market failures and externalities. Neoclassicism developed a language capable of encompassing many of the issues of concern to institutionalists; issues that had formerly fallen outside of the neoclassical theoretical compass.  
+此外，新古典经济理论也取得了长足发展，尤其是从20世纪30年代开始，逐步形成了有关不完全竞争、垄断竞争、市场失灵和外部性的理论。新古典经济学由此发展出一套新的分析语言，能够将制度主义者所关注的许多问题纳入自身的理论框架；而在此之前，这些问题一直处于新古典经济理论的分析范围之外。
+
+
 
 In these ways mainstream economic theory took over those aspects of institutionalism amenable to “model analysis” (Copeland, 1951, p. 59), while other aspects were absorbed into what became applied field areas, such as industrial organization, labor economics, and industrial relations. At least until much more recently, these field areas had only loose ties to the theoretical core of the discipline and maintained a substantial institutional component.  
 通过这些方式，主流经济理论接纳了制度主义中那些适合进行“模型分析”的方面（Copeland，1951 年，第 59 页），而其他方面则被吸收到后来形成的应用领域中，例如产业组织、劳动经济学和劳资关系。至少直到相当晚近的时候，这些领域与该学科的理论核心之间都只有松散的联系，并且保留了相当重要的制度性内容。
@@ -231,14 +404,77 @@ American institutionalism did not disappear, but it certainly changed. Instituti
 Clarence Ayres, in his Theory of Economic Progress (1944), attempted to renew the Veblenian emphasis on technology as the driving force behind institutional change. Ayres’s charismatic personality attracted a number of students to the institutionalist ranks. The University of Texas retained its institutionalist character longer than most, and in the 1960s was still the home of a substantial institutionalist group keenly interested in Polanyi, Ayres, and Commons.  The Commons tradition in law and economics has also been kept alive by Daniel Bromley, Allan Schmid, and Warren Samuels (Samuels, 1971; Schmid, 1978; Samuels and Schmid, 1981; Bromley, 1989). In addition, J. K. Galbraith produced widely read and distinctly Veblenian analyses in his Affluent Society (1958) and New Industrial State (1971). However, for the sources of the recent and more general revival of interest in institutions one must look elsewhere.  
 克拉伦斯·艾尔斯在《经济进步理论》（1944）中，试图重新强调韦布伦主义关于技术是制度变迁驱动力的观点。艾尔斯富有魅力的个性吸引了许多学生加入制度主义者行列。得克萨斯大学比大多数大学更长久地保持了其制度主义特色；到了 20 世纪 60 年代，该校仍是一个规模可观的制度主义者群体的所在地，他们热切关注波兰尼、艾尔斯和康芒斯。  法律与经济学中的康芒斯传统也由丹尼尔·布罗姆利、艾伦·施密德和沃伦·萨缪尔斯延续至今（Samuels, 1971；Schmid, 1978；Samuels and Schmid, 1981；Bromley, 1989）。此外，J. K. 加尔布雷思在《富裕社会》（1958）和《新工业国》（1971）中，提出了广为人知且明显带有韦布伦主义色彩的分析。然而，若要探寻近年来以及更广泛的制度研究复兴的根源，就必须另寻他处。
 
+GPT：心理学中的“行为主义”（behaviorism）是20世纪初兴起的一种研究路线。其核心主张是：
+
+> 心理学要成为客观科学，就应当研究可以直接观察和测量的行为，而不应把意识、感受、意图等无法被外部直接观察的心理状态作为主要研究对象。
+
+GPT：这里的“享乐主义语言”（explicitly hedonistic language），是指早期边际效用理论习惯用下面这套词汇解释经济行为：
+
+> 快乐与痛苦、满足与牺牲、效用与负效用。
+
+它背后的基本设想是：
+
+> 人会计算不同行动带来的快乐和痛苦，然后选择能够使净快乐最大化的行动。
+
+为什么旧制度主义经济学二战后日渐式微
+	①制度主义显然没有兑现其早期承诺，==**尤其是未能明确指出它所应依托的“现代心理学”究竟是什么**==。
+		1920s以后，==**心理学家放弃了本能/习惯路径，转而支持行为主义**==，而行为主义日益变得狭隘，很难再被视为经济学的充分基础。
+		在这种氛围下，曾在制度主义运动初创时期发挥重要作用的、==**对新心理学路径的热情无法持续**==。
+		此外，制度主义研究还可能被批评为临时拼凑，或==**缺乏关于个体行为理论的适当基础**==（Koopmans，1947）。
+		制度主义或许在使经济学摆脱明确的享乐主义语言方面（例如效用最大化）发挥了一定作用，但它==**并未发展出足以说服整个经济学界放弃其理性主义基础的替代性依据**==（Lewin，1996）。
+	②制度经济学家未能将其==**关于社会规范、技术变迁、立法与司法决策、交易以及企业形式（除所有权与控制问题外）的理论发展到远远超出凡勃伦和康芒斯所达到的阶段。**==
+		造成这种发展不足的原因，一部分在于==**缺乏明确的心理学基础**==，但也在于两次世界大战之间的==**制度经济学家将注意力集中于商业周期和公用事业监管等迫切而紧要的政策**==问题。
+		此外，自 1920s 末起，社会学逐渐脱离经济学，在独立的院系中发展起来，并将社会规范与制度的大部分研究内容一并带走。
+	③其他思想的替代
+		从 20 世纪 30 年代起，主流经济学内部在理论和方法方面也出现了许多新的发展。
+		制度主义者关于==**以计划作为解决商业周期之道**==的观点，在新政期间表现不佳，随后被==**凯恩斯主义思想**==所取代（Barber，1996）。
+		在许多方面，凯恩斯主义经济学接替了制度主义在 20 世纪 20 年代初所扮演的、令人振奋的“新”经济学的角色。
+	④随着计量经济学的兴起，主流经济学获得了实证性成分。
+		制度主义者不再能够凭借其实证主义主张拥有更高的“科学”地位；
+		事实上，Koopmans（1947）指责他们“没有理论的测量”。
+		NBER 的实证传统延续了下来，==**但定量研究与制度主义之间的联系已所剩无几**==，而这种联系正是两次世界大战之间制度主义运动的一大标志。 
+		4.1此外，新古典经济理论也取得了长足发展，尤其是从20世纪30年代开始，逐步形成了有关==**不完全竞争、垄断竞争、市场失灵和外部性**==的理论。
+			新古典经济学由此发展出一套新的分析语言，==**能够将制度主义者所关注的许多问题纳入自身的理论框架**==；
+			而在此之前，这些问题一直处于新古典经济理论的分析范围之外。
+		通过这些方式，主流经济理论==**接纳了制度主义中那些适合进行“模型分析”的方面**==（Copeland，1951 年，第 59 页），而其他方面则被吸收到后来形成的应用领域中，例如产业组织、劳动经济学和劳资关系。
+		至少直到相当晚近的时候，==**这些领域与该学科的理论核心之间都只有松散的联系，并且保留了相当重要的制度性内容。**==
+	⑤制度主义者社会改革议程中的一个重要部分已经得以实现
+		==**这既消除了制度主义运动最初的一些成因，也引发了对政府扩大职能的尖锐批评**==，而制度主义者曾为推动政府扩大职能做了大量工作。
+		Frank Knight（1932）尤其毫不留情地批评了制度主义者关于市场的观点，以及对其他“社会控制”方法的需求。
+		芝加哥学派后来的成员延续了这种批评，其中以 Henry Simons 和 George Stigler 最为突出。
+
+
+旧制度主义经济学的逐步消解
+	不过，这一转变发生得相当缓慢。
+	肯尼斯·阿罗（阿罗不可能三角）（1975 年，第 5 页）曾谈到：
+		20 世纪 40 年代初，哥伦比亚大学仍然明显受到veblen思想的影响：当时唯一一门必修的研究生“理论”课程是==**米切尔开设的经济思想史课程**==，而该课程花费了相当多的时间讲授凡勃伦和康芒斯。
+		直到 1947 年，哥伦比亚大学才通过聘任艾伯特·哈特、乔治·斯蒂格勒和威廉·维克里来应对其在==**新古典理论方面的相对薄弱**==；
+		即便如此，该校还聘任了卡尔·波兰尼，以负责欧洲经济史。
+	马克·布劳格（1999 年，第 257—258 页）回忆说：
+		他在 20 世纪 50 年代初于哥伦比亚大学就读时的老师“==**恰好分为两派**==：==**一派是战前的制度主义者，如 J. M. 克拉克、阿瑟·F·伯恩斯、约瑟夫·多夫曼和卡尔·波兰尼；**==
+		==**另一派是战后的新古典经济学家，如乔治·斯蒂格勒、亚伯拉罕·伯格森、艾伯特·哈特和威廉·维克里**==”。
+		“威斯康星州也发生着类似的事情，==**格莱泽继续在那里教授康芒斯式制度主义，而在农业经济学领域则由肯尼斯·帕森斯授课**==，但制度主义者与其他学者之间的鸿沟正在逐渐扩大。==**20 世纪 50 年代，老一代制度主义者中的最后一批人退休，这一过程遂告完成。**==”
+	美国制度主义并未消失，但确实发生了变化。
+		制度主义者于 1959 年成立了规模较小的“沃德曼小组”，这一组织后来发展成为==**演化经济学协会**==。  
+		制度主义逐渐脱离了在其他领域日益流行的实证主义（具有讽刺意味的是，米切尔和美国国家经济研究局曾在实证主义的形成过程中发挥了重要作用），并转而避开那些已被新古典经济学和凯恩斯主义经济学占据的学科方法与核心领域。
+		制度主义者继续在公用事业监管、劳资关系等应用领域开展研究，并主张==**政府更加积极地监管经济、对经济进行“规划”**==（Gruchy，1974），但与此同时，也出现了某种回归趋势，重新关注维布伦和康芒斯所阐述的更广泛的制度主题。
+		克拉伦斯·艾尔斯在《经济进步理论》（1944）中，试图重新强调veblen主义关于==**技术是制度变迁驱动力**==的观点。
+		艾尔斯富有魅力的个性吸引了许多学生加入制度主义者行列。
+		==**得克萨斯大学比大多数大学更长久地保持了其制度主义特色**==；
+		到了 20 世纪 60 年代，该校仍是一个规模可观的制度主义者群体的所在地，他们热切关注波兰尼、艾尔斯和康芒斯。 
+		法律与经济学中的康芒斯传统也由丹尼尔·布罗姆利、艾伦·施密德和沃伦·萨缪尔斯延续至今（Samuels, 1971；Schmid, 1978；Samuels and Schmid, 1981；Bromley, 1989）。
+		此外，J. K. 加尔布雷思在《富裕社会》（1958）和《新工业国》（1971）中，提出了广为人知且明显带有veblen主义色彩的分析。
+		==**然而，若要探寻近年来以及更广泛的制度研究复兴的根源，就必须另寻他处。**==
+		
+
+
 ## Institutionalisms Old and New  
 新旧制度主义
 
-Not only did institutionalism decline in its place in American economics, but the changing nature of mainstream economics led to a narrowing of the range of acceptable work and a squeezing out of such institutional content as existed there. It should be emphasized that despite the institutionalist criticisms of “orthodox” economics, American economics in the interwar period was quite pluralistic, and institutionalist and more orthodox approaches shaded into each other. Even Frank Knight, perhaps the most outspoken critic of the policy aspects of the institutionalist movement, knew Clarence Ayres and other institutionalists well, taught a course in the 1930s on “Economics from an Institutional Standpoint” covering  
-制度主义不仅在美国经济学中的地位有所下降，而且主流经济学性质的变化也导致可接受研究的范围不断缩小，并将其中原有的制度性内容逐渐排挤出去。需要强调的是，尽管制度主义者批评“正统”经济学，但两次世界大战之间的美国经济学相当多元化，制度主义方法与较为正统的方法彼此交融。即使是弗兰克·奈特——或许是制度主义运动政策层面最直言不讳的批评者——也十分熟悉克拉伦斯·艾尔斯及其他制度主义者，并在 20 世纪 30 年代开设了一门“从制度立场看经济学”的课程，内容涵盖了
+新制度主义经济学和旧制度主义经济学的分野
 
-Veblen, Commons and a number of other institutionalist writers, as well as general problems in the origin and development of institutions and “the task of institutionalism” in “accounting historically for the factors treated as data in rationalistic, price theory economics.”  Nevertheless, for a period from the late 1940s through to about 1970, institutions became almost a prohibited subject within the mainstream of economics-banished to the ill-regarded discipline of sociology. As Furubotn and Richter (1991, p. 2) have put it: “The existence of political, legal, monetary, and other systems was certainly recognized; but either these systems were regarded as neutral in their effect on economic events and ignored, or they were taken as given and then specified in so perfunctory a way as to suggest that institutional influence was not of much importance.”  
-凡勃伦、康芒斯以及其他一些制度主义著述家所关注的问题，还包括制度起源与发展的总体问题，以及“制度主义的任务”——“从历史角度说明理性主义价格理论经济学中被视为既定事实的那些因素”。  然而，从 20 世纪 40 年代末到大约 1970 年这段时期，制度在经济学主流中几乎成了一个禁忌话题，被放逐到不受重视的社会学学科之中。正如 Furubotn 和 Richter（1991 年，第 2 页）所说：“政治、法律、货币和其他制度的存在当然得到了承认；但这些制度要么被认为对经济事件的影响是中性的，因而被忽略；要么被视为既定条件，随后以极其敷衍的方式加以规定，从而让人觉得制度的影响并不十分重要。”
+Not only did institutionalism decline in its place in American economics, but the changing nature of mainstream economics led to a narrowing of the range of acceptable work and a squeezing out of such institutional content as existed there. It should be emphasized that despite the institutionalist criticisms of “orthodox” economics, American economics in the interwar period was quite pluralistic, and institutionalist and more orthodox approaches shaded into each other. Even Frank Knight, perhaps the most outspoken critic of the policy aspects of the institutionalist movement, knew Clarence Ayres and other institutionalists well, taught a course in the 1930s on “Economics from an Institutional Standpoint” covering  Veblen, Commons and a number of other institutionalist writers, as well as general problems in the origin and development of institutions and “the task of institutionalism” in “accounting historically for the factors treated as data in rationalistic, price theory economics.”  Nevertheless, for a period from the late 1940s through to about 1970, institutions became almost a prohibited subject within the mainstream of economics-banished to the ill-regarded discipline of sociology. As Furubotn and Richter (1991, p. 2) have put it: “The existence of political, legal, monetary, and other systems was certainly recognized; but either these systems were regarded as neutral in their effect on economic events and ignored, or they were taken as given and then specified in so perfunctory a way as to suggest that institutional influence was not of much importance.”  
+制度主义不仅在美国经济学中的地位有所下降，而且主流经济学性质的变化也导致可接受研究的范围不断缩小，并将其中原有的制度性内容逐渐排挤出去。需要强调的是，尽管制度主义者批评“正统”经济学，但两次世界大战之间的美国经济学相当多元化，制度主义方法与较为正统的方法彼此交融。即使是弗兰克·奈特——或许是制度主义运动政策层面最直言不讳的批评者——也十分熟悉克拉伦斯·艾尔斯及其他制度主义者，并在 20 世纪 30 年代开设了一门“从制度立场看经济学”的课程，内容涵盖了凡勃伦、康芒斯以及其他一些制度主义著述家所关注的问题，还包括制度起源与发展的总体问题，以及“制度主义的任务”——“从历史角度说明理性主义价格理论经济学中被视为既定事实的那些因素”。  然而，从 20 世纪 40 年代末到大约 1970 年这段时期，制度在经济学主流中几乎成了一个禁忌话题，被放逐到不受重视的社会学学科之中。正如 Furubotn 和 Richter（1991 年，第 2 页）所说：“政治、法律、货币和其他制度的存在当然得到了承认；但这些制度要么被认为对经济事件的影响是中性的，因而被忽略；要么被视为既定条件，随后以极其敷衍的方式加以规定，从而让人觉得制度的影响并不十分重要。”
 
 What has led to the resurgence of institutionalist thinking in more recent years? The lack of institutional content in the core of neoclassical theory eventually became an issue both on a theoretical level, particularly as new concepts and analytical tools were developed, and on the more applied level of the comparison of market outcomes with regulatory alternatives. Martin Shubik (1975, p. 545) once called general equilibrium theory a “conceptual straightjacket,” a criticism quite close in nature to those made of standard theory by those in the “old” institutionalist movement. Harold Demsetz (1969, p. 1) argued for a “comparative institutional” approach to policy appraisal in place of the “nirvana” approach of “comparing an ideal norm with existing ‘imperfect’ institutional arrangements,” a point that reflected the growing tendency to argue that any departure from “optimal” conditions justified intervention in markets. A concern with unregulated markets was one of the factors behind the original institutionalist movement, while a concern with the overregulation of markets partly motivated the revival of interest in institutions, but in both cases the established formal theory was thought to be missing important elements of reality.  
 近年来，是什么促成了制度主义思想的复兴？新古典经济学理论核心缺乏制度内容的问题，最终在理论层面和更具应用性的层面上都成为一个议题：在理论层面，随着新概念和分析工具的发展，这一问题日益凸显；在应用层面，则体现为将市场结果与监管替代方案进行比较。Martin Shubik（1975，第 545 页）曾将一般均衡理论称为“概念上的紧身衣”，这一批评与“老”制度主义运动对标准理论所提出的批评在性质上颇为接近。Harold Demsetz（1969，第 1 页）主张采用“比较制度”方法评估政策，以取代“涅槃”式方法——即“将一种理想规范与现存的‘不完善’制度安排进行比较”。这一观点反映出一种日益增强的倾向：人们开始主张，任何偏离“最优”条件的情况都足以成为干预市场的理由。 对不受监管的市场的担忧，是最初制度主义运动兴起的因素之一；而对市场监管过度的担忧，则部分推动了人们重新关注制度。但在这两种情况下，人们都认为既有的形式理论遗漏了现实中的重要要素。
@@ -258,10 +494,8 @@ There has been a considerable concern among new institutionalists to differentia
 One line of connection between the old and the new can be found in Williamson’s remarks about the sources of his ideas on transactions cost economics and organizations (Williamson and Masten, 1995). Williamson (2000, p. xiii-xiv) credits Commons’s use of the “transaction” as the basic unit of activity and refers directly to the older institutionalist tradition in law and economics.  
 新旧两者之间的一条联系，可以从威廉姆森关于其交易成本经济学和组织思想来源的论述中找到（Williamson and Masten, 1995）。威廉姆森（2000，第 xiii-xiv 页）称赞康芒斯将“交易”作为活动的基本单位，并直接提及法律与经济学领域较早的制度主义传统。
 
-Another connection is to be found in the increasingly common reference to bounded rationality, even as a principle that is central to the new institutionalism (Furubotn and Richter, 1991). Indeed, many of the reasons given for the existence of “routines” or decision heuristics, organizations, conventions, and to institution-  
-另一条联系体现在人们越来越经常提及有限理性，即便它已成为新制度主义的核心原则（Furubotn and Richter, 1991）。事实上，对于“惯例”或决策启发式、组织、惯例以及制度之所以存在，许多给出的理由都……  
-alized rules in general, relate, in part or in whole, to the limits on rationality due to informational and cognitive constraints (Nelson and Winter, 1982, p. 35; Heiner 1983). This point of is quite consistent with old institutionalist criticisms of the rationalist view of man as a “lightning calculator” (Veblen, 1898, p. 73), and with J. M. Clark’s (1918) discussion of decision-making costs. Herbert Simon (1979, p. 499) has recognized the influence of old institutionalists, such as J. R. Commons, on his thinking, and has argued that (old) institutionalism was the “principal forerunner” of the behavioral theory of the firm.  
-一般化规则在部分或整体上涉及由信息和认知约束所导致的理性局限（Nelson and Winter, 1982, p. 35；Heiner 1983）。这一点与老制度主义者将人视为“闪电般的计算器”的理性主义观点所提出的批评（Veblen, 1898, p. 73），以及 J. M. Clark（1918）对决策成本的讨论，都十分一致。Herbert Simon（1979, p. 499）承认 J. R. Commons 等老制度主义者对其思想的影响，并认为（老）制度主义是企业行为理论的“主要先驱”。
+Another connection is to be found in the increasingly common reference to bounded rationality, even as a principle that is central to the new institutionalism (Furubotn and Richter, 1991). Indeed, many of the reasons given for the existence of “routines” or decision heuristics, organizations, conventions, and to institution-alized rules in general, relate, in part or in whole, to the limits on rationality due to informational and cognitive constraints (Nelson and Winter, 1982, p. 35; Heiner 1983). This point of is quite consistent with old institutionalist criticisms of the rationalist view of man as a “lightning calculator” (Veblen, 1898, p. 73), and with J. M. Clark’s (1918) discussion of decision-making costs. Herbert Simon (1979, p. 499) has recognized the influence of old institutionalists, such as J. R. Commons, on his thinking, and has argued that (old) institutionalism was the “principal forerunner” of the behavioral theory of the firm.    
+另一条联系体现在人们越来越经常提及有限理性，即便它已成为新制度主义的核心原则（Furubotn and Richter, 1991）。事实上，对于“惯例”或决策启发式、组织、惯例以及制度之所以存在，许多给出的理由都……  一般化规则在部分或整体上涉及由信息和认知约束所导致的理性局限（Nelson and Winter, 1982, p. 35；Heiner 1983）。这一点与老制度主义者将人视为“闪电般的计算器”的理性主义观点所提出的批评（Veblen, 1898, p. 73），以及 J. M. Clark（1918）对决策成本的讨论，都十分一致。Herbert Simon（1979, p. 499）承认 J. R. Commons 等老制度主义者对其思想的影响，并认为（老）制度主义是企业行为理论的“主要先驱”。
 
 Within the new institutional economics, there has also been a growing appreciation of the fact that institutions that could generate social benefits may not emerge, and that inefficient institutions may emerge and survive. The sources of this insight have arrived from different directions. Game theory has demonstrated that in a variety of finitely and infinitely repeated games, inefficient equilibria exist and persist (Binger and Hoffman, 1989). Economic theory has illustrated the phenomenon of path-dependence and “lock-in.” Further, once distributional issues are included in explaining institutional development and change, it is easy to generate situations where the economic interests of powerful groups will not coincide with the interests of society as a whole (North, 1981). These currents have sometimes intertwined in recent institutionalist work; for example, Jack Knight’s (1992) stress on conflicts of interest arising from the distributional effects of institutions, distributional coalitions, the interactions between the groups who benefit and those who are hampered, and on institutional development as an “ongoing bargaining game among different groups” has close similarities with the overall conception in Commons’s institutional economics, although expressed in the more formal language of game theory.  
 在新制度经济学中，人们也日益认识到，能够产生社会效益的制度未必会出现，而低效率的制度则可能形成并存续下来。这一认识的来源各不相同。博弈论已经证明，在各种有限次和无限次重复博弈中，低效率均衡都可能存在并持续下去（Binger and Hoffman, 1989）。经济理论阐释了路径依赖和“锁定”现象。此外，一旦在解释制度发展与变迁时纳入分配问题，就很容易构造出这样的情形：强势群体的经济利益并不符合整个社会的利益（North, 1981）。 这些思潮有时会在近期的制度主义研究中交织在一起；例如，Jack Knight（1992）强调制度的分配效应所引发的利益冲突、分配性联盟、受益群体与受阻群体之间的相互作用，以及将制度发展视为“不同群体之间持续进行的讨价还价博弈”，这与 Commons 制度经济学的总体构想十分相似，只是采用了更为形式化的博弈论语言来表达。
@@ -269,10 +503,8 @@ Within the new institutional economics, there has also been a growing appreciati
 The work of Douglass North (1990) provides a powerful example of an author who has not only come to abandon his original efficiency explanation of institutional change, but has also come to make extensive mention of the importance of “mental models,” norm-guided behavior, and ideological convictions. North (1981, p. 58) has argued that “the simple fact is that a dynamic theory of institutional change limited to the strictly neoclassical constraint of individualistic, rational purposive activity would never allow us to explain most secular change ranging from the stubborn struggle of the Jews in antiquity to the passage of the Social Security Act in 1935.” Several commentators have argued that North’s more recent work shows “a degree of convergence” with the ideas of the old institutionalists (Hodgson, 1998, p. 185; Rutherford, 1994, 1995).  
 道格拉斯·诺斯（Douglass North，1990）的著作有力地说明，一位作者不仅可能放弃自己最初关于制度变迁的效率解释，而且还可能开始广泛讨论“心智模型”、规范引导的行为以及意识形态信念的重要性。诺斯（North，1981，第 58 页）指出：“事实很简单：如果制度变迁的动态理论仅限于严格的新古典主义约束，即个人主义的、理性的、有目的的活动，那么我们永远无法解释大多数长期变迁——从古代犹太人顽强不屈的斗争，到 1935 年《社会保障法》的通过，皆是如此。”一些评论者认为，诺斯近期的著作显示出与老制度主义者思想“某种程度上的趋同”（Hodgson，1998，第 185 页；Rutherford，1994、1995）。
 
-The new institutionalism has worked to stimulate significant discussion not only of formal rules and governance structures, but also of informal norms and social networks, and of the relationships between them. Some of this discussion has reconnected economics with literatures in sociology and political  
-新制度主义不仅致力于推动人们深入讨论正式规则和治理结构，也推动了对非正式规范与社会网络及其相互关系的深入讨论。其中一部分讨论重新将经济学与社会学和政治学领域的文献联系起来。  
-science.  There has also been an increased interest in the role of shared values and in the sociological literatures surrounding such concepts as social capital, trust, community, and civil society (Knight, 1998), and in the endogeneity of preferences to processes of institutional change (Bowles, 1998). The development of a dialogue between the new institutional economics and the literatures on the “new institutionalism” in sociology, political science and anthropology is extremely interesting (Brinton and Nee, 1998; Hall and Taylor, 1996; DiMaggio and Powell, 1991; Richter, 1998). There has been no such degree of communication between economics and the other social sciences since the early days of the old institutionalism. If the new institutionalism makes a serious attempt to incorporate this type of work, it may not be able to avoid the tension, already visible in North’s work, between standard neoclassical assumptions and the broader subject matter of social norms and shared values.  
-科学。  人们也日益关注共同价值观所发挥的作用，以及围绕社会资本、信任、社区和公民社会等概念的社会学文献（Knight，1998），还关注偏好对于制度变迁过程的内生性（Bowles，1998）。新制度经济学与社会学、政治学和人类学中有关“新制度主义”的文献之间展开对话，是一件极具意义的事情（Brinton and Nee，1998；Hall and Taylor，1996；DiMaggio and Powell，1991；Richter，1998）。自旧制度主义兴起之初以来，经济学与其他社会科学之间就再也没有过如此程度的交流。如果新制度主义认真尝试吸收这类研究，就可能无法回避诺思的研究中已经显现出的张力：标准新古典主义假设与社会规范和共同价值观这一更为广泛的研究对象之间的张力。
+The new institutionalism has worked to stimulate significant discussion not only of formal rules and governance structures, but also of informal norms and social networks, and of the relationships between them. Some of this discussion has reconnected economics with literatures in sociology and political  science.  There has also been an increased interest in the role of shared values and in the sociological literatures surrounding such concepts as social capital, trust, community, and civil society (Knight, 1998), and in the endogeneity of preferences to processes of institutional change (Bowles, 1998). The development of a dialogue between the new institutional economics and the literatures on the “new institutionalism” in sociology, political science and anthropology is extremely interesting (Brinton and Nee, 1998; Hall and Taylor, 1996; DiMaggio and Powell, 1991; Richter, 1998). There has been no such degree of communication between economics and the other social sciences since the early days of the old institutionalism. If the new institutionalism makes a serious attempt to incorporate this type of work, it may not be able to avoid the tension, already visible in North’s work, between standard neoclassical assumptions and the broader subject matter of social norms and shared values.  
+新制度主义不仅致力于推动人们深入讨论正式规则和治理结构，也推动了对非正式规范与社会网络及其相互关系的深入讨论。其中一部分讨论重新将经济学与社会学和政治学领域的文献联系起来。  科学。  人们也日益关注共同价值观所发挥的作用，以及围绕社会资本、信任、社区和公民社会等概念的社会学文献（Knight，1998），还关注偏好对于制度变迁过程的内生性（Bowles，1998）。新制度经济学与社会学、政治学和人类学中有关“新制度主义”的文献之间展开对话，是一件极具意义的事情（Brinton and Nee，1998；Hall and Taylor，1996；DiMaggio and Powell，1991；Richter，1998）。自旧制度主义兴起之初以来，经济学与其他社会科学之间就再也没有过如此程度的交流。如果新制度主义认真尝试吸收这类研究，就可能无法回避诺思的研究中已经显现出的张力：标准新古典主义假设与社会规范和共同价值观这一更为广泛的研究对象之间的张力。
 
 The new literature on institutions has had other impacts too, impacts that move outside of the new institutionalism. Aspects of this literature have also served to stimulate attempts to renew the old institutionalism by bringing together more recent work in psychology, evolutionary models, and resource or competencebased theories of the firm with ideas taken from Veblen, Commons, and other old institutionalists. The best example of this trend comes from Geoff Hodgson (1998, 1999). Hodgson argues that the key demarcation between the old and the new institutionalism is that the new institutionalism is yoked to the model of rational individual behavior and the assumption of given individual preference functions. How his own synthesis of ideas will develop and whether it will work to reinvigorate the old institutionalist tradition remains to be seen.  
 关于制度的新文献还产生了其他影响，这些影响超出了新制度主义的范围。这一文献的一些方面还推动了振兴旧制度主义的尝试：将心理学、演化模型以及企业资源或能力理论的最新研究，与凡勃伦、康芒斯及其他旧制度主义者的思想结合起来。这一趋势的最佳例证来自杰夫·霍奇逊（1998，1999）。霍奇逊认为，旧制度主义与新制度主义之间的关键区别在于，新制度主义受制于理性个体行为模型以及个体偏好函数既定这一假设。他自己的思想综合将如何发展，以及这种综合能否使旧制度主义传统重新焕发生机，仍有待观察。
@@ -283,10 +515,97 @@ One final effect of the revival of interest in institutions has been to create i
 Many different “institutionalisms” have flourished at various times and places within the social sciences and the discipline of economics. Over time, the interest in institutions has come from different sources and with different, even opposing, motivations. Institutional analysis has been used both to explain the failings of unfettered markets and the need for a greater degree of government intervention, and the failings of government interventions and the need for a greater degree of market freedom. But a common theme is that institutions matter a great deal, and that economists need to think hard about the ways in which institutions shape economic behavior and outcomes, and are themselves shaped by economic, political, and ideological factors. This is not a simple task. As the old institutionalists fully realized, discussion of institutions tends to lead into areas difficult to handle with the standard neoclassical tools.  
 在社会科学和经济学这门学科中，不同形式的“制度主义”曾在不同的时代和地点蓬勃发展。随着时间的推移，人们对制度的兴趣来自不同的源头，也出于不同甚至相互对立的动机。制度分析既被用于解释不受约束的市场为何会失灵，以及为何需要更大程度的政府干预；也被用于解释政府干预为何会失灵，以及为何需要更大程度的市场自由。但一个共同主题是，制度极其重要，经济学家需要认真思考制度塑造经济行为和经济结果的方式，以及制度本身如何受到经济、政治和意识形态因素的塑造。这并非易事。正如老制度主义者充分认识到的那样，对制度的讨论往往会引向一些难以用标准新古典主义工具处理的领域。
 
+制度主义不仅在美国经济学中的地位有所下降，而且主流经济学性质的变化也导致可接受研究的范围不断缩小，并将其中原有的制度性内容逐渐排挤出去。
+需要强调的是，尽管制度主义者批评“正统”经济学，==**但两次世界大战之间的美国经济学相当多元化，制度主义方法与较为正统的方法彼此交融。**==
+即使是弗兰克·奈特——或许是制度主义运动政策层面最直言不讳的批评者——也十分熟悉克拉伦斯·艾尔斯及其他制度主义者，并==**在 20 世纪 30 年代开设了一门“从制度立场看经济学”的课程**==内容涵盖了凡勃伦、康芒斯以及其他一些制度主义著述家所关注的问题，还包括制度起源与发展的总体问题，以及“制度主义的任务”——“从历史角度说明理性主义价格理论经济学中被视为既定事实的那些因素”。
+然而，从 20 世纪 40 年代末到大约 1970 年这段时期，==**制度在经济学主流中几乎成了一个禁忌话题，被放逐到不受重视的社会学学科之中**==。正如 Furubotn 和 Richter（1991 年，第 2 页）所说：“政治、法律、货币和其他制度的存在当然得到了承认；==**但这些制度要么被认为对经济事件的影响是中性的，因而被忽略；要么被视为既定条件，随后以极其敷衍的方式加以规定，从而让人觉得制度的影响并不十分重要。”**==
+
+新制度经济学
+	新古典经济学理论核心==**缺乏制度内容的问题，最终在理论层面和更具应用性的层面上都成为一个议题**==：
+		在理论层面，随着新概念和分析工具的发展，这一问题日益凸显；
+		在应用层面，则体现为将==**市场结果与监管替代方案**==进行比较。
+			Martin Shubik（1975，第 545 页）曾将一般均衡理论称为“概念上的紧身衣”，这一批评与旧制度主义经济学运动对标准理论所提出的批评在性质上颇为接近。
+				这里的“标准理论”，是指当时经济学界通行的、标准化的新古典理论框架，尤其包括价格理论、一般均衡理论和福利经济学。
+			Harold Demsetz（1969，第 1 页）主张采用“比较制度”方法评估政策，以取代“涅槃”式方法——即“==**将一种理想规范与现存的‘不完善’制度安排进行比较**==”。
+				这一观点反映出一种日益增强的倾向：==**人们开始主张，任何偏离“最优”条件的情况都足以成为干预市场的理由**==。
+	 ==**对不受监管的市场的担忧，是最初制度主义运动兴起的因素之一**==；
+	 ==**而对市场监管过度的担忧，则部分推动了人们重新关注制度**==。
+		 但在这两种情况下，人们都认为既有的形式理论遗漏了现实中的重要要素。
+	当代经济学的许多发展都以某种方式涉及曾经属于早期制度主义传统的主题。
+		例如，许多研究尝试将经济学引向一种==**更为可信的心理学理论**==，
+			包括关于决策、有限理性和预期的研究。
+			这种利用==**认知心理学和进化心理学最新成果的兴趣**==，很容易让人联想到早期制度主义者对当时所谓“现代”心理学的兴趣。
+		同样，==**现代博弈论研究也对给定制度情境的建模（这些情境界定了博弈规则）以及社会惯例的演化问题投入了相当多的关注。**==
+		近期关于产权重要性的研究，探讨的是制度主义视角的核心议题。
+			交易成本这一概念隐含于部分较早的制度主义文献中，而近来对这一概念的明确阐释，催生了关于组织、契约以及制度在经济发展中作用的大量文献。
+			现代法律与经济学运动所研究的领域，正是制度主义者此前涉足的领域。
+			近期关于公司金融、代理理论和公司控制的许多研究，都==**以制度主义者关于所有权与控制权分离的开创性研究为出发点。**==
+	影响
+		这种对制度重新产生的兴趣带来了多方面的影响
+		最明显的结果或许是发展出了后来被称为“==**新制度经济学**==”的研究领域，
+			==**其主要内容是对产权、契约和组织进行交易成本分析**==。
+			新制度经济学通常将自身定位为一种==**拓展新古典经济学理论范围的尝试**==，通过解释传统上==**被视为既定条件的制度因素（如产权和治理结构）来实现这一目标**==；
+			与旧制度主义经济学不同，它并不是试图取代标准理论（Eggertsson，1990；Furubotn and Richter，1991，1997）。
+				在这一文献中，==**制度和制度变迁通常被分析为降低交易成本、减少不确定性、内部化外部性，以及通过协调或合作行为产生集体利益的方式**==。 
+				这一研究领域一直有一种强烈倾向：==**制度趋向于为经济问题提供“有效率的”解决方案**==；这一论点有时还辅以这样的观念：==**竞争会发挥筛选作用，选择出效率最高的组织形式、惯例体系或规则**==。
+
+Furubotn and Richter（1997）对新制度主义文献作了近期综述，本文不再尝试进行此类综述。
+本文将讨论旧制度主义与新制度主义之间关系的某些方面。
+
+新旧制度主义经济学的分野
+	新制度主义者一直非常重视将自己与“旧式”美国制度主义明确区分开来（Langlois，1986；Eggertsson，1990）。
+	==**二者在方法论、所使用的理论与分析工具，以及对市场和“商业”制度的基本取向方面，显然存在重大差异。**==
+	然而，==**新制度主义的某些方面确实与旧制度主义有所联系——包括一种超越标准新古典经济学边界的倾向。**==
+	新旧两者之间的一条联系，可以从威廉姆森关于==**其交易成本经济学和组织思想来源**==的论述中找到（Williamson and Masten, 1995）。
+		威廉姆森（2000，第 xiii-xiv 页）称赞康芒斯==**将“交易”作为活动的基本单位，并直接提及法律与经济学领域较早的制度主义传统。**==
+	新旧制度主义之间的另一项联系，可以从人们越来越频繁地援引“有限理性”这一概念中看出来；
+		==**有限理性甚至被视为新制度主义的一项核心原则**==（Furubotn and Richter，1991）。
+		事实上，人们在解释惯常程序、决策启发法、组织、社会习俗以及各种制度化规则为何存在时，所提出的许多理由，都部分或完全涉及这样一个事实：==**由于受到信息条件和认知能力的限制，人的理性能力是有限的**==（Nelson and Winter，1982，第35页；Heiner，1983）。
+		这一观点与旧制度主义经济学者对理性主义人性观的批评十分一致；
+			按照这种理性主义观点，人仿佛是一台能够瞬间完成复杂计算的“闪电计算器”（Veblen，1898，第73页）。
+			它也与J. M.克拉克（1918）关于决策本身需要付出成本的讨论相契合。
+			==**赫伯特·西蒙（1979，第499页）承认，J. R.康芒斯等老制度主义者对他的思想产生了影响，并认为老制度主义是“企业行为理论的主要先驱”。**==
+	在新制度经济学中，人们也日益认识到，==**能够产生社会效益的制度未必会出现**==，而低效率的制度则可能形成并存续下来。
+		这一认识的来源各不相同。
+		博弈论已经证明，==**在各种有限次和无限次重复博弈中，低效率均衡都可能存在并持续下去**==（就像[[Douglas North读书笔记]]在第二段所说）（Binger and Hoffman, 1989）。
+		经济理论阐释了路径依赖和“锁定”现象。
+	此外，一旦在解释制度发展与变迁时纳入分配问题，就很容易构造出这样的情形：
+		==**强势群体的经济利益并不符合整个社会的利益**==（North, 1981）。 
+		这些思潮有时会在近期的制度主义研究中交织在一起；
+			例如，Jack Knight（1992）强调制度的分配效应所引发的利益冲突、分配性联盟、受益群体与受阻群体之间的相互作用，以及==**将制度发展视为“不同群体之间持续进行的讨价还价博弈”**==，这与 Commons 制度经济学的总体构想十分相似，只是采用了更为形式化的博弈论语言来表达。
+	道格拉斯·诺斯（Douglass North，1990）的著作有力地说明，一位作者不仅可能放弃自己最初关于制度变迁的效率解释，而且还可能开始广泛讨论“心智模型”、规范引导的行为以及意识形态信念的重要性。
+		诺斯（North，1981，第 58 页）指出：“事实很简单：==**如果制度变迁的动态理论仅限于严格的新古典主义约束，即个人主义的、理性的、有目的的活动，那么我们永远无法解释大多数长期变迁**==——从古代犹太人顽强不屈的斗争，到 1935 年《社会保障法》的通过，皆是如此。”
+		一些评论者认为，诺斯近期的著作显示出与老制度主义者思想“某种程度上的趋同”（Hodgson，1998，第 185 页；Rutherford，1994、1995）。
+	新制度主义不仅推动了对正式规则和治理结构的大量讨论，也推动了对非正式规范、社会网络以及它们之间相互关系的研究。
+		其中一部分讨论，==**使经济学重新与社会学和政治学的相关研究传统建立起联系**==。
+		与此同时，人们也越来越关注==**共同价值观**==的作用，以及社会学中围绕社会资本、信任、共同体和公民社会等概念形成的研究文献（Knight，1998）；
+		人们还开始关注，==**个人偏好如何在制度变迁过程中被塑造**==，也就是说，偏好本身如何成为制度变迁过程的内生结果（Bowles，1998）。
+		新制度经济学与社会学、政治学和人类学中的“新制度主义”研究之间逐渐形成对话，这一发展尤其值得关注（Brinton and Nee，1998；Hall and Taylor，1996；DiMaggio and Powell，1991；Richter，1998）。
+		自旧制度主义经济学兴起的早期以来，==**经济学与其他社会科学之间还从未出现过如此广泛而深入的交流**==。
+		如果新制度主义认真尝试将这类研究纳入自身的分析框架，那么它恐怕无法回避一种张力——这种张力在诺思的研究中已经显现出来，即标准的新古典主义假设与社会规范、共同价值观等更为广泛的研究内容之间的张力。
+	关于制度的新文献还产生了其他影响，这些影响超出了新制度主义的范围。
+		这一文献的一些方面还推动了==**振兴旧制度主义**==的尝试：
+			将心理学、演化模型以及企业资源或能力理论的最新研究，与凡勃伦、康芒斯及其他旧制度主义者的思想结合起来。
+				这一趋势的最佳例证来自杰夫·霍奇逊（1998，1999）。
+				霍奇逊认为，==**旧制度主义与新制度主义之间的关键区别在于，新制度主义受制于理性个体行为模型以及个体偏好函数既定这一假设**==。
+				他自己的思想综合将如何发展，以及这种综合能否使旧制度主义传统重新焕发生机，仍有待观察。
+	制度研究兴趣的复兴所产生的最后一个影响，==**是引发了人们对经济学史上此前被忽视的文献的兴趣。**==
+		这不仅包括我本人关于制度经济学的一些研究，也包括关于德国历史主义中法律与经济学起源的研究（Pearson，1997）、
+		关于施穆勒、涂尔干和韦伯的“社会经济学”的研究（Nau and Steiner，2000；Nau，2000）、
+		关于施穆勒对熊彼特早期作品影响的研究（Ebner，2000）、
+		关于弗兰克·奈特作品中制度性成分的研究（Hodgson，2001）、
+		关于企业演化性质中的“后马歇尔主义”传统的研究（Finch，2000），以及其他许多研究。
+		这些近期研究==**改变了人们对于两次世界大战之间时期存在一种占主导地位的英美新古典正统观念的看法**==，转而采取更加==**多元主义和国际化**==的视角（Morgan and Rutherford，1998；Hodgson，即将出版）。
+		一些有趣的问题由此产生：==**这些不同文献之间存在怎样的相互联系，以及经济学与心理学、社会学等相关社会科学学科之间的关系如何发生变化。**==
+	在社会科学和经济学这门学科中，不同形式的“制度主义”曾在不同的时代和地点蓬勃发展。
+		随着时间的推移，人们对制度的兴趣来自不同的源头，也出于不同甚至相互对立的动机。
+		制度分析既被用于==**解释不受约束的市场为何会失灵**==，以及为何需要更大程度的政府干预；
+		也被用于解释政府干预为何会失灵，以及为何需要更大程度的市场自由。
+		但一个共同主题是，==**制度极其重要**==，经济学家需要认真思考制度塑造==**经济行为和经济结果的方式，以及制度本身如何受到经济、政治和意识形态因素的塑造**==。
+		这并非易事。正如老制度主义者充分认识到的那样，对制度的讨论往往会引向一些难以用标准新古典主义工具处理的领域。
+
 - This paper draws on a number of my recent papers on the history of institutional economics (Rutherford, 1997, 1999, 2000a, 2000b, 2000c) and on archival work using the Clarence Ayres Papers, Center for American History, University of Texas; the Walton Hamilton Papers, Tarlton Law Library, University of Texas; the Allyn Young Papers, Harvard University Archives; the Archives of the Brookings Institution; the James Bonbright Papers, J. M. Clark Papers, Morris Copeland Papers, Carter Goodrich Papers, Robert Hale Papers, and Wesley Mitchell Papers, all at the Rare Book and Manuscript Library, Columbia University; the John R. Commons Papers, and Edwin E. Witte Papers at the State Historical Society of Wisconsin; and the Papers of the War Labor Policies Board at the National Archives, College Park. I have also benefited from access to Allan Gruchy’s papers in the possession of his son, interviews with John Adams, Warren Samuels, Harry Trebing, Mark Perlman, and the recollections of Walter Neale. This research has been supported by a Social Science and Humanities Research Council of Canada research grant (project # 410-99-0465).  
     本文借鉴了我近期有关制度经济学史的若干论文（Rutherford，1997、1999、2000a、2000b、2000c），以及对以下档案资料的研究：得克萨斯大学美国历史中心的 Clarence Ayres Papers；得克萨斯大学 Tarlton 法律图书馆的 Walton Hamilton Papers；哈佛大学档案馆的 Allyn Young Papers；布鲁金斯学会档案馆的档案；哥伦比亚大学珍本与手稿图书馆收藏的 James Bonbright Papers、J. M. Clark Papers、Morris Copeland Papers、Carter Goodrich Papers、Robert Hale Papers 和 Wesley Mitchell Papers；威斯康星州历史学会的 John R. Commons Papers 和 Edwin E. Witte Papers；以及位于 College Park 的美国国家档案馆所藏 War Labor Policies Board Papers。此外，我还得以查阅 Allan Gruchy 由其儿子保存的论文资料，并受益于对 John Adams、Warren Samuels、Harry Trebing、Mark Perlman 的访谈以及 Walter Neale 的回忆。本研究得到加拿大社会科学与人文研究委员会研究资助（项目编号：410-99-0465）。
-
-
 
 
 1. - Malcolm Rutherford is Professor of Economics, University of Victoria, Victoria, British Columbia, Canada. His e-mail address is 〈rutherfo@uvic.ca〉.  
