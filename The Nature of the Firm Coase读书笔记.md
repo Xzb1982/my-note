@@ -44,25 +44,17 @@ It is convenient if, in searching for a definition of a firm, we first consider 
 
 > “正常的经济体系能够自行运转。在日常运行中，它既不受某个中央机构的控制，也不需要中央机构对全局进行统筹。在人类活动和需求所涉及的广阔范围内，供给通过一种自动、灵活而又反应敏捷的过程适应需求，生产也相应地适应消费。”
 
-萨尔特：正常的经济体系不需要中央机构控制/统筹就能自行运转
-	供给通过一种自动、敏捷的过程来适应需求
-	生产也相应地适应消费
-价格机制协调经济体系，社会是一个自发运行的有机整体
-经济体系自行运转≠个人不进行计划
-	个人对未来有预期，能在不同方案之间做出选择
-	如果整个经济体系要有序，那么这种个人的预期规划是必要的
-但是这种理论假设了：资源的流向直接由价格机制决定
-
-
 在经济学家看来，经济体系是由价格机制协调的。这样一来，社会就不再是一个由人有意识地安排和管理的“组织”，而更像一个能够自发运行的“有机体”。
 
 所谓经济体系“自行运转”，并不意味着个人不会进行计划。个人会预见未来，并在不同方案之间作出选择。事实上，如果整个体系要保持秩序，这种个人计划就是必不可少的。但是，上述理论假定，资源的流向直接由价格机制决定。人们甚至经常以此反对经济计划，认为经济计划不过是在试图完成价格机制已经能够完成的工作。
 
 然而，萨尔特爵士的描述只呈现了经济体系中很不完整的一面，因为它根本无法说明企业内部的情况。
+	例如如果一名工人从部门Y 调到部门 X，这通常不是因为两个部门之间的相对价格发生了变化，而是==**因为他接到了管理者的命令。**==
 
-例如，按照经济理论，生产要素在不同用途之间的配置由价格机制决定。假设生产要素 \(A\) 在用途 \(X\) 中的价格高于它在用途 \(Y\) 中的价格，那么要素 \(A\) 就会从 \(Y\) 浑向 \(X\)，直到它在 \(X\) 与 \(Y\) 中的价格差异消失为止——除非剩余的价格差异是对其他条件差异的补偿。
+例如，按照经济理论，生产要素在不同用途之间的配置由价格机制决定。假设生产要素 \(A\) 在生产活动 \(X\) 中的价格高于它在生产活动 \(Y\) 中的价格，那么要素 \(A\) 就会从 \(Y\) 流向 \(X\)，直到它在 \(X\) 与 \(Y\) 中的价格差异消失为止——除非剩余的价格差异是对其他条件差异的补偿。
 
-但是，在现实世界中，许多领域的资源配置并不是这样发生的。如果一名工人从部门 \(Y\) 调到部门 \(X\)，这通常不是因为两个部门之间的相对价格发生了变化，而是因为他接到了管理者的命令。
+
+但是，在现实世界中，许多领域的资源配置并不是这样发生的。如果一名工人从部门 \(Y\) 调到部门 \(X\)，这通常不是因为两个部门之间的相对价格发生了变化，而是==**因为他接到了管理者的命令。**==
 
 对于那些认为价格变动已经能够解决资源配置问题、因而反对经济计划的人，我们可以这样回应：在现有经济体系内部，事实上存在着一种有意识的计划。这种计划不同于前面所说的个人对自己行为的安排，而与通常所说的经济计划颇为相似。上面的工人调动只是现代经济体系中一个广泛存在的现象的典型例子。
 
@@ -77,3 +69,91 @@ It is convenient if, in searching for a definition of a firm, we first consider 
 显然，市场价格机制与企业内部的管理命令，是协调生产的两种替代方式。可是，如果价格变动本身就足以调节生产，使生产能够在没有任何有意识组织的情况下进行，那么我们自然要追问：
 
 > **为什么企业这种组织仍然会存在？**
+
+
+萨尔特：正常的经济体系不需要中央机构控制/统筹就能自行运转
+	供给通过一种自动、敏捷的过程来适应需求
+	生产也相应地适应消费
+价格机制协调经济体系，社会是一个自发运行的有机整体
+经济体系自行运转≠个人不进行计划
+	个人对未来有预期，能在不同方案之间做出选择
+	如果整个经济体系要有序，那么这种个人的预期规划是必要的
+但是这种理论假设了：资源的流向直接由价格机制决定
+	人们经常因为这个假设而反对经济计划，认为经济计划不过是==**在完成价格机制本身已经能完成的工作**==
+
+萨尔特的观点没有办法说明企业内部的情况
+	例如生产要素的配置由价格机制决定
+	假设生产要素A 在生产活动 X 中的价格>它在生产活动 Y中的价格，那么要素 A 就会从 Y 流向 X，直到它在 X 与 Y 中的价格差异消失为止
+例如，生产要素 \(A\) 可以是：
+- 劳动力：其价格是工资；
+- 资本：其价格可以理解为利息或资本回报；
+- 土地：其价格是租金；
+- 原材料：其价格是购买成本。
+
+我们可以这样回应那些反对经济计划而且认为价格变动已经能解决资源配置的人
+	在现有的经济体系内，和个人对自己行为的规划不同，事实上已经存在一种有意识的计划（这与通常所说的经济计划类似）
+
+但是，既然人们通常认为生产活动能由价格机制来协调，为什么还需要这种组织？
+	企业外，生产由价格变动引导，并通过市场上一系列交换交易得到协调。
+	在企业内部，这些市场交易则被取消了：==**由复杂市场交易构成的协调机制，被企业家—协调者所取代，由企业家—协调者直接指挥生产。**==
+
+显然，==**市场价格机制与企业内部的管理命令，是协调生产的两种替代方式**==。可是，如果价格变动本身就足以调节生产，使生产能够在没有任何有意识组织的情况下进行，那么我们自然要追问：**为什么企业这种组织仍然会存在？**
+
+Of course, the degree to which the price mechanism is superseded varies greatly. In a department store, the allocation of the different sections to the various locations in the building may be done by the controlling authority or it may be the result of competitive price bidding for space. In the Lancashire cotton industry, a weaver can rent power and shop-room and can obtain looms and yarn on credit. 
+ This co-ordination of the various factors of production is, however, normally carried out without the intervention of the price mechanism. As is evident, the amount of “vertical” integration, involving as it does the supersession of the price mechanism, varies greatly from industry to industry and from firm to firm.
+ 
+It can, I think, be assumed that the distinguishing mark of the firm is the supersession of the price mechanism. It is, of course, as Professor Robbins points out, “related to an outside network of relative prices and costs,” 
+ but it is important to discover the exact nature of this relationship. This distinction between the allocation of resources in a firm and the allocation in the economic system has been very vividly described by Mr. Maurice Dobb when discussing Adam Smith’s conception of the capitalist: " It began to be seen that there was something more important than the relations inside each factory or unit captained by an undertaker ; there were the relations of the undertaker with the rest of the economic world outside his immediate sphere . . . . the undertaker busies himself with the division of labour inside each firm and he plans and organises consciously," but " he is related to the much larger economic specialisation, of which he himself is merely one specialised unit. Here, he plays his part as a single cell in a larger organism, mainly unconscious of the wider rôle he fills." 
+
+当然，在不同情况下，价格机制被企业内部协调所取代的程度存在很大差异。
+
+例如，在一家百货公司里，各营业部门在大楼中所处位置的分配，可以由公司的管理者统一决定，也可以由各部门通过竞价取得营业空间。在兰开夏棉纺业中，织工可以租用动力和作业场地，也可以通过信贷或赊购的方式取得织机和纱线。不过，在通常情况下，这些不同生产要素之间的协调并不需要价格机制逐项介入。
+
+显然，所谓“纵向一体化”意味着由企业内部协调取代一部分原本通过市场完成的协调；而这种一体化的程度，在不同行业之间以及不同企业之间都有很大差异。
+
+我认为，可以把企业的区别性标志概括为：在企业内部，价格机制在一定程度上被企业家的协调所取代。当然，正如罗宾斯教授所指出的，企业仍然“与外部的相对价格和成本网络相联系”。但是，我们需要进一步弄清楚，企业内部的协调与这个外部价格体系之间究竟具有怎样的关系。
+
+莫里斯·多布在讨论亚当·斯密对资本家的理解时，曾十分生动地描述企业内部的资源配置与整个经济体系中的资源配置之间的区别：
+
+> 人们开始认识到，除了每个由企业家掌管的工厂或生产单位内部的关系之外，还有一种更为重要的关系，即企业家与其直接控制范围以外的整个经济世界之间的关系……企业家在自己的企业内部安排劳动分工，有意识地进行计划和组织；但与此同时，他又处在一个规模大得多的社会经济分工体系之中，而他自己不过是其中一个专业化的单位。在这个更大的有机体中，他如同一个细胞，发挥着自己的作用，却通常意识不到自己在整个体系中承担的更广泛角色。
+
+经济学家一方面把价格机制视为协调经济活动的工具，另一方面又承认企业家具有协调生产的职能。既然如此，我们显然需要追问：为什么在一种情况下，生产活动由价格机制协调，而在另一种情况下，却由企业家来协调？
+
+本文的目的，==**正是弥合经济理论中看似存在的一处断裂**==：经济学理论为了分析某些问题，会假定资源由价格机制配置；但为了分析另一些问题，又会假定资源配置取决于作为协调者的企业家。我们必须解释，在现实中，人们究竟依据什么，在这两种替代性的协调方式之间作出选择。
+
+在不同情况下，价格机制被企业内部协调所取代的程度存在很大差异
+	在一家百货公司里，各营业部门在大楼中所处位置的分配，可以由公司的管理者统一决定，也可以由各部门通过竞价取得营业空间
+	在兰开夏棉纺业中，织工可以租用动力和作业场地，也可以通过信贷或赊购的方式取得织机和纱线。
+	不过，在通常情况下，这些不同生产要素之间的协调并不需要价格机制逐项介入。
+		gpt:例如，在实行统一管理的百货公司中，管理者可以直接决定各部门的营业位置，并调配场地、人员和设备，各部门无须为每一次资源调整相互竞价或签订交易合同。
+
+显然，所谓“纵向一体化”意味着由企业内部协调取代一部分原本通过市场完成的协调；而这种一体化的程度，在不同行业之间以及不同企业之间都有很大差异。
+
+企业的区别性标志可以被概括为：在企业内部，价格机制在一定程度上被==**企业家的协调**==所取代。
+当然，正如罗宾斯教授所指出的，==**企业仍然“与外部的相对价格和成本网络相联系”**==。
+但是==企业内部的协调与这个外部价格体系之间究竟具有怎样的关系==。
+
+莫里斯·多布描述企业内部的资源配置与整个经济体系中的资源配置之间的区别：
+> 人们开始认识到，除了每个由企业家掌管的工厂或生产单位内部的关系之外，还有一种更为重要的关系，即企业家与其直接控制范围以外的整个经济世界之间的关系……企业家在自己的企业内部安排劳动分工，有意识地进行计划和组织；但与此同时，他又处在一个规模大得多的社会经济分工体系之中，而他自己不过是其中一个专业化的单位。在这个更大的有机体中，他如同一个细胞，发挥着自己的作用，却通常意识不到自己在整个体系中承担的更广泛角色。
+
+人们认识到每个由企业家掌管的工厂或生产单位内部的关系之外，还有企业家与其直接控制范围以外的整个经济世界之间的关系（这种关系更为重要）
+	企业家在自己企业内安排分工；与此同时又处在一个规模大得多的社会经济分工体系之中
+	在这个更大的有机体中，他如同一个细胞，发挥着自己的作用，==**却通常意识不到自己在整个体系中承担的更广泛角色。**==
+
+经济学家一方面把价格机制视为协调经济活动的工具，另一方面又承认企业家具有协调生产的职能。
+	既然如此，我们显然需要追问：为什么在一种情况下，生产活动由价格机制协调，而在另一种情况下，却由企业家来协调？
+
+点明本文目的：经济学理论为了分析某些问题，==**会假定资源由价格机制配置；**==但==**为了分析另一些问题，又会假定资源配置取决于作为协调者的企业家**==。我们必须解释，==**在现实中，人们究竟依据什么，在这两种替代性的协调方式之间作出选择。**==
+
+II
+
+Our task is to attempt to discover why a firm emerges at all in a specialised exchange economy. The price mechanism (considered purely from the side of the direction of resources) might be superseded if the relationship which replaced it was desired for its own sake. This would be the case, for example, if some people preferred to work under the direction of some other person. Such individuals would accept less in order to work under someone, and firms would arise naturally from this. But it would appear that this cannot be a very important reason, for it would rather seem that the opposite tendency is operating if one judges from the stress normally laid on the advantage of " being one’s own master." 
+ Of course, if the desire was not to be controlled but to control, to exercise power over others, then people might be willing to give up something in order to direct others ; that is, they would be willing to pay others more than they could get under the price mechanism in order to be able to direct them. But this implies that those who direct pay in order to be able to do this and are not paid to direct, which is clearly not true in the majority of cases. 
+ Firms might also exist if purchasers preferred commodities which are produced by firms to those not so produced ; but even in spheres where one would expect such preferences (if they exist) to be of negligible importance, firms are to be found in the real world. 
+ Therefore there must be other elements involved.
+我们的任务是尝试探究：在一个专业化的交换经济中，企业为何会出现。价格机制（纯粹从资源配置的角度来看）如果被替代它的关系本身就是人们所追求的，那么这种替代便可能发生。例如，如果有些人更愿意在他人的指挥下工作，情况便是如此。这些人会接受较少的报酬，以便在某人的指挥下工作，而企业也会由此自然产生。但看来这不可能是一个十分重要的原因，因为如果从通常强调“做自己的主人”所具有的优势这一点来看，似乎起作用的恰恰是相反的倾向。 
+ 当然，如果人们所渴望的不是受控制而是控制他人、对他人行使权力，那么他们可能愿意放弃某些东西来指挥他人；也就是说，为了能够指挥他人，他们愿意支付给他人的报酬高于他们在价格机制下所能获得的报酬。但这意味着，那些进行指挥的人是为了能够这样做而付出报酬，而不是因为进行指挥而获得报酬；显然，在大多数情况下事实并非如此。 
+ 如果购买者偏好由企业生产的商品，而不偏好非由企业生产的商品，企业也可能因此存在；但即使在那些人们预期此类偏好（如果存在）无关紧要的领域，现实世界中仍然可以找到企业。 
+ 因此，其中必然还涉及其他因素。
+
+纯粹从资源配置的角度来看，价格机制如果被替代
