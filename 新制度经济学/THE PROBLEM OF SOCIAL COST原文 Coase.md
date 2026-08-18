@@ -309,59 +309,81 @@ VII. 权利的法律界定与经济问题
 The discussion in Section V not only served to illustrate the argument but also afforded a glimpse at the legal approach to the problem of harmful effects. The cases considered were all English but a similar selection of American cases could easily be made and the character of the reasoning would have been the same. Of course, if market transactions were costless, all that matters (questions of equity apart) is that the rights of the various parties should be well-defined and the results of legal actions easy to forecast. But as we have seen, the situation is quite different when market transactions are so costly as to make it difficult to change the arrangement of rights established by the law. In such cases, the courts directly influence economic activity. It would therefore seem desirable that the courts should understand the economic consequences of their decisions and should, insofar as this is possible without creating too much uncertainty about the legal position itself, take these consequences into account when making their decisions. Even when it is possible to change the legal delimitation of rights through market transactions, it is obviously desirable to reduce the need for such transactions and thus reduce the employment of resources in carrying them out.  
 第五节的讨论不仅用于阐明这一论点，也让我们得以一窥法律处理有害影响问题的方法。所考察的案例全部来自英国，但同样可以轻易选取一组美国案例，而其推理方式也会相同。当然，如果市场交易毫无成本，那么重要的（撇开公平问题不谈）只是各方的权利应当得到明确界定，且法律诉讼的结果应当易于预测。但正如我们所看到的，当市场交易成本高到难以改变法律确立的权利安排时，情况就大不相同了。在这种情况下，法院会直接影响经济活动。因此，法院似乎有必要理解其判决所产生的经济后果，并在不致使法律地位本身产生过多不确定性的范围内，在作出判决时将这些后果考虑在内。 即使可以通过市场交易改变权利的法律界定，显然也应当减少对此类交易的需要，从而减少为进行这些交易而投入的资源。
 
-A thorough examination of the presuppositions of the courts in trying such cases would be of great interest but I have not been able to attempt it. Nevertheless it is clear from a cursory study that the courts have often recognized the economic implications of their decisions and are aware (as many economists are not) of the reciprocal nature of the problem. Furthermore, from time to time, they take these economic implications into account, along with other factors, in arriving at their decisions. The American writers on this subject refer to the question in a more explicit fashion than do the British. Thus, to quote Prosser on Torts, a person may  
-深入考察法院审理此类案件时所依据的前提，将会非常有意义，但我未能对此加以尝试。不过，从粗略的研究中可以清楚看出，法院往往认识到其判决所具有的经济含义，并且意识到（许多经济学家却没有意识到）这一问题具有相互性。此外，法院有时也会在作出判决时，将这些经济含义与其他因素一并考虑进去。美国学者在论述这一主题时，比英国学者更加明确地提及了这一问题。例如，引用 Prosser 关于侵权行为的论述，一个人可能  
-make use of his own property or . . . conduct his own affairs at the expense of some harm to his neighbors. He may operate a factory whose noise and smoke cause some discomfort to others, so long as he keeps within reasonable bounds. It is only when his conduct is unreasonable, in the light of its utility and the harm which results [italics added], that it becomes a nuisance. . . . . As it was said in an ancient case in regard to candle-making in a town, “Le utility del chose excusera le noisomeness del stink.”  
-利用自己的财产，或……以给邻居造成某些损害为代价处理自己的事务。他可以经营一家工厂，只要将噪声和烟雾控制在合理范围内，即使这些噪声和烟雾会给他人造成某些不适。只有当其行为鉴于其效用及由此产生的损害而言是不合理的[斜体为后加]时，才会构成妨害……正如一个古老案件中关于在城镇制蜡烛时所说的：“Le utility del chose excusera le noisomeness del stink。”
+A thorough examination of the presuppositions of the courts in trying such cases would be of great interest but I have not been able to attempt it. Nevertheless it is clear from a cursory study that the courts have often recognized the economic implications of their decisions and are aware (as many economists are not) of the reciprocal nature of the problem. Furthermore, from time to time, they take these economic implications into account, along with other factors, in arriving at their decisions. The American writers on this subject refer to the question in a more explicit fashion than do the British. Thus, to quote Prosser on Torts, a person may  make use of his own property or . . . conduct his own affairs at the expense of some harm to his neighbors. He may operate a factory whose noise and smoke cause some discomfort to others, so long as he keeps within reasonable bounds. It is only when his conduct is unreasonable, in the light of its utility and the harm which results [italics added], that it becomes a nuisance. . . . . As it was said in an ancient case in regard to candle-making in a town, “Le utility del chose excusera le noisomeness del stink.”  
+如果能够对法院审理这类案件时所依据的各种隐含前提进行全面考察，那将会非常有意义；不过，我一直未能开展这项研究。
 
-The world must have factories, smelters, oil refineries, noisy machinery and blasting, even at the expense of some inconvenience to those in the vicinity and the  
-世界必须有工厂、冶炼厂、炼油厂、嘈杂的机器和爆破作业，即使这会给附近的人带来某些不便，而且  
-plaintiff may be required to accept some not unreasonable discomfort for the general good. 原告可能被要求为了公共利益而承受某些并非不合理的不适。 
+尽管如此，即便只是作一番初步考察，也可以清楚地看出：法院常常能够认识到其判决可能产生的经济影响，而且也意识到了这一问题所具有的相互性——而许多经济学家反倒没有意识到这一点。不仅如此，法院在作出判决时，有时确实会把这些经济影响与其他因素一并纳入考虑。
 
-The standard British writers do not state as explicitly as this that a comparison between the utility and harm produced is an element in deciding whether a harmful effect should be considered a nuisance. But similar views, if less strongly expressed, are to be found.  The doctrine that the harmful effect must be substantial before the court will act is, no doubt, in part a reflection of the fact that there will almost always be some gain to offset the harm. And in the reports of individual cases, it is clear that the judges have had in mind what would be lost as well as what would be gained in deciding whether to grant an injunction or award damages. Thus, in refusing to prevent the destruction of a prospect by a new building, the judge stated:  
-英国的权威论述并未如此明确地指出，对所产生的效用与损害进行比较，是决定某种有害影响是否应被视为妨害行为的一个要素。但类似的观点，即使表述得不那么强烈，也可以找到。  法院只有在有害影响达到实质程度时才会采取行动，这一原则无疑部分反映了这样一个事实：几乎总会有某种收益可以抵消损害。而且，从个案判决中可以清楚看出，法官在决定是否准予禁令或判给损害赔偿时，考虑的不仅是将获得什么，也包括将失去什么。因此，在拒绝制止新建筑遮挡视野时，法官说道：
+美国学者在讨论这个问题时，通常比英国学者表达得更加明确。例如，引用普罗瑟《侵权法》中的论述：
 
-I know no general rule of common law, which . . . says, that building so as to stop another’s prospect is a nuisance. Was that the case, there could be no great towns; and I must grant injunctions to all the new buildings in this town. . . 我不知道普通法中有任何一般规则……规定建造建筑物以遮挡他人的视野属于妨害行为。如果真是这样，世上就不可能有大城市；而我就必须对本城所有新建的建筑物都颁发禁令…… 
+> 一个人可以使用自己的财产，或者……经营自己的事务，即使这样做会给邻居造成一定程度的损害。他可以经营一家工厂；只要工厂造成的影响仍然处于合理限度之内，那么即使其噪声和烟雾给他人带来一些不适，也不当然构成妨害。
+> 
+> 只有根据该行为所具有的效用以及由此造成的损害来衡量，该行为已经达到不合理的程度时，它才构成法律意义上的妨害……［斜体为引者所加］
+> 
+> 正如一个古老案件在谈到城镇中的蜡烛制造时所说的：“某项活动所具有的效用，可以使其臭味造成的妨扰得到一定程度的宽宥。”
 
-In Webb v. Bird  it was decided that it was not a nuisance to build a schoolhouse so near a windmill as to obstruct currents of air and hinder the working of the mill. An early case seems to have been decided in an opposite direction. Gale commented:  
-在 Webb 诉 Bird 案  中，法院裁定，将校舍建造在距离风车如此之近的位置，以致阻碍气流并妨碍风车运转，并不构成妨害。早期似乎有一个作出相反裁决的案件。Gale 评论道：
 
-In old maps of London a row of windmills appears on the heights to the north of London. Probably in the time of King James it was thought an alarming circumstance, as affecting the supply of food to the city, that anyone should build so near them as to take the wind out from their sails. 在伦敦的旧地图上，伦敦以北的高地上似乎有一排风车。大概在詹姆斯国王时期，人们认为，如果有人在离这些风车如此之近的地方建造建筑物，以致使风帆失去风力，这将对城市的粮食供应产生影响，因而是一种令人担忧的情形。 
+The world must have factories, smelters, oil refineries, noisy machinery and blasting, even at the expense of some inconvenience to those in the vicinity and the  plaintiff may be required to accept some not unreasonable discomfort for the general good.
 
-In one of the cases discussed in section V, Sturges v. Bridgman, it seems clear that the judges were thinking of the economic consequences of alternative decisions. To the argument that if the principle that they seemed to be following  
-在第五节讨论的案件之一——Sturges 诉 Bridgman 案中，法官显然是在考虑不同裁决所产生的经济后果。针对这样一种论点：如果将他们似乎正在遵循的原则
+The standard British writers do not state as explicitly as this that a comparison between the utility and harm produced is an element in deciding whether a harmful effect should be considered a nuisance. But similar views, if less strongly expressed, are to be found.  The doctrine that the harmful effect must be substantial before the court will act is, no doubt, in part a reflection of the fact that there will almost always be some gain to offset the harm. And in the reports of individual cases, it is clear that the judges have had in mind what would be lost as well as what would be gained in deciding whether to grant an injunction or award damages. Thus, in refusing to prevent the destruction of a prospect by a new building, the judge stated: I know no general rule of common law, which . . . says, that building so as to stop another’s prospect is a nuisance. Was that the case, there could be no great towns; and I must grant injunctions to all the new buildings in this town. . . 
 
-were carried out to its logical consequences, it would result in the most serious practical inconveniences, for a man might go-say into the midst of the tanneries of Bermondsey, or into any other locality devoted to any particular trade or manufacture of a noisy or unsavoury character, and by building a private residence upon a vacant piece of land put a stop to such trade or manufacture altogether,  
-贯彻到其逻辑结论，就会导致最严重的实际不便，因为一个人可能会——比如说——搬到伯蒙德赛的制革厂集中区，或任何专门从事具有噪声或难闻气味的特定行业或制造业的其他地区，并在一块空地上建造私人住宅，从而使这类行业或制造业彻底停业，  
-the judges answered that  
-法官们回答说  
-whether anything is a nuisance or not is a question to be determined, not merely by an abstract consideration of the thing itself, but in reference to its circumstances; What would be a nuisance in Belgrave Square would not necessarily be so in Bermondsey; and where a locality is devoted to a particular trade or manufacture carried on by the traders or manufacturers in a particular and established manner not constituting a public nuisance, Judges and juries would be justified in finding, and may be trusted to find, that the trade or manufacture so carried on in that locality is not a private or actionable wrong. 某事是否构成妨害，并不只是根据对该事物本身的抽象考量来决定，而是要结合其具体情形；在贝尔格雷夫广场会构成妨害的事物，在伯蒙德西未必如此；如果某一地区专门从事某种特定的贸易或制造业，而当地商人或制造商以特定且业已确立的方式经营，且该经营并不构成公共妨害，那么法官和陪审团有理由认定，也可以相信他们会认定，在该地区以这种方式经营的贸易或制造业并不构成私人侵害或可诉的不法行为。 
+这个世界不能没有工厂、冶炼厂、炼油厂、产生噪声的机器以及爆破作业，即使这些活动会给附近居民带来某种不便。为了公共利益，原告也可能必须容忍一定程度的、并不过分的不适。
 
-That the character of the neighborhood is relevant in deciding whether something is, or is not, a nuisance, is definitely established.  
-在判断某事是否构成妨害时，邻里的性质具有相关性，这一点已得到明确确立。
+英国主流法学著作并不像上述论述那样明确地指出：在判断某种有害影响是否应当被认定为法律上的妨害时，比较有关活动产生的效用与其造成的损害，是其中的一项判断因素。不过，英国法学著作中也可以找到类似观点，只是表述得没有这么强烈。
 
-He who dislikes the noise of traffic must not set up his abode in the heart of a great city. He who loves peace and quiet must not live in a locality devoted to the business of making boilers or steamships. 不喜欢交通噪音的人，就不应在大城市的中心安居。喜爱安宁和寂静的人，就不应居住在专门从事锅炉或蒸汽船制造的地区。 
+法院只有在有害影响达到实质性程度时才会介入，这项原则无疑在一定程度上反映了这样一个事实：产生有害影响的活动几乎总会同时带来某种可以与损害相权衡的收益。
 
-What has emerged has been described as “planning and zoning by the judiciary.”  Of course there are sometimes considerable difficulties in applying the criteria. 这种情况被称为“由司法机关进行规划和分区”。  当然，在适用这些标准时，有时会遇到相当大的困难。 
+从具体案件的判决报告中也可以清楚看出，法官在决定是否颁发禁令或者判给损害赔偿时，不仅会考虑制止有关活动能够带来什么好处，也会考虑制止这项活动将会失去什么。
 
-An interesting example of the problem is found in Adams v. Ursell  in which a fried fish shop in a predominantly working-class district was set up near houses of “a much better character.” England without fish-and-chips is a contradiction in terms and the case was clearly one of high importance. The judge commented:  
-阿里姆斯诉厄瑟尔案  提供了一个有关该问题的有趣例子：一家炸鱼店开设在一个以工人阶级为主的街区，附近却有一些“档次高得多”的住宅。没有炸鱼薯条的英格兰是不可想象的，而本案显然具有重大意义。法官评论道：
+例如，在拒绝禁止一座新建筑遮挡他人视野时，法官说道：
 
-It was urged that an injunction would cause great hardship to the defendant and to the poor people who get food at his shop. The answer to that is that it does not follow that the defendant cannot carry on his business in another more suitable place somewhere in the neighbourhood. It by no means follows that because a fried fish shop is a nuisance in one place it is a nuisance in another.  
-有人主张，禁令将给被告以及在其店里购买食物的贫困民众造成极大困难。对此的回答是，这并不意味着被告不能在附近某个更合适的地方继续经营。炸鱼店在一个地方构成妨害，并不意味着在另一个地方也必然构成妨害。
+> 据我所知，普通法中并不存在这样一项普遍原则，即建造房屋只要遮挡了他人的视野，就构成法律上的妨害。如果真有这样的原则，世上便不可能形成大城市；而且，我也将不得不对本城所有新建的建筑物一概颁发禁令……
 
-In fact, the injunction which restrained Mr. Ursell from running his shop did not even extend to the whole street. So he was presumably able to move to other premises near houses of “a much worse character,” the inhabitants  
-事实上，禁止 Ursell 先生经营其商店的禁令甚至并未覆盖整条街道。因此，他大概可以搬到其他房屋附近的店面，而那里的居民“品行恶劣得多”。
+In Webb v. Bird  it was decided that it was not a nuisance to build a schoolhouse so near a windmill as to obstruct currents of air and hinder the working of the mill. An early case seems to have been decided in an opposite direction. Gale commented:  In old maps of London a row of windmills appears on the heights to the north of London. Probably in the time of King James it was thought an alarming circumstance, as affecting the supply of food to the city, that anyone should build so near them as to take the wind out from their sails. 
+在 _Webb v. Bird_ 案中，法院裁定：在距离风车很近的地方修建一座校舍，即使校舍阻碍了空气流动、妨碍风车正常运转，也不构成法律上的妨害。
 
-of which would no doubt consider the availability of fish-and-chips to outweigh the pervading odour and “fog or mist” so graphically described by the plaintiff. Had there been no other “more suitable place in the neighbourhood,” the case would have been more difficult and the decision might have been different. What would “the poor people” have had for food? No English judge would have said: “Let them eat cake.”  
-其中无疑会认为，炸鱼薯条的供应足以抵消原告生动描述的弥漫性气味以及“雾或霾”。如果附近没有其他“更合适的地方”，案件就会更难处理，判决也可能不同。“穷人”将以什么为食？没有哪位英国法官会说：“让他们吃蛋糕吧。”
+不过，另一起较早的案件似乎作出了相反的判决。盖尔（Gale）对此评论道：
+
+> 在伦敦的旧地图上，可以看到伦敦北部高地上排列着一排风车。大概在詹姆斯国王统治时期，任何人如果在距离这些风车很近的地方修建建筑物，挡住吹向风车叶片的风，都会被视为一件令人担忧的事情，因为这可能影响整座城市的粮食供应。
+
+In one of the cases discussed in section V, Sturges v. Bridgman, it seems clear that the judges were thinking of the economic consequences of alternative decisions. To the argument that if the principle that they seemed to be following  were carried out to its logical consequences, it would result in the most serious practical inconveniences, for a man might go-say into the midst of the tanneries of Bermondsey, or into any other locality devoted to any particular trade or manufacture of a noisy or unsavoury character, and by building a private residence upon a vacant piece of land put a stop to such trade or manufacture altogether,  the judges answered that  whether anything is a nuisance or not is a question to be determined, not merely by an abstract consideration of the thing itself, but in reference to its circumstances; What would be a nuisance in Belgrave Square would not necessarily be so in Bermondsey; and where a locality is devoted to a particular trade or manufacture carried on by the traders or manufacturers in a particular and established manner not constituting a public nuisance, Judges and juries would be justified in finding, and may be trusted to find, that the trade or manufacture so carried on in that locality is not a private or actionable wrong.That the character of the neighborhood is relevant in deciding whether something is, or is not, a nuisance, is definitely established.  He who dislikes the noise of traffic must not set up his abode in the heart of a great city. He who loves peace and quiet must not live in a locality devoted to the business of making boilers or steamships. What has emerged has been described as “planning and zoning by the judiciary.”  Of course there are sometimes considerable difficulties in applying the criteria.
+在第五节讨论过的案件中，_Sturges v. Bridgman_ 案十分清楚地表明，法官在裁判时考虑了不同判决可能产生的经济后果。
+
+有人对法官似乎准备采用的原则提出反驳：如果把这项原则贯彻到底，就会在现实中造成极其严重的不便。因为一个人完全可能搬到某个特定行业的集中地区——例如伯蒙德西的制革厂区，或者其他集中从事噪声很大、气味难闻的行业或制造业的地方——然后在一块空地上修建一座私人住宅，再以有关生产活动构成妨害为由，迫使整个行业或制造业停止经营。
+
+针对这一论点，法官回答道：
+
+> 某种活动是否构成妨害，不能仅仅通过对该活动本身进行抽象考察来决定，而必须结合它所处的具体环境加以判断。在贝尔格雷夫广场构成妨害的活动，到了伯蒙德西并不一定也构成妨害。
+> 
+> 如果某个地区一向集中从事某种特定行业或制造业，当地经营者又按照一种特定而且已经确立的方式开展生产，并且这种经营方式不构成公共妨害，那么法官和陪审团就有理由认定——而且也可以相信他们会作出这样的认定——在该地区以这种方式经营的行业或制造业，并不构成私人妨害或其他可以起诉的不法行为。
+
+由此，邻近地区的性质是判断某种活动是否构成妨害的一项相关因素，这一原则已经得到明确确立。
+
+不能忍受交通噪声的人，不应当把住所设在大城市的中心；希望享有和平与安静的人，也不应当居住在集中制造锅炉或蒸汽船的地区。
+
+由此形成的司法实践，被人称为“由司法机关实施的规划和分区管制”。当然，在具体案件中适用这些判断标准，有时会遇到相当大的困难。
+
+An interesting example of the problem is found in Adams v. Ursell  in which a fried fish shop in a predominantly working-class district was set up near houses of “a much better character.” England without fish-and-chips is a contradiction in terms and the case was clearly one of high importance. The judge commented:  It was urged that an injunction would cause great hardship to the defendant and to the poor people who get food at his shop. The answer to that is that it does not follow that the defendant cannot carry on his business in another more suitable place somewhere in the neighbourhood. It by no means follows that because a fried fish shop is a nuisance in one place it is a nuisance in another.  
+
+In fact, the injunction which restrained Mr. Ursell from running his shop did not even extend to the whole street. So he was presumably able to move to other premises near houses of “a much worse character,” the inhabitants  of which would no doubt consider the availability of fish-and-chips to outweigh the pervading odour and “fog or mist” so graphically described by the plaintiff. Had there been no other “more suitable place in the neighbourhood,” the case would have been more difficult and the decision might have been different. What would “the poor people” have had for food? No English judge would have said: “Let them eat cake.” 
+_Adams v. Ursell_ 案为这个问题提供了一个有趣的例子。在一个居民主要属于工人阶级的街区里，有人在一批“档次高得多”的住宅附近开设了一家炸鱼店。没有炸鱼薯条的英格兰，简直是一个自相矛盾的概念，因此，这个案件显然具有非同寻常的重要性。
+
+法官评论道：
+
+> 有人提出，颁发禁令会给被告以及那些在他的店里购买食物的贫困居民造成极大的困难。对此可以回答：这并不意味着被告不能在附近另外找一个更加合适的地点继续经营。
+> 
+> 一家炸鱼店在某个地点构成妨害，绝不意味着它在另一个地点也一定构成妨害。
+
+事实上，禁止厄瑟尔先生经营这家炸鱼店的禁令，其适用范围甚至没有覆盖整条街道。因此，他大概可以把炸鱼店迁到附近的其他经营场所，靠近那些“档次差得多”的住宅。那里的居民无疑可能认为，能够方便地买到炸鱼薯条所带来的好处，足以超过原告所生动描述的弥漫性气味，以及那种如同“雾或薄霭”一般笼罩四周的油烟。
+
+假如附近根本不存在其他“更加合适的地点”，这个案件就会难处理得多，法院也可能作出不同的判决。否则，那些“贫困居民”又该吃什么呢？没有哪一位英国法官会说：“那就让他们吃蛋糕吧。”
 
 The courts do not always refer very clearly to the economic problem posed by the cases brought before them but it seems probable that in the interpretation of words and phrases like “reasonable” or “common or ordinary use” there is some recognition, perhaps largely unconscious and certainly not very explicit, of the economic aspects of the questions at issue. A good example of this would seem to be the judgment in the Court of Appeals in Andreae v. Selfridge and Company Ltd.  In this case, a hotel (in Wigmore Street) was situated on part of an island site. The remainder of the site was acquired by Selfridges which demolished the existing buildings in order to erect another in their place. The hotel suffered a loss of custom in consequence of the noise and dust caused by the demolition. The owner of the hotel brought an action against Selfridges for damages. In the lower court, the hotel was awarded  damages. The case was then taken on appeal.  
 法院并不总是十分明确地提及提交至其审理的案件所提出的经济问题，但在解释“合理”或“通常或一般使用”之类的词语和短语时，似乎确实会在某种程度上认识到相关问题的经济层面；这种认识或许在很大程度上是无意识的，当然也并不十分明确。上诉法院在 Andreae v. Selfridge and Company Ltd. 案中的判决似乎就是一个很好的例子。  在该案中，一家酒店（位于 Wigmore Street）坐落在一块岛状地块的一部分上。Selfridges 买下了该地块的其余部分，并拆除了原有建筑，以便在原址建造另一座建筑。由于拆除工程造成的噪音和尘土，酒店的客源受到损失。酒店所有人遂起诉 Selfridges，要求赔偿损失。在下级法院，酒店获判  损害赔偿。随后，该案被提起上诉。
 
-The judge who had found for the hotel proprietor in the lower court said:  
+The judge who had found for the hotel proprietor in the lower court said:  I cannot regard what the defendants did on the site of the first operation as having been commonly done in the ordinary use and occupation of land or houses. It is neither usual nor common, in this country, for people to excavate a site to a depth of 60 feet and then to erect upon that site a steel framework and fasten the steel frames together with rivets. . . . Nor is it, I think, a common or ordinary use of land, in this country, to act as the defendants did when they were dealing with the site of their second operation-namely, to demolish all the houses that they had to demolish, five or six of them I think, if not more, and to use for the purpose of demolishing them pneumatic hammers.  
 在下级法院作出有利于酒店业主的裁决的法官说道：  
-I cannot regard what the defendants did on the site of the first operation as having been commonly done in the ordinary use and occupation of land or houses. It is neither usual nor common, in this country, for people to excavate a site to a depth of 60 feet and then to erect upon that site a steel framework and fasten the steel frames together with rivets. . . . Nor is it, I think, a common or ordinary use of land, in this country, to act as the defendants did when they were dealing with the site of their second operation-namely, to demolish all the houses that they had to demolish, five or six of them I think, if not more, and to use for the purpose of demolishing them pneumatic hammers.  
+
 我无法认为被告在第一处施工现场所进行的活动属于土地或房屋通常使用和占有过程中普遍进行的活动。在这个国家，人们通常不会把一处场地挖掘至 60 英尺深，然后在其上架设钢结构，并用铆钉将钢架固定在一起……我也不认为，在这个国家，被告处理第二处施工现场时所采取的做法属于土地的通常或一般使用方式——也就是说，拆除他们必须拆除的所有房屋，我想有五六栋，甚至更多，并使用气锤来拆除这些房屋。
 
 Sir Wilfred Greene, M.R., speaking for the Court of Appeals, first noted that when one is dealing with temporary operations, such as demolition and re-building, everybody has to put up with a certain amount of discomfort, because operations of that kind cannot be carried on at all without a certain amount of noise and a certain amount of dust. Therefore, the rule with regard to interference must be read subject to this qualification. . . .  
@@ -369,19 +391,48 @@ Sir Wilfred Greene, M.R., speaking for the Court of Appeals, first noted that wh
 
 He then referred to the previous judgment:  
 随后，他援引了先前的判决：  
-With great respect to the learned judge, I take the view that he has not approached this matter from the correct angle. It seems to me that it is not possible to say . . . that the type of demolition, excavation and construction in which the defendant company was engaged in the course of these operations was of such an abnormal and unusual nature as to prevent the qualification to which I have referred coming  
-恕我对这位博学法官持有不同意见，我认为他并未从正确的角度处理本案。在我看来，不能说……被告公司在这些作业过程中所从事的拆除、挖掘和施工，其性质异常且非同寻常，以至于无法适用我前面提到的限定条件来给主人留下些什么吧
+With great respect to the learned judge, I take the view that he has not approached this matter from the correct angle. It seems to me that it is not possible to say . . . that the type of demolition, excavation and construction in which the defendant company was engaged in the course of these operations was of such an abnormal and unusual nature as to prevent the qualification to which I have referred coming  into operation. It seems to me that, when the rule speaks of the common or ordinary use of land, it does not mean that the methods of using land and building on it are in some way to be stabilised for ever. As time goes on new inventions or new methods enable land to be more profitably used, either by digging down into the earth or by mounting up into the skies. Whether, from other points of view, that is a matter which is desirable for humanity is neither here nor there; but it is part of the normal use of land, to make use upon your land, in the matter of construction, of what particular type and what particular depth of foundations and particular height of building may be reasonable, in the circumstances, and in view of the developments of the day. . . . Guests at hotels are very easily upset. People coming to this hotel, who were accustomed to a quiet outlook at the back, coming back and finding demolition and building going on, may very well have taken the view that the particular merit of this hotel no longer existed. That would be a misfortune for the plaintiff; but assuming that there was nothing wrong in the defendant company’s works, assuming the defendant company was carrying on the demolition and its building, productive of noise though it might be, with all reasonable skill, and taking all reasonable precautions not to cause annoyance to its neighbors, then the planitiff might lose all her clients in the hotel because they have lost the amenities of an open and quiet place behind, but she would have no cause of complaint. . . . [But those] who say that their interference with the comfort of their neighbors is justified because their operations are normal and usual and conducted with proper care and skill are under a specific duty . . . to use that reasonable and proper care and skill. It is not a correct attitude to take to say: ‘We will go on and do what we like until somebody complains!’ . . . Their duty is to take proper precautions and to see that the nuisance is reduced to a minimum. It is no answer for them to say: ‘But this would mean that we should have to do the work more slowly than we would like to do it, or it would involve putting us to some extra expense.’ All these questions are matters of common sense and degree, and quite clearly it would be unreasonable to expect people to conduct their work so slowly or so expensively, for the purpose of preventing a transient inconvenience, that the cost and trouble would be prohibitive. … In this case, the defendant company’s attitude seems to have been to go on until somebody complained, and, further, that its desire to hurry its work and conduct it according to its own ideas and its own convenience was to prevail if there was a real conflict between it and the comfort of its neighbors. That . . . is not carrying out the obligation of using reasonable care and skill… The effect comes to this … the plaintiff suffered an actionable nuisance; . . . she is entitled, not to a nominal sum, but to a substantial sum, based upon those principles . . . but in arriving at the sum . . . I have discounted any loss of custom . . . which might be due to the general loss of amenities owing to what was going on at the back. . . .  
+随后，他援引了先前的判决：
 
-into operation. It seems to me that, when the rule speaks of the common or ordinary use of land, it does not mean that the methods of using land and building on it are in some way to be stabilised for ever. As time goes on new inventions or new methods enable land to be more profitably used, either by digging down into the earth or by mounting up into the skies. Whether, from other points of view, that is a matter which is desirable for humanity is neither here nor there; but it is part of the normal use of land, to make use upon your land, in the matter of construction, of what particular type and what particular depth of foundations and particular height of building may be reasonable, in the circumstances, and in view of the developments of the day. . . . Guests at hotels are very easily upset. People coming to this hotel, who were accustomed to a quiet outlook at the back, coming back and finding demolition and building going on, may very well have taken the view that the particular merit of this hotel no longer existed. That would be a misfortune for the plaintiff; but assuming that there was nothing wrong in the defendant company’s works, assuming the defendant company was carrying on the demolition and its building, productive of noise though it might be, with all reasonable skill, and taking all reasonable precautions not to cause annoyance to its neighbors, then the planitiff might lose all her clients in the hotel because they have lost the amenities of an open and quiet place behind, but she would have no cause of complaint. . . . [But those] who say that their interference with the comfort of their neighbors is justified because their operations are normal and usual and conducted with proper care and skill are under a specific duty . . . to use that reasonable and proper care and skill. It is not a correct attitude to take to say: ‘We will go on and do what we like until somebody complains!’ . . . Their duty is to take proper precautions and to see that the nuisance is reduced to a minimum. It is no answer for them to say: ‘But this would mean that we should have to do the work more slowly than we would like to do it, or it would involve putting us to some extra expense.’ All these questions are matters of common sense and degree, and quite clearly it would be unreasonable to expect people to conduct their work so slowly or so expensively, for the purpose of preventing a transient inconvenience, that the cost and trouble would be prohibitive. … In this case, the defendant company’s attitude seems to have been to go on until somebody complained, and, further, that its desire to hurry its work and conduct it according to its own ideas and its own convenience was to prevail if there was a real conflict between it and the comfort of its neighbors. That . . . is not carrying out the obligation of using reasonable care and skill… The effect comes to this … the plaintiff suffered an actionable nuisance; . . . she is entitled, not to a nominal sum, but to a substantial sum, based upon those principles . . . but in arriving at the sum . . . I have discounted any loss of custom . . . which might be due to the general loss of amenities owing to what was going on at the back. . . .  
-投入使用。在我看来，当该规则提到土地的共同或通常用途时，并不是说土地的使用方式以及在其上进行建筑的方式要以某种方式永远固定不变。随着时间的推移，新的发明或新的方法会使土地得到更有利可图的利用，无论是向地下挖掘，还是向天空上建造。从其他角度来看，这是否是对人类有益的事情，暂且不论；但在当时的情形以及鉴于时代的发展，在你的土地上进行建设时，采用何种类型、何种具体深度的地基，以及建造何种具体高度的建筑，只要是合理的，就属于土地的正常使用……酒店的客人很容易受到影响。来到这家酒店、原本习惯于后方安静景致的人，回来时发现正在进行拆除和施工，很可能会认为这家酒店原有的独特优势已经不复存在。 这对原告来说是不幸的；但假定被告公司的工程没有任何问题，假定被告公司在进行拆除作业和建造工程时，尽管可能会产生噪声，仍已运用一切合理的技能，并采取一切合理的预防措施，以免给邻居造成困扰，那么原告可能会失去酒店的全部客户，因为他们失去了后方开阔而安静之处所带来的舒适，但她没有理由提出抱怨……［但是，那些］认为其经营活动属于正常、通常的活动，并且以适当的谨慎和技能进行，因此对邻居舒适生活造成的干扰是正当的当事人，负有一项特定义务……即运用这种合理且适当的谨慎和技能。不能采取这样的态度：“我们会继续做我们想做的事，直到有人投诉为止！”……他们的义务是采取适当的预防措施，确保将妨害降至最低。他们不能以此作为答复：“但这意味着我们必须比自己希望的速度更慢地完成工作，或者会使我们承担一些额外费用。”’ 所有这些问题都涉及常识和程度，显然，如果为了防止一时的不便，就要求人们以极其缓慢或昂贵的方式开展工作，以致成本和麻烦高得令人无法承受，那是不合理的。……在本案中，被告公司的态度似乎是：除非有人提出投诉，否则就继续进行；此外，如果公司与邻居的安宁舒适之间确实发生冲突，那么它希望加快工作进度、按照自己的想法和便利开展工作的意愿应当优先。这……并未履行合理谨慎并运用合理技能的义务……其结果是……原告遭受了可依法追究的妨害；……她有权获得的不是象征性赔偿，而是根据上述原则确定的一笔实质性赔偿……但在确定赔偿数额时……我已扣除了可能因后方施工造成的整体环境舒适度下降而导致的任何客源损失。……
+> 尽管我对那位博学的法官怀有充分敬意，但我认为，他并没有从正确的角度处理这个问题。
+> 
+> 在我看来，不能认为被告公司在这些工程中所进行的拆除、挖掘和建筑作业异常或特殊到了这样一种程度，以致我刚才提到的那项限制条件不能适用。
+> 
+> 在我看来，法律规则所说的“土地的一般或正常使用”，并不是要求土地的使用方式以及在土地上进行建筑的方式从此永远固定不变。随着时代发展，新的发明和新的方法使人们能够以更有利可图的方式利用土地——既可以向地下深挖，也可以向空中增建。
+> 
+> 从其他角度看，这种发展对人类是否有益，与本案所要解决的问题无关。就建筑活动而言，根据当时的具体情况和时代的发展，在自己的土地上采用某种合理类型和深度的地基，或者修建达到某种合理高度的建筑物，都属于对土地的正常使用。
+> 
+> 酒店客人很容易受到周围环境变化的影响。入住这家酒店的客人原本习惯了酒店后方开阔而安静的景观；当他们回来发现那里正在进行拆除和建筑工程时，完全可能认为这家酒店原有的独特吸引力已经不复存在。
+> 
+> 这对原告来说当然是一件不幸的事。但是，假如被告公司的工程本身并无不当，假如被告公司在从事拆除和建筑作业时——即使这些作业不可避免地会产生噪声——已经运用了所有合理的技能，并采取了一切合理的预防措施，以免给邻居造成不必要的困扰，那么，即使原告因为酒店后方不再开阔、安静而失去全部客人，她也无权就此提出法律上的主张。
+> 
+> 但是，如果有人主张，他们对邻居生活舒适性的干扰是正当的，理由是其作业属于正常而通常的活动，而且是以适当的谨慎和技能进行的，那么，他们就负有一项明确的义务：必须真正尽到这种合理而适当的谨慎，并运用相应的技能。
+> 
+> 他们不能采取这样的态度：“在有人投诉以前，我们想怎么干就怎么干！”
+> 
+> 他们对邻居所负的义务并非如此。他们有义务采取适当的预防措施，尽可能把妨害降到最低程度。他们不能以这种理由为自己辩解：“可是，这样做会迫使我们放慢施工速度，低于我们希望达到的进度；或者会使我们承担一些额外费用。”
+> 
+> 所有这些问题都需要依据常识和影响的程度作出判断。当然，如果只是为了避免某种暂时性的不便，就要求施工者以极其缓慢或者成本极其高昂的方式开展工作，以致所需的费用和麻烦高到使工程几乎无法进行，那显然也是不合理的。
+> 
+> 在本案中，被告公司所采取的态度似乎是：只要还没有人投诉，就继续按照原来的方式施工。不仅如此，当加快工程进度、按照公司自己的想法和便利施工，与邻居的安宁和舒适发生真正冲突时，被告公司似乎认为，应当优先满足自己的施工进度和便利。
+> 
+> 在我看来，这并不符合合理谨慎并运用合理技能的义务。
+> 
+> 因此，本案的结论是：原告确实遭受了可以提起诉讼的妨害。根据上述原则，她有权获得的并非一笔象征性赔偿，而是一笔具有实际数额的赔偿。
+> 
+> 不过，在确定具体赔偿数额时，我没有把原告因酒店后方施工导致整体环境舒适性下降而可能发生的客源损失计入赔偿。
 
 The upshot was that the damages awarded were reduced from £4,500 to £1,000.  
 最终，判给的损害赔偿金从 4,500 英镑减少至 1,000 英镑。
 
-The discussion in this section has, up to this point, been concerned with court decisions arising out of the common law relating to nuisance. Delimitation of rights in this area also comes about because of statutory enactments. Most economists would appear to assume that the aim of governmental  
-本节迄今为止的讨论，一直涉及普通法中有关妨害行为的法院判决。在这一领域，权利的界定也会因成文法的制定而产生。大多数经济学家似乎认为，政府  
-action in this field is to extend the scope of the law of nuisance by designating as nuisances activities which would not be recognized as such by the common law. And there can be no doubt that some statutes, for example, the Public Health Acts, have had this effect. But not all Government enactments are of this kind. The effect of much of the legislation in this area is to protect businesses from the claims of those they have harmed by their actions. There is a long list of legalized nuisances.  
-在这一领域采取行动的目的，是通过将普通法不承认为妨害行为的活动指定为妨害行为，从而扩大妨害法的适用范围。毫无疑问，某些法规，例如《公共卫生法》，确实产生了这种效果。但并非所有政府制定的法律都是如此。这一领域的许多立法，其作用是保护企业，使其免受因自身行为而受到损害者提出的索赔。有一长串被法律认可的妨害行为。
+The discussion in this section has, up to this point, been concerned with court decisions arising out of the common law relating to nuisance. Delimitation of rights in this area also comes about because of statutory enactments. Most economists would appear to assume that the aim of governmental  action in this field is to extend the scope of the law of nuisance by designating as nuisances activities which would not be recognized as such by the common law. And there can be no doubt that some statutes, for example, the Public Health Acts, have had this effect. But not all Government enactments are of this kind. The effect of much of the legislation in this area is to protect businesses from the claims of those they have harmed by their actions. There is a long list of legalized nuisances.  
+到目前为止，本节所讨论的，都是法院依据普通法中的妨害规则作出的判决。不过，在这一领域，当事人权利的界定也可能来自成文法。
+
+大多数经济学家似乎认为，政府在这一领域采取行动，是为了扩大普通法上妨害规则的适用范围：也就是说，通过成文法把一些原本不会被普通法认定为妨害的活动，明确规定为妨害。毫无疑问，某些法律——例如《公共卫生法》——确实发挥了这种作用。
+
+但是，并非所有政府立法都是为了扩大受害者获得救济的范围。这一领域中的许多法律，实际产生的效果恰恰相反：它们保护有关企业，使这些企业免受因其经营活动遭受损害的人提出的法律请求。
+
+因此，现实中存在一长串得到法律授权、因而被“合法化”的妨害活动。
 
 The position has been summarized in Halsbury’s Laws of England as follows:  
 英国《哈尔斯伯里法律全书》将这一立场概括如下：
@@ -393,11 +444,20 @@ Instances are next given of freedom from liability for acts authorized:
 接下来列举获授权行为可免于承担责任的情形：  
 An action has been held not to be against a body exercising its statutory powers without negligence in respect of the flooding of land by water escaping from watercourses, from water pipes, from drains, or from a canal; the escape of fumes from sewers; the escape of sewage: the subsidence of a road over a sewer; vibration or noise caused by a railway; fires caused by authorised acts; the pollution of a stream where statutory requirements to use the best known method of purifying before discharging the effluent have been satisfied; interference with a telephone or telegraph system by an elctric tramway; the insertion of poles for tramways in the subsoil; annoyance caused by things reasonably necessary for the excavation of authorised works; accidental damage caused by the placing of a grating in a roadway; the escape of tar acid; or interference with the access of a frontager by a street shelter or safety railings on the edge of a pavement. 法院曾裁定，对于在行使法定权力时不存在过失的机构，不得因以下情形对其提起诉讼：水从水道、水管、排水管或运河中逸出而淹没土地；下水道中逸出烟气；污水逸出；下水道上方道路下沉；铁路造成的振动或噪声；经授权的行为引发火灾；在排放废液前已满足采用已知最佳净化方法的法定要求，却导致河流污染；有轨电车对电话或电报系统造成干扰；在地下土层中为有轨电车铺设电杆；因挖掘经授权的工程而产生合理必要设施所造成的妨害；在道路上设置格栅造成的意外损害；焦油酸逸出；或人行道边缘设置街道遮棚或安全栏杆而妨碍临街人的通行。 
 
-The legal position in the United States would seem to be essentially the same as in England, except that the power of the legislatures to authorize what would otherwise be nuisances under the common law, at least without giving compensation to the person harmed, is somewhat more limited, as it is subject to constitutional restrictions.  Nonetheless, the power is there and cases more or less identical with the English cases can be found. The  
-美国的法律立场似乎与英国基本相同，所不同的是，立法机关授权实施那些按照普通法本会构成妨害行为的活动——至少是在不给受害人补偿的情况下——其权力受到的限制更大，因为该权力须受宪法限制。  尽管如此，这种权力仍然存在，而且可以找到与英国案件或多或少完全相同的案例。即可
+The legal position in the United States would seem to be essentially the same as in England, except that the power of the legislatures to authorize what would otherwise be nuisances under the common law, at least without giving compensation to the person harmed, is somewhat more limited, as it is subject to constitutional restrictions.  Nonetheless, the power is there and cases more or less identical with the English cases can be found. The  question has arisen in an acute form in connection with airports and the operation of aeroplanes. The case of Delta Air Corporation v. Kersey, Kersey v. City of Atlanta  is a good example. Mr. Kersey bought land and built a house on it. Some years later the City of Atlanta constructed an airport on land immediately adjoining that of Mr. Kersey. It was explained that his property was “a quiet, peaceful and proper location for a home before the airport was built, but dust, noises and low flying of airplanes caused by the operation of the airport have rendered his property unsuitable as a home,” a state of affairs which was described in the report of the case with a wealth of distressing detail. The judge first referred to an earlier case, Thrasher v. City of Atlanta  in which it was noted that the City of Atlanta had been expressly authorized to operate an airport.  
+美国在这一问题上的法律规则似乎与英国基本相同。不过，美国立法机关授权实施某种活动——即使该活动按照普通法原本会构成妨害——的权力受到更多限制。尤其是在不给受害者提供补偿的情况下，这种授权受到宪法规定的约束。
 
-question has arisen in an acute form in connection with airports and the operation of aeroplanes. The case of Delta Air Corporation v. Kersey, Kersey v. City of Atlanta  is a good example. Mr. Kersey bought land and built a house on it. Some years later the City of Atlanta constructed an airport on land immediately adjoining that of Mr. Kersey. It was explained that his property was “a quiet, peaceful and proper location for a home before the airport was built, but dust, noises and low flying of airplanes caused by the operation of the airport have rendered his property unsuitable as a home,” a state of affairs which was described in the report of the case with a wealth of distressing detail. The judge first referred to an earlier case, Thrasher v. City of Atlanta  in which it was noted that the City of Atlanta had been expressly authorized to operate an airport.  
-这个问题在机场和飞机运行方面表现得尤为突出。Delta Air Corporation 诉 Kersey、Kersey 诉亚特兰大市案  就是一个很好的例子。Kersey 先生购置了一块土地，并在其上建造了一所房屋。几年后，亚特兰大市在紧邻 Kersey 先生土地的地方修建了一座机场。有关方面解释说，在机场建成之前，他的房产“是一个安静、宁和、适宜居住的住宅地点，但机场运营所造成的尘土、噪音以及飞机低空飞行，使该房产不再适合作为住宅”，案件报告以大量令人痛苦的细节描述了这一状况。法官首先提到了较早的 Thrasher 诉亚特兰大市案  ，其中指出，亚特兰大市已获明确授权运营机场。
+尽管如此，美国立法机关仍然拥有这种授权权力，而且在美国也可以找到与英国有关案件大体相同的案例。
+
+在机场建设和飞机运行方面，这一问题表现得尤其突出。_Delta Air Corporation v. Kersey_ 和 _Kersey v. City of Atlanta_ 就是很好的例子。
+
+克西先生购置了一块土地，并在上面修建了一座住宅。几年以后，亚特兰大市在与克西先生的土地直接相邻的地块上修建了一座机场。
+
+判例报告指出，在机场建成以前，克西先生的房产“环境安静、平和，非常适合作为住宅；但是，机场运营所造成的尘土、噪声以及飞机的低空飞行，使这处房产变得不再适合居住”。判例报告还用了大量令人不安的细节，描述机场运营给克西先生的居住生活造成的影响。
+
+法官首先援引了一个更早的案件——_Thrasher v. City of Atlanta_。在该案中，法院特别指出，亚特兰大市已经得到法律的明确授权，可以建设和运营机场。
+
+这里第一句的重点是：美国立法机关也可以把原本可能构成普通法妨害的活动合法化，但如果这种活动严重损害私人财产，而法律又完全不提供补偿，立法授权便可能受到宪法中财产权保护的限制。
 
 By this franchise aviation was recognised as a lawful business and also as an enterprise affected with a public interest … all persons using [the airport] in the manner contemplated by law are within the protection and immunity of the franchise granted by the municipality. An airport is not a nuisance per se, although it might become such from the manner of its construction or operation.  
 通过这项特许权，航空业被认定为合法业务，同时也是涉及公共利益的企业……所有依法以特许权所设想的方式使用[机场]的人，均受到市政府授予的特许权所提供的保护和豁免。机场本身并非当然构成妨害，尽管其可能因建造或运营方式而成为妨害。
@@ -426,23 +486,51 @@ It is the proper function of the legislative department of government in the exe
 Most economists seem to be unaware of all this. When they are prevented from sleeping at night by the roar of jet planes overhead (publicly authorized and perhaps publicly operated), are unable to think (or rest) in the day because of the noise and vibration from passing trains (publicly authorized and perhaps publicly operated), find it difficult to breathe because of the odour from a local sewage farm (publicly authorized and perhaps publicly operated) and are unable to escape because their driveways are blocked by a road obstruction (without any doubt, publicly devised), their nerves frayed and mental balance disturbed, they proceed to declaim about the disadvantages of private enterprise and the need for Government regulation.  
 大多数经济学家似乎都没有意识到这一切。当他们因头顶上飞机的轰鸣声（经公共部门批准、或许还由公共部门运营）而夜不能寐，因驶过的火车所产生的噪声和震动（经公共部门批准、或许还由公共部门运营）而白天无法思考（或休息），因当地污水处理场散发的臭味（经公共部门批准、或许还由公共部门运营）而难以呼吸，又因道路障碍物堵住自家车道（毫无疑问，这是由公共部门设置的）而无法逃离时，他们的神经变得紧绷、心理平衡受到扰乱，便开始大肆宣扬私人企业的弊端以及政府监管的必要性。
 
-While most economists seem to be under a misapprehension concerning the character of the situation with which they are dealing, it is also the case that the activities which they would like to see stopped or curtailed may well be socially justified. It is all a question of weighing up the gains that would accrue from eliminating these harmful effects against the gains that accrue from allowing them to continue. Of course, it is likely that an extension of Government economic activity will often lead to this protection against  
-尽管大多数经济学家似乎对他们所处理的情形的性质存在误解，但他们希望停止或限制的活动很可能在社会层面上是合理的。这完全取决于权衡消除这些有害影响所带来的收益与允许这些影响继续存在所带来的收益。当然，政府经济活动的扩展很可能常常会带来这种保护，防止……
+While most economists seem to be under a misapprehension concerning the character of the situation with which they are dealing, it is also the case that the activities which they would like to see stopped or curtailed may well be socially justified. It is all a question of weighing up the gains that would accrue from eliminating these harmful effects against the gains that accrue from allowing them to continue. Of course, it is likely that an extension of Government economic activity will often lead to this protection against  action for nuisance being pushed further than is desirable. For one thing, the Government is likely to look with a benevolent eye on enterprises which it is itself promoting. For another, it is possible to describe the committing of a nuisance by public enterprise in a much more pleasant way than when the same thing is done by private enterprise. In the words of Lord Justice Sir Alfred Denning:  . . . the significance of the social revolution of today is that, whereas in the past the balance was much too heavily in favor of the rights of property and freedom of contract, Parliament has repeatedly intervened so as to give the public good its proper place. ……
+尽管大多数经济学家似乎误解了他们所面对的问题的性质，但还有一点同样需要注意：经济学家希望加以禁止或限制的那些活动，很可能具有充分的社会正当性。
 
-action for nuisance being pushed further than is desirable. For one thing, the Government is likely to look with a benevolent eye on enterprises which it is itself promoting. For another, it is possible to describe the committing of a nuisance by public enterprise in a much more pleasant way than when the same thing is done by private enterprise. In the words of Lord Justice Sir Alfred Denning:  
-将妨害行为诉讼推向超出适宜范围的程度。首先，政府很可能会以宽容的态度看待那些由其自身推动的企业。其次，对于公共企业实施妨害行为，可以用一种比私人企业做同样事情时愉悦得多的方式来描述。用阿尔弗雷德·丹宁爵士大法官的话说：  
-. . . the significance of the social revolution of today is that, whereas in the past the balance was much too heavily in favor of the rights of property and freedom of contract, Parliament has repeatedly intervened so as to give the public good its proper place. ……当今社会革命的意义在于，过去财产权和契约自由的权重远远过大，而议会则一再进行干预，以使公共利益获得其应有的地位。 
+真正的问题在于，必须比较两方面的收益：一方面是消除这些有害影响所能带来的收益，另一方面是允许产生这些有害影响的活动继续进行所能带来的收益。
+
+当然，随着政府经济活动范围的扩大，公共企业免受妨害诉讼的保护，往往可能被扩张到超过合理限度。
+
+其中一个原因是，政府很可能会对由自己推动或经营的企业采取宽容态度。另一个原因是，当造成妨害的是公共企业时，人们往往可以用比描述私人企业的同样行为更加悦耳、更具正当性的语言来描述它。
+
+用上诉法院法官阿尔弗雷德·丹宁爵士的话说：
+
+> 当今社会革命的意义在于：过去，利益的权衡过分偏向财产权和契约自由；而议会通过一次又一次的干预，使公共利益获得了它应有的地位。
 
 There can be little doubt that the Welfare State is likely to bring an extension of that immunity from liability for damage, which economists have been in the habit of condemning (although they have tended to assume that this immunity was a sign of too little Government intervention in the economic system). For example, in Britain, the powers of local authorities are regarded as being either absolute or conditional. In the first category, the local authority has no discretion in exercising the power conferred on it. “The absolute power may be said to cover all the necessary consequences of its direct operation even if such consequences amount to nuisance.” On the other hand, a conditional power may only be exercised in such a way that the consequences do not constitute a nuisance.  
-毫无疑问，福利国家很可能会扩大这种损害责任豁免的范围，而经济学家一向对此持谴责态度（尽管他们往往认为，这种豁免表明政府对经济体系的干预过少）。例如，在英国，地方当局的权力被认为分为绝对权力和附条件权力两类。对于第一类权力，地方当局在行使所授予的权力时没有裁量余地。“可以说，绝对权力涵盖其直接行使所产生的一切必要后果，即使这些后果构成妨害。”另一方面，附条件权力只能以不使其后果构成妨害的方式行使。
 
-It is the intention of the legislature which determines whether a power is absolute or conditional. . . . [As] there is the possibility that the social policy of the legislature may change from time to time, a power which in one era would be construed as being conditional, might in another era be interpreted as being absolute in order to further the policy of the Welfare State. This point is one which should be borne in mind when considering some of the older cases upon this aspect of the law of nuisance. 决定某项权力是绝对的还是有条件的，是立法机关的意图。……由于立法机关的社会政策可能随时发生变化，在某个时代会被解释为有条件的权力，在另一个时代则可能为了推进福利国家的政策而被解释为绝对权力。研究妨害法这一方面的一些较早判例时，应当牢记这一点。 
+It is the intention of the legislature which determines whether a power is absolute or conditional. . . . [As] there is the possibility that the social policy of the legislature may change from time to time, a power which in one era would be construed as being conditional, might in another era be interpreted as being absolute in order to further the policy of the Welfare State. This point is one which should be borne in mind when considering some of the older cases upon this aspect of the law of It would seem desirable to summarize the burden of this long section. The problem which we face in dealing with actions which have harmful effects is not simply one of restraining those responsible for them. What has to be decided is whether the gain from preventing the harm is greater than the loss which would be suffered elsewhere as a result of stopping the action which produces the harm. In a world in which there are costs of rearranging the rights established by the legal system, the courts, in cases relating to nuisance, are, in effect, making a decision on the economic problem and determining how resources are to be employed. It was argued that the courts are conscious of this and that they often make, although not always in a very explicit fashion, a comparison between what would be gained and what lost by preventing  actions which have harmful effects. But the delimitation of rights is also the result of statutory enactments. Here we also find evidence of an appreciation of the reciprocal nature of the problem. While statutory enactments add to the list of nuisances, action is also taken to legalize what would otherwise be nuisances under the common law. The kind of situation which economists are prone to consider as requiring corrective Government action is, in fact, often the result of Government action. Such action is not necessarily unwise. But there is a real danger that extensive Government intervention in the economic system may lead to the protection of those responsible for harmful effects being carried too far.  
 
-It would seem desirable to summarize the burden of this long section. The problem which we face in dealing with actions which have harmful effects is not simply one of restraining those responsible for them. What has to be decided is whether the gain from preventing the harm is greater than the loss which would be suffered elsewhere as a result of stopping the action which produces the harm. In a world in which there are costs of rearranging the rights established by the legal system, the courts, in cases relating to nuisance, are, in effect, making a decision on the economic problem and determining how resources are to be employed. It was argued that the courts are conscious of this and that they often make, although not always in a very explicit fashion, a comparison between what would be gained and what lost by preventing  
-概括本节冗长论述的要旨，似乎是有益的。我们在处理具有有害影响的行为时所面临的问题，并不仅仅是约束应对此负责的人。需要决定的是，防止损害所获得的收益，是否大于停止产生该损害的行为而导致其他方面遭受的损失。在重新安排法律制度所确立的权利需要付出成本的世界中，法院在处理妨害案件时，实际上是在对经济问题作出裁决，并决定资源应如何配置。有人认为，法院意识到了这一点，而且它们经常——尽管并不总是以非常明确的方式——比较防止损害所能获得的利益与由此造成的损失。
 
-actions which have harmful effects. But the delimitation of rights is also the result of statutory enactments. Here we also find evidence of an appreciation of the reciprocal nature of the problem. While statutory enactments add to the list of nuisances, action is also taken to legalize what would otherwise be nuisances under the common law. The kind of situation which economists are prone to consider as requiring corrective Government action is, in fact, often the result of Government action. Such action is not necessarily unwise. But there is a real danger that extensive Government intervention in the economic system may lead to the protection of those responsible for harmful effects being carried too far.  
-具有有害影响的行为。但权利的界定同样也是成文法制定的结果。在这里，我们也能发现人们已经认识到这一问题具有相互性。成文法在增加妨害行为清单的同时，也采取行动，将按照普通法本应构成妨害的行为合法化。经济学家往往认为需要政府采取纠正措施的情形，实际上常常正是政府行为造成的。这种行为未必是不明智的。但确实存在一种危险：政府对经济体系进行广泛干预，可能会导致对有害影响责任方的保护走得过远。
+几乎可以肯定，福利国家的发展会进一步扩大有关主体对损害赔偿责任的豁免。经济学家一向谴责这种责任豁免，尽管他们往往认为，这种豁免之所以存在，是因为政府对经济体系干预得还不够。
+
+例如，在英国，地方当局所享有的法定权限通常被区分为“绝对权限”和“附条件权限”。
+
+对于绝对权限，地方当局在是否行使以及如何行使法律授予的权限方面没有选择余地。正如有关法律论述所说：
+
+> 可以认为，绝对权限的授权范围包括直接行使该权限所必然产生的一切后果，即使这些后果本身构成妨害。
+
+相比之下，附条件权限只能以不致使其后果构成妨害的方式行使。
+
+一项法定权限究竟属于绝对权限还是附条件权限，取决于立法机关的意图。由于立法机关所奉行的社会政策可能随时代而变化，某项在一个时代会被解释为附条件的权限，到了另一个时代，可能为了推进福利国家的政策而被解释为绝对权限。在研究妨害法这一方面的早期判例时，必须牢记这一点。
+
+==**现在似乎有必要概括一下这篇很长的一节所要表达的主要观点**==。
+
+面对会产生有害影响的行为，我们所要解决的问题，并不只是如何限制那些造成有害影响的人。真正需要判断的是：防止这种损害所能获得的收益，是否大于停止产生损害的活动以后，其他方面将会遭受的价值损失。
+
+在现实世界中，重新配置法律制度所确立的权利需要付出成本。因此，法院在审理妨害案件时，实际上也在对一个经济问题作出决定，并由此决定资源将被用于何种用途。
+
+前面的论述已经表明，法院通常能够意识到自己的判决具有这种经济意义。在决定是否制止产生有害影响的活动时，法院经常会比较制止这些活动能够获得什么，以及由此将会损失什么，尽管法院并不总是非常明确地表达这种比较。
+
+不过，权利的界定并不只来自法院判决，也来自成文法。在成文法中，我们同样可以看到，立法机关已经在一定程度上认识到这一问题的相互性。
+
+一方面，成文法会扩大妨害行为的范围，把一些普通法原本不会认定为妨害的活动规定为妨害；另一方面，立法机关也会把一些按照普通法原本会构成妨害的活动合法化，使从事这些活动的主体免于承担普通法上的妨害责任。
+
+因此，经济学家经常认为需要政府采取纠正措施的某些情况，实际上往往正是政府先前采取的行动造成的。政府通过法律授权某些活动并免除其责任，可能制造或者延续经济学家所观察到的有害影响。
+
+这样的政府行为并不一定是不明智的。有关活动可能产生的社会收益，确实可能大于它给他人造成的损害。但是，存在一种真实的危险：政府对经济体系的广泛干预，可能使那些造成有害影响的主体得到过度保护。
 
 ## VIII. Pigou's Treatment in "The Economics of Welfare"  
 VIII. 庇古在《福利经济学》中的论述
