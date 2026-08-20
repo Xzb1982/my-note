@@ -1,0 +1,88 @@
+.math-outline {
+  font-family:
+    "Source Han Serif SC",
+    "Noto Serif CJK SC",
+    "Songti SC",
+    SimSun,
+    serif;
+  line-height: 1.62;
+}
+
+/* PDF 中不显示笔记属性面板 */
+.math-outline .metadata-container {
+  display: none !important;
+}
+
+/* 无序列表承担层级结构：隐藏圆点，保留缩进和竖线 */
+.math-outline ul {
+  list-style: none !important;
+  margin-block: 0.12em;
+  padding-inline-start: 1.55em;
+  border-inline-start: 1px solid #d7d7d7;
+}
+
+.math-outline ul > li {
+  margin-block: 0.12em;
+  padding-inline-start: 0.08em;
+}
+
+.math-outline ul > li::marker {
+  content: "";
+}
+
+.math-outline ul > li > p {
+  margin-block: 0.12em;
+}
+
+/* 独立公式居中，并尽量避免从中间分页 */
+.math-outline mjx-container[display="true"] {
+  display: block !important;
+  max-width: 100%;
+  margin: 0.65em auto !important;
+  text-align: center !important;
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+.math-outline img,
+.math-outline pre,
+.math-outline blockquote {
+  max-width: 100%;
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+@media print {
+  body {
+    background: #ffffff !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .math-outline {
+    color: #111111 !important;
+    font-size: 10.5pt;
+    line-height: 1.58;
+  }
+
+  .math-outline h1,
+  .math-outline h2,
+  .math-outline h3,
+  .math-outline h4,
+  .math-outline h5,
+  .math-outline h6 {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  .math-outline a {
+    color: #111111 !important;
+    text-decoration: none !important;
+  }
+
+  .math-outline mark {
+    background: #fff1a8 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}
