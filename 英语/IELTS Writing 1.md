@@ -1,3 +1,18 @@
+---
+title: 规划模型
+author: 徐卓斌
+keywords:
+  - 数学建模
+  - 规划模型
+cssclasses:
+  - math-outline
+footerTemplate: >-
+  <div style="width:100vw;font-size:9px;text-align:center;color:#666;">
+    <span class="pageNumber"></span> / <span class="totalPages"></span>
+  </div>
+---
+
+
 图表题
 	第一分类:分为静态图和动态图
 	![[Pasted image 20260506200037.png]]
