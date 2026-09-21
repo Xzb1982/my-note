@@ -59,6 +59,8 @@ Overall, Suitable degree courses contributed as the first factors of choosing an
 
 **_While the quality of resources and good sports and social activities experienced a decline, increases to different extents took place in the other three factors during this decade._**
 
+积累这种表达： increase to different extent
+
 Quality of resources and the Suitable degree courses experienced a relatively small change in its shares . Quality of resources declined by 4% from 21% to 17% , overtaking by Proximity to parental home and Quality of teaching .Despite of a marginal increase , which is a 2-percent incline ,Suitable degree courses remained its domain position among all five reasons.
 
 **_项目不要大写；_**
@@ -80,3 +82,23 @@ Conversely, a relatively huge change were taken place to other three factors .Th
 The two pie graphs demonstrate five reasons for selecting a specific university among the students in Britain, during a 10-year period in 1997 and 2007 , seperately.
 
 Overall, suitable degree courses contributed as the first factors of choosing an university in 1997 and kept its number-one factor in 2007.While quality of resources不要大写 and Good sports and social activities experienced a decline, a different extent of increase were took place to others during this decade.
+
+![](http://www.kdocs.cn/api/v3/office/copy/ajBlYjl2NlpXQzF6U0YyR0VOSEd4NnRaVzRjNU8vY3ZKbk9uQW9YMU1RSnlNWENXRmhuQVNxbVV2SVFLN0liTjc3UDJQeTlZU0hwVm94NFZiK0NodzdzV0ZXRVYxcE1BVTluVmpUQ3VNaWsvem1lUU11M0lRTlNzSUtYZjVScjVyK0MzMk9EUjlMRzQxc0ZWVzF0SXJXMXU4SFFrOFVQN1NJODZXNnNEQ0lRMmxKZnlzK00wNDEzY0hYSUczeGZVRXZhU0xDR3Q2WFdFWXVJUkpTellTWng4U0hHOFNnT3NOTDJ6NU5HVWtvN3VNVjZDOTh6NGlPL2oyQ2FHUDJRV3JNbm9NaEp0UDFnPQ==/attach/object/2K6335BJADAAY?)
+
+
+**Body 1 (Forests):**
+
+**In terms of forest distribution, Africa ranks first at 27%, closely followed by North America at 25%. The remaining regions—Europe, South America, and Asia—have relatively similar proportions, at 18%, 16%, and 14% respectively. This suggests that forest coverage in these five regions is fairly evenly distributed.**
+
+rank +序数词
+the remaining + xxx 例如 the remaining categories 
+
+evenly 均匀地
+
+**Body 2 (Timber):**
+
+**Regarding timber, however, the distribution is much more uneven. North America dominates with 30%, followed by South America (23%) and Europe (20%). Asia and Africa contribute significantly less, at 18% and 9% respectively. Notably, the combined share of Asia and Africa (27%) is still lower than North America's individual share, and North America's timber production is more than three times that of Africa.**
+
+dominate with , 
+Notably 特别地，非常，尤其 ≈ in particular
+than + that of+xxx
