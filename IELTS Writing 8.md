@@ -1,5 +1,4 @@
-![](http://www.kdocs.cn/api/v3/office/copy/SVljSDBqREFvOW9GR2lEWDMwa3lXaENETFVjVGx1U21mLzkzVUlQOWN0K3ZXa3NMWG9YN3BMelE2enl6Nk5tU052ZDFkZDVPeVg0MWhwa0l5RWwzUUduZ0grNXk0aGlpbjBVNjJEak9mcWp3d3RzUmU4ZEgyR3ZZRUtiQnF4a1BPeE9tMXFERTdlK2UyeUlXOWlHMEZOcUZ3WTY5VXJmTjBLVnhuL01UZzRCb0JjRWp1aTh2M1ptVmhOdnBzRjBabkZLRVcxaTNMbUU0QlExL25EV2p2VnpCTlRLNVhXL1Fnb3gvQnhCdlhUQmRWNnkvekh2TVVUWWlPZEZ5aFZxbWgrMVRDazEvU09VPQ==/attach/object/C6J3N7JJADABY?)
-
+![](http://www.kdocs.cn/api/v3/office/copy/ajBlYjl2NlpXQzF6U0YyR0VOSEd4NnRaVzRjNU8vY3ZKbk9uQW9YMU1RSnlNWENXRmhuQVNxbVV2SVFLN0liTjc3UDJQeTlZU0hwVm94NFZiK0NodzdzV0ZXRVYxcE1BVTluVmpUQ3VNaWsvem1lUU11M0lRTlNzSUtYZjVScjVyK0MzMk9EUjlMRzQxc0ZWVzF0SXJXMXU4SFFrOFVQN1NJODZXNnNEQ0lRMmxKZnlzK00wNDEzY0hYSUczeGZVRXZhU0xDR3Q2WFdFWXVJUkpTellTWng4U0hHOFNnT3NOTDJ6NU5HVWtvN3VNVjZDOTh6NGlPL2oyQ2FHUDJRV3JNbm9NaEp0UDFnPQ==/attach/object/C6J3N7JJADABY?)
 
 The two pie graphs compare five different types of French energy production during the 10-year period ,from 1995 to 2005.
 
@@ -29,3 +28,55 @@ Regarding 在....方面，你可以理解为 ： 对....来说
 stand at / account for
 
 remained the two xxx contributors
+
+
+
+![](http://www.kdocs.cn/api/v3/office/copy/ajBlYjl2NlpXQzF6U0YyR0VOSEd4NnRaVzRjNU8vY3ZKbk9uQW9YMU1RSnlNWENXRmhuQVNxbVV2SVFLN0liTjc3UDJQeTlZU0hwVm94NFZiK0NodzdzV0ZXRVYxcE1BVTluVmpUQ3VNaWsvem1lUU11M0lRTlNzSUtYZjVScjVyK0MzMk9EUjlMRzQxc0ZWVzF0SXJXMXU4SFFrOFVQN1NJODZXNnNEQ0lRMmxKZnlzK00wNDEzY0hYSUczeGZVRXZhU0xDR3Q2WFdFWXVJUkpTellTWng4U0hHOFNnT3NOTDJ6NU5HVWtvN3VNVjZDOTh6NGlPL2oyQ2FHUDJRV3JNbm9NaEp0UDFnPQ==/attach/object/EWOOUBZKABAGM?)
+
+The two pie graphs demonstrate five reasons on selecting a specific university among the students in Britain, during a 10-year period from 1997 to 2007 .
+
+**_reasons on selecting 固定搭配_** **_reasons for choosing_**
+
+**_年份是 in 1997 and 2007，seperately_**
+
+Overall, Suitable degree courses contributed as the first factors of choosing an university in 1997 and kept its number-one factor in 2007.While Quality of resources不要大写 and Good sports and social activities experienced a decline, a different extent of increase were took place to others during this decade.
+
+**_contributed as the first factors搭配错误，应为 were the main factor；_**
+
+**_of choosing an university改为 for choosing a university；_**
+
+**_kept its number-one factor表达错误，应为 remained the most important factor；_**
+
+**_Good sports and social activities应为 good sports and social activities_**
+
+**_a different extent of increase表达不自然，应为_** **_increases to different extents_****_；_**
+
+**_were took place 语法错误，应为 took place；_**
+
+**_to others改为in the other three factors_**
+
+**_仔细看下面这句话的表达：_**
+
+**_While the quality of resources and good sports and social activities experienced a decline, increases to different extents took place in the other three factors during this decade._**
+
+Quality of resources and the Suitable degree courses experienced a relatively small change in its shares . Quality of resources declined by 4% from 21% to 17% , overtaking by Proximity to parental home and Quality of teaching .Despite of a marginal increase , which is a 2-percent incline ,Suitable degree courses remained its domain position among all five reasons.
+
+**_项目不要大写；_**
+
+- **_a relatively small change 两者是两个变化，应为 relatively small changes；in its shares 改为 in their shares_**
+- **_overtaking by被动含义错误，应为 was overtaken by_**
+- **_Despite of 改为Despite；remained its domain position 改为remained dominant 或 remained the dominant factor_**
+
+Conversely, a relatively huge change were taken place to other three factors .The proportion of Proximity to parental home had a substantial growth from 10% to 22% .This 12-percent incline led to an exceeding from the least factor among these five reasons in 1997 to the second contributor for student university selection.By contrast , a sharp decline were occured in the reason of Good sports and social activities , which dropped at 13% from 19% to 6%. Regarding the rest one category —— Quality of teaching , it was showed a slightly increase by 3% from 15% to 18%.
+
+- **_a relatively huge change 改为 relatively huge changes_**
+- **_were taken place 改为 took place（被动语态）_**
+- **_to other three factors 改为 in the other three factors_**
+- **_Proximity to parental home_** _改为_ **_proximity to parental home_**
+- **_had a substantial growth_** _改为_ **_grew substantially_** _更自然_
+- **_from the least factor among these five reasons in 1997 结构混乱，应为 from the least important factor in 1997_**
+- **_were occured 不要写被动 occurred_**
+
+The two pie graphs demonstrate five reasons for selecting a specific university among the students in Britain, during a 10-year period in 1997 and 2007 , seperately.
+
+Overall, suitable degree courses contributed as the first factors of choosing an university in 1997 and kept its number-one factor in 2007.While quality of resources不要大写 and Good sports and social activities experienced a decline, a different extent of increase were took place to others during this decade.
