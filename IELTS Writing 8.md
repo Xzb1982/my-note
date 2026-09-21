@@ -79,6 +79,8 @@ Conversely, a relatively huge change were taken place to other three factors .Th
 - **_from the least factor among these five reasons in 1997 结构混乱，应为 from the least important factor in 1997_**
 - **_were occured 不要写被动 occurred_**
 
+
+
 The two pie graphs demonstrate five reasons for selecting a specific university among the students in Britain, during a 10-year period in 1997 and 2007 , seperately.
 
 Overall, suitable degree courses contributed as the first factors of choosing an university in 1997 and kept its number-one factor in 2007.While quality of resources不要大写 and Good sports and social activities experienced a decline, a different extent of increase were took place to others during this decade.
