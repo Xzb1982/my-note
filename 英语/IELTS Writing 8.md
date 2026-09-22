@@ -33,6 +33,8 @@ remained the two xxx contributors
 
 ![](http://www.kdocs.cn/api/v3/office/copy/ajBlYjl2NlpXQzF6U0YyR0VOSEd4NnRaVzRjNU8vY3ZKbk9uQW9YMU1RSnlNWENXRmhuQVNxbVV2SVFLN0liTjc3UDJQeTlZU0hwVm94NFZiK0NodzdzV0ZXRVYxcE1BVTluVmpUQ3VNaWsvem1lUU11M0lRTlNzSUtYZjVScjVyK0MzMk9EUjlMRzQxc0ZWVzF0SXJXMXU4SFFrOFVQN1NJODZXNnNEQ0lRMmxKZnlzK00wNDEzY0hYSUczeGZVRXZhU0xDR3Q2WFdFWXVJUkpTellTWng4U0hHOFNnT3NOTDJ6NU5HVWtvN3VNVjZDOTh6NGlPL2oyQ2FHUDJRV3JNbm9NaEp0UDFnPQ==/attach/object/EWOOUBZKABAGM?)
 
+==**一般来说图表不需要被动语态,例如 occur, take place也不需要被动语态，pie直接可以表示信息**==
+
 The two pie graphs demonstrate five reasons on selecting a specific university among the students in Britain, during a 10-year period from 1997 to 2007 .
 
 **_reasons on selecting 固定搭配_** **_reasons for choosing_**
