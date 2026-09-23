@@ -122,7 +122,8 @@ Conversely , the two remaining categories —— India and Morocco —— mainly
 
 整体的逻辑很不错，对图表信息的筛选比较合理，没有罗列所有数据，而是进行了对比。尤其注意到了瑞典和越南的相似性，以及印度和摩洛哥的相似性；
 
-整个文章注意是four pie charts/overvirew第二句的语法有问题，“Using...”动名词短语作主语，后面接“distributed”作谓语，逻辑不通。
+整个文章注意是four pie charts/
+overvirew第二句的语法有问题，“Using...”动名词短语作主语，后面接“distributed”作谓语，逻辑不通。
 
 Using hydro and nuclear power to generate electricity was more common in Sweden and Vietnam than in India and Morocco.
 
@@ -143,3 +144,32 @@ Overall, fossil fuels were ==**the dominant source of electricity**== in all fou
 4.规避语法错误：写长句前，先问自己：主语是谁？（国家？能源？比例？）谓语动词是什么？fossil fuels accounted for 82%...”或者“fossil fuels contributed to 82% of electricity production；
 
 “Nuclear power was 4%... to produce electricity” 语法错误。不能直接说“核电是4%去发电”；
+
+regard 的固定用法
+
+① `regard A as B`：把 A 看作 / 认为 A 是 B。这里 `regard` 是动词，基本结构固定：
+
+> regard + 宾语 + as + 名词/形容词
+
+② `regarding + 名词`：关于…… / 就……而言。这个就是你刚刚问到的用法。
+
+`regarding` 在现代英语里基本可以直接当介词理解，相当于：
+
+`regarding ≈ concerning ≈ about`
+
+例如：
+
+`I have a question regarding the exam.`  
+我有一个关于考试的问题。
+
+③ `with regard to + 名词`：关于…… / 至于…… / 就……而言。这个比 `about` 正式，学术写作很常见。
+
+`With regard to opening hours, most students were satisfied.`  
+关于开放时间，大多数学生都感到满意。
+
+⑤ `in this/that regard`：在这一方面 / 就这一点而言。这里的 `regard` 可以理解成“方面”。
+
+例如：
+
+`Sweden performed better in this regard.`  
+瑞典在这一方面表现得更好。
