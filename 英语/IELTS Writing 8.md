@@ -107,3 +107,39 @@ dominate with ,
 Notably 特别地，非常，尤其 ≈ in particular
 than + that of+xxx
 
+
+![[Pasted image 20260923142426.png]]
+
+The two pie graphs demonstrate the main three sources of electric production in India , Sweden, Morocco and Vietnam during the 5-year period from 2003 to 2008.
+
+Overall, fossil fuel dominated electric production in these four countries from 2003 to 2008. Using hydro and nuclear power to produce electricity in Sweden and Vietnam, distributed more evenly than that of India and Morocco .
+
+Regarding the countries which had a more even electricity produced distribution,Sweden had a more various electric producing source, with 4% nuclear power , 44% hydro power and 52% fossil fuel in producing electricity. By contrast , the percentage of using hydro power to produce electricity in Vietnam was 44% , which the rest of 56% proportion was used by fossil fuel to produce .
+
+Conversely , the two remaining categories —— India and Morocco —— mainly contributed 82% and 95% in the share of the electric producing sources ,respectively . Nuclear power was 4% and hydro power was 14% to produce electricity in India . The total share of using hydro and nuclear power to produce electricity was relatively smaller than the figure for Sweden and Vietnam in India.Furthermore, hydro power was 5% only to produce electricity in Morocco and there was no nuclear power to produce electricity.
+
+​
+
+整体的逻辑很不错，对图表信息的筛选比较合理，没有罗列所有数据，而是进行了对比。尤其注意到了瑞典和越南的相似性，以及印度和摩洛哥的相似性；
+
+整个文章注意是four pie charts/overvirew第二句的语法有问题，“Using...”动名词短语作主语，后面接“distributed”作谓语，逻辑不通。
+
+Using hydro and nuclear power to generate electricity was more common in Sweden and Vietnam than in India and Morocco.
+
+Overall, fossil fuels were ==**the dominant source of electricity**== in all four countries. However, Sweden and Vietnam had a more balanced mix of energy sources compared to India and Morocco, which ==**relied overwhelmingly on**== fossil fuels.；
+
+3.要攻克“发电”相关表达：不要总是重复 "use X to produce electricity"。
+
+积累同义替换：
+
+==**X accounted for / made up / comprised / constituted Y% of electricity generation.==**
+
+**==Electricity was generated/produced/derived from X.==**
+
+**==The share/percentage/proportion of X in electricity production was Y%.==**
+
+**==Country A relied on X for Y% of its power.**==
+
+4.规避语法错误：写长句前，先问自己：主语是谁？（国家？能源？比例？）谓语动词是什么？fossil fuels accounted for 82%...”或者“fossil fuels contributed to 82% of electricity production；
+
+“Nuclear power was 4%... to produce electricity” 语法错误。不能直接说“核电是4%去发电”；
