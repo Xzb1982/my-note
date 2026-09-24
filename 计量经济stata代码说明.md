@@ -478,3 +478,287 @@ vce(cluster city)
 广州内部的误差可以相关，深圳内部也可以相关；但是把不同城市当作不同 cluster 来处理。
 
 这里一个 city 就是一个 cluster。
+
+# tab函数
+tab函数就是在做频数分布表的意思
+
+# est函数
+
+这里的：
+
+```
+est store east
+```
+
+完整写法是：
+
+```
+estimates store east
+```
+
+意思就是：
+
+> 把刚刚这一次回归结果保存起来，并命名为 `east`。
+
+# 异质性检验
+
+```
+c.higheredu
+```
+
+里的 `c.` 表示 Stata 把 `higheredu` 当作连续变量。
+
+constant.higheredu
+```
+ib2.region
+```
+
+里的：
+
+```
+i  = 分类变量
+b2 = 把第2组设为基准组
+```
+
+你前面编码是：
+
+```
+2 = 东部
+3 = 中部
+4 = 西部
+```
+
+所以：
+
+```
+ib2.region
+```
+
+就是明确告诉 Stata：
+
+> 以东部地区 `region==2` 为参照组。
+
+然后：
+
+```
+ib2.region#c.higheredu
+```
+
+就是构造：
+
+```
+地区 × higheredu
+```
+
+的交互项。
+
+
+所谓异质性，本质上问的是：
+
+同一个解释变量 \(X\)，对不同类型的样本，影响是不是一样？
+
+比如你的研究是：
+
+高等教育水平 higheredu 会不会影响城镇失业率 unemployment？
+
+基准回归默认认为，全国所有城市的影响都一样：
+
+$$ unemployment_{it} =\alpha+\beta higheredu_{it}+\cdots+\varepsilon_{it} $$
+
+假设最后估出来：
+
+$$ \beta=-0.2 $$
+
+意思是，在其他条件不变时，higheredu 每增加 1 个单位，失业率平均下降 0.2 个单位。
+
+但问题来了：东部、中部、西部经济结构并不完全一样，那么 -0.2 这个影响会不会其实是几种不同影响混在一起之后得到的平均值？
+
+假设真实情况是：
+
+$$ \begin{aligned} 东部：&\quad \beta_E=-0.4\\ 中部：&\quad \beta_C=-0.1\\ 西部：&\quad \beta_W=+0.2 \end{aligned} $$
+
+那就说明 higheredu 对失业率的影响存在“地区异质性”。
+
+因为：
+```
+东部：higheredu ↑1 → unemployment ↓0.4
+
+中部：higheredu ↑1 → unemployment ↓0.1
+
+西部：higheredu ↑1 → unemployment ↑0.2
+```
+同一个 `higheredu`，到了不同地区，影响不一样。
+这就是异质性最直白的意思。
+
+第一种办法：分组回归
+
+最容易想到的方法就是把三个地区拆开跑。
+
+* 东部
+reg unemployment higheredu fdi lnpgdp hospital ///
+    i.city i.年份 if region==2, vce(cluster city)
+
+* 中部
+reg unemployment higheredu fdi lnpgdp hospital ///
+    i.city i.年份 if region==3, vce(cluster city)
+
+* 西部
+reg unemployment higheredu fdi lnpgdp hospital ///
+    i.city i.年份 if region==4, vce(cluster city)
+
+假设你真的得到：
+
+地区	higheredu系数	p值
+东部	-0.40	0.001
+中部	-0.10	0.300
+西部	0.20	0.150
+
+你可以初步看出来：
+
+higheredu 的估计系数在东、中、西部存在差别。
+
+但这里有个非常重要的问题：
+
+“东部显著、中部不显著” ≠ “东部和中部的系数显著不同”。
+
+这是异质性分析中特别容易犯的错误。
+
+为什么？
+
+假设：
+
+$$ \hat\beta_E=-0.40,\quad p=0.04 $$
+
+而：
+
+$$ \hat\beta_C=-0.35,\quad p=0.08 $$
+
+一个显著，一个不显著。
+
+但：
+
+$$ -0.40-(-0.35)=-0.05 $$
+
+两者其实非常接近。
+
+所以仅仅看三个分组回归，能看到“系数好像不一样”，但还没有正式回答：
+
+它们之间的差异是否具有统计显著性？
+
+于是就要用你现在看到的“交互项异质性检验”。
+
+第二种办法：交互项检验
+
+假设：
+
+region = 2 → 东部
+region = 3 → 中部
+region = 4 → 西部
+
+我们把东部作为基准组。
+
+你的代码：
+
+reg unemployment ///
+    c.higheredu ///
+    ib2.region#c.higheredu ///
+    fdi lnpgdp hospital ///
+    i.city i.年份 ///
+    if inlist(region,2,3,4), ///
+    vce(cluster city)
+
+先忽略其他控制变量，核心模型其实就是：
+
+$$ Y = \alpha +\beta X +\gamma_C(D_C\times X) +\gamma_W(D_W\times X) +\varepsilon $$
+
+这里：
+
+$$ X=higheredu $$
+
+而：
+
+$$ D_C= \begin{cases} 1,&中部\\ 0,&其他 \end{cases} $$ $$ D_W= \begin{cases} 1,&西部\\ 0,&其他 \end{cases} $$
+
+东部没有单独的交互虚拟变量，因为东部被设成了基准组。
+
+假设 Stata 最后给你：
+
+higheredu                     -0.40
+3.region#c.higheredu           0.30
+4.region#c.higheredu           0.60
+
+这三个数千万不要直接理解成：
+
+东部 = -0.40
+中部 =  0.30
+西部 =  0.60
+
+不是这样的。
+
+正确理解是：
+
+higheredu = -0.40
+→ 东部自己的效应
+
+3.region#c.higheredu = +0.30
+→ 中部比东部高0.30
+
+4.region#c.higheredu = +0.60
+→ 西部比东部高0.60
+
+于是东部：
+
+$$ \beta_E=-0.40 $$
+
+中部：
+
+$$ \beta_C=-0.40+0.30=-0.10 $$
+
+西部：
+
+$$ \beta_W=-0.40+0.60=0.20 $$
+
+正好就是：
+
+地区	higheredu 的实际效应
+东部	-0.40
+中部	-0.10
+西部	+0.20
+
+现在真正的“异质性检验”就出现了。
+
+假设 Stata 输出：
+
+higheredu                     -0.40***     p=0.001
+3.region#c.higheredu           0.30**      p=0.020
+4.region#c.higheredu           0.60***     p=0.001
+
+那么：
+
+3.region#c.higheredu = 0.30，p=0.020
+
+检验的实际上是：
+
+$$ H_0:\beta_C-\beta_E=0 $$
+
+也就是：
+
+中部和东部的 higheredu 系数没有差别。
+
+现在 \(p=0.020<0.05\)，拒绝原假设，所以可以认为：
+
+中部与东部之间的 higheredu 系数存在统计显著差异。
+
+同理：
+
+4.region#c.higheredu = 0.60，p=0.001
+
+检验：
+
+$$ H_0:\beta_W-\beta_E=0 $$
+
+结果显著，所以：
+
+西部与东部之间也存在显著差异。
+
+这才是“正式检验异质性”。
