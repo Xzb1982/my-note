@@ -173,3 +173,8 @@ regard 的固定用法
 
 `Sweden performed better in this regard.`  
 瑞典在这一方面表现得更好。
+
+
+As the global economy is confronting a downward pressure ,the poverty issues in the society are emerged. Some people argue that ensuring the richest and poorest people to have the smallest differences in their incomes is the best way to make our society happier. I mostly disagree with this idea.
+
+The idea itself is quite extreme because the differences between the richest and the poorest people usually exist and cannot be diminished.The markets system itself relies on the machanisms of the selection and reward. The individuals often evaluated by the productivity , skills and market demands in the capitalism society.Therefore, those who performed better or catered to market's demands can gain higher incomes than those who cannot performed well.Then, the differ
