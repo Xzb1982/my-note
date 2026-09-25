@@ -174,7 +174,17 @@ regard 的固定用法
 `Sweden performed better in this regard.`  
 瑞典在这一方面表现得更好。
 
+**The best way to make society happier is to ensure that the richest and poorest people have the smallest differences in earnings.**
+
+**To what extent do you agree or disagree?**
+
 
 As the global economy is confronting a downward pressure ,the poverty issues in the society are emerged. Some people argue that ensuring the richest and poorest people to have the smallest differences in their incomes is the best way to make our society happier. I mostly disagree with this idea.
 
-The idea itself is quite extreme because the differences between the richest and the poorest people usually exist and cannot be diminished.The markets system itself relies on the machanisms of the selection and reward. The individuals often evaluated by the productivity , skills and market demands in the capitalism society.Therefore, those who performed better or catered to market's demands can gain higher incomes than those who cannot performed well.Then, the differ
+The idea itself is quite extreme because the differences between the richest and the poorest people usually exist and cannot be diminished.   Furthermore , the differences can be beneficial to some extent.It can improve the social mobility to motivate the individuals .For instance,some people strive for a better life because the better life is existed due to the differences.Therefore, the idea may easily shift into a dangerous extreme income equality.
+
+Regarding the best way to make the society happier, ensuring the richest and poorest  people to have the smallest difference may not be the best way. Making society happier is a broad topic which is a long-term goal and demands a comprehensive solution .Only to ensure the richest and poorest  people to have the smallest differences is not sufficient.For example, some rich people who makes their own efforts to gain the high social status.If the differences are wiped out , it may be unfair to them. Thus, ensuring the differences to be the smallest one is unrealistic and unfair.
+
+Admittedly, the differences are sometimes detrimental to our society like the porverty breeds the crime or harshes drug addiction. It is not an excuse to wipe the differences between the richest and poorest people. In addition ,Instead of wiping  the differences ,Reducing the gap between the richest and poorest people is a more realistic and conducive way for the government and the whole society.
+
+In conclusion, after a comprehensive analysis of both perspectives, I firmly believe that instead of ensuring, reducing the gap between the richest and poorest people have the smallest differences in earnings, can be the cornerstone of our interactions in modern society and a better way to make our society happier.
