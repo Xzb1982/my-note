@@ -57,7 +57,7 @@ pick-me-up是一个单词
 ![[Pasted image 20260829114406.png]]
 
 O:Not really/ No I dont think so
-R: I find it a bit time-consuming and exhausting/ a bit on the boring side
+R: I find it a bit time-consuming and exhausting
 so it's not my cup of tea
 E:I make mistakes on calculating
 
@@ -65,7 +65,7 @@ E:I make mistakes on calculating
 O: it depends
 如果能想到depends =》例如 distances/schedules/my mood
 例子要具体的细节
-E1: sometimes If I'm doing litercy work . I will go for A(typing ) + 原因(打错了直接修改,effient ,saves time and hassle/trouble, and it makes my life easier)
+E1: sometimes If I'm doing litercy work . I will go for A(typing ) + 原因( When I make mistakes on spelling, I can  correct immediately,  effient ,saves time and hassle/trouble, and it makes my life easier)
 E2: However , regarding / speaking of/ when it comes to, I rather choose B
 ![[Pasted image 20260829112421.png]]
 +原因： make receivers feel warmth and real
@@ -78,8 +78,10 @@ E2: However , regarding / speaking of/ when it comes to, I rather choose B
 ![[Pasted image 20260829115838.png]]
 O：Absolutely 
 E: When I was little , I used to play hide-and-seek with my classmates in school playground a lot
-R:Looking back, it just ==**felt**== carefree & unforgettable / childish 
-+ 开心  especially be snowed under with study that a special treat that lift my mood/ let off steam 
+R:Looking back, it is one of the most unforgettable experience for me when I was little
++ 开心  especially be snowed under with study
++ 
++ This experiences are special treats that lift my mood/ let off steam 
 
 现在的变化 
 ![[Pasted image 20260829120654.png]]
