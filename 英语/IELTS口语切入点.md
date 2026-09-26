@@ -101,3 +101,42 @@ Why? most of people
 
 
 O：
+
+
+P2  人物地事
+
+a time made important dision and have a happy result
+
+跟考官传递画面感是很重要的
+
+1.点题
+2.人物/物品
+外貌，
+地点/事情
+人物：
+Appearance
+Speaking of his personality
+物品
+Appearance
+Speaking of its function
+地点：
+地点长什么样:在哪，能听到，闻到，看到，摸到什么
+事件：
+前因+过程+结果
+3.
+人物/物品
+①初见面，初印象social media:
+	The first time I encountered /came across xxx was when I was scrolling social media
+	+难民 at that time/Looking back +忙 （I had to juggle with so many balls )
+	+累 I was snowed under with+ 情绪总结 exhausted/ frustrated /mentally drained / down in the dumps(是sad的同义替换)
+	可选(叠 buff +on the top of that)
+	However,I stumbled upon a videos about it , which caught my eyes, So I decided to xxx 
+
+②印象最深的事情
+What impressed me most 
+
+第二三部分可以对调
+
+第四部分
+总结，感受，改变
+If I hadn't(过去完成时) xxx, I wouldnt have(虚拟语气) xxx+ed
