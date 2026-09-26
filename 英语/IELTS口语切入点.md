@@ -140,3 +140,8 @@ What impressed me most
 第四部分
 总结，感受，改变
 If I hadn't(过去完成时) xxx, I wouldnt have(虚拟语气) xxx+ed
+
+![[Pasted image 20260926105939.png]]
+wondered around the lake
+instagrammable photos
+lied on the grassland and took a big nap
