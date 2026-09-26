@@ -145,3 +145,60 @@ If I hadn't(过去完成时) xxx, I wouldnt have(虚拟语气) xxx+ed
 wondered around the lake
 instagrammable photos
 lied on the grassland and took a big nap
+
+
+Decrible building you enjoy visiting
+
+It was like walking into a completely different world + I could feel the stress starting to melt away + free writing /I took tons of instagrammable photos / wandered around the akelaido gras land and took a nap
+personal escape zone / it's a place where I could  / that helped me 
+ifihadn't..
+
+looking like a book 
+packed with readers but quiet 
+It was like walking into a completely different world + I could feel the stress starting to melt away
+grabbed a book 
+
+Compare to hustle and bustle CBD, this lib really a personal escape zone for white collars breaking from a sendtary lifestyle 
+
+smell the scent of the book
+
+clean lines / a simple design
+high ceilings / feel open and comfortable
+high-rising buildings/ skyscraper
+stand out  v.显眼
+a well-known landmark / more than just a tourist attraction
+
+
+总结部分的表达：whenever + I hadn't
+
+
+不喜欢的音乐活动/ 嘈杂地
+Describe an event you attended in which you didn’t enjoy the music played
+
+You should say:
+What it was
+Who you went with
+Why you decided to go there
+And explain why you didn’t enjoy it
+
+social media: the singers that was supposed to perform
+
+when I arrived in the music festival
+we realize that 
+packed with audiences / people were standing shouler to shoulder
+After Standing for a while ,We felt like  suffering  from heatstoke
+
+the opening performance was a hard-rock band,it was not my cup of tea , 
+on the top of that the bg music it hurt my ears
+couldn't listen a single word to my friends 
+
+To make things worse,  tune =>consistently out of tune
+ a complete disaster / flop 
+ didn't lift up to my expectations
+
+I couldn't tolerant the condition anymore
+left in advanced /left earlier than my plan
+
+第四部分：To be honest , that music festival is 
+I prefer go to concert rather than a music festival
+we all agree that we prefer going to the concert to music festival
