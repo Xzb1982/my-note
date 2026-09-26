@@ -188,3 +188,22 @@ Regarding the best way to make the society happier, ensuring the richest and poo
 Admittedly, the differences are sometimes detrimental to our society like the porverty breeds the crime or harshes drug addiction. It is not an excuse to wipe the differences between the richest and poorest people. In addition ,Instead of wiping  the differences ,Reducing the gap between the richest and poorest people is a more realistic and conducive way for the government and the whole society.
 
 In conclusion, after a comprehensive analysis of both perspectives, I firmly believe that instead of ensuring, reducing the gap between the richest and poorest people have the smallest differences in earnings, can be the cornerstone of our interactions in modern society and a better way to make our society happier.
+
+
+Write about the following topic:
+
+Some people think that the best way to improve road safety is to get drivers tested each year.
+
+To what extent do you agree or disagree?
+
+Give reasons for your answer and include any relevant examples from your own knowledge or experience.
+
+动作：the best way to improve road safety  + get drivers tested each year.
+ define the best way? road safety? get drivers tested each year?(怎么test)
+目的：road safety,drivers test规范化,减少traffic accidents
+观点：disagree, 
+论证:the better way is effective  legal sys that 
+立论:difine road safety=>protect predestrian, reduce traffic accidents ,drunk while driving=>
+让步:get drivers tested is important,
+
+
