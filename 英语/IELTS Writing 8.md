@@ -206,4 +206,14 @@ Give reasons for your answer and include any relevant examples from your own kno
 立论:difine road safety=>protect predestrian, reduce traffic accidents ,drunk while driving=>
 让步:get drivers tested is important,
 
+As the public concern on the road safety is rising , some people suggest that the best way to improve road safety is to get drivers tested each year.I strongly oppose that opinion because there is a better way to improve road safety . 
 
+The better way is establishing an effective legal system that can not only warn the drivers not to take risks on driving such as drunk driving , fatigue driving and vehicles overloading but also protecting the predestrian's safety.Regarding the road safety issues, it can be divided into two major aspect to solve ,one is protecting the predestrians and another one is regulating the  drivers behaviors.  For instance , Chinese governments impose a series of strict road safety restrictions .These restrictions include more educations about road safety in the driving license examination , more servere penalties on the dangerous driving behaviors and more measurements on preventing traffic accidents.These restrictions are saving countless of people's life and the total amount of the traffic accidents is declining every years.Therefore, there is a better way to improve road safety which is establishing an effective legal system.
+
+Compare with establishing an more effective legal systems on road safety , getting drivers tested may increase the expenditure of the enforcement on the road safety and make the drivers ,who understands the road safety , annoyed and exhausted.More tests are meant more government staffs and the facilities for tests and require drivers more time on completing these tests.For instance , there is a huge amount of cost to hold on a driving safety test, since many resources that should be used in other sectors are now used for repeat tests in road safety.Therefore, a more less-cost way to improve road safety is establishing a more effective legal system.
+
+
+Admittedly ,the opinions on getting drivers tested is quite understandable to some extent . as the drivers do not get enough road safety educations.However, these concerns can be addressed through effective  regulations and the adoption of supportive policies on road safety. By imposing a more effective legal system, The long-term benefits of these policies and regulations are likely to surpass many initial challenges.
+
+
+In conclusion , after a comprehensive analysis of both perspective , while has its own place in certain contexts, I firmly believe that B should be the cornerstone of our interactions in the modern society.The potential benefits of B are compelling , involving a and b.
