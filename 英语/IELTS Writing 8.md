@@ -217,3 +217,38 @@ Admittedly ,the opinions on getting drivers tested is quite understandable to so
 
 
 In conclusion , after a comprehensive analysis of both perspective , while has its own place in certain contexts, I firmly believe that B should be the cornerstone of our interactions in the modern society.The potential benefits of B are compelling , involving a and b.
+
+
+Write about the following topic:
+
+In some countries, celebrities complain about the way the media publicizes their private lives. Some people say that they should accept it as part of their fame.
+
+Do you agree or disagree?
+
+Give reasons for your answer and include any relevant examples from your own knowledge or experience.
+
+celebrities complain the way that the media publicizes their private lives
+
+让步段前置:对方意见+解释对方为什么认为accept,但其实本质上是有缺陷的：should accept 不应该作为 the media publicizes的借口
+	论证：Some people say that they should accept the publicizes =>相当于强制让名人接受=>
+
+
+立论：先定义the way? 狗仔队，偷拍，把名人的私生活当做热点=>私生饭+狂热粉丝出现
+(In some countries贯穿)
+
+进一步：因为名人的fame是有两面性的，一方面公开有利于他们，一方面不公开也有利。=>公开与否和名人自己有关
+
+
+
+**让步：反对意见+解释+However批判，骂一骂自己再骂对方**
+
+Conversely,proponents of (立场)/ Nevertheless, some critics argue that it spurs individuals to （反方观点）At the core of this argument is the fact that(解释).
+
+**揭露缺点**
+
+However,upon closer examination,this perspective overlooks the potential negative consequences of (缺点），mainly due to(原因） have detrimental effects on XXX）.+例子
+
+
+
+
+disagree
