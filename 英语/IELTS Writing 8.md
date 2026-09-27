@@ -248,6 +248,12 @@ Conversely,proponents of (立场)/ Nevertheless, some critics argue that it spur
 
 However,upon closer examination,this perspective overlooks the potential negative consequences of (缺点），mainly due to(原因） have detrimental effects on XXX）.+例子
 
+As the media is ethusiastic about publicizing the celebrities' private life, Some people argue that they should accept it as part of their fame.I strongly disagree with this opinion because the media's coverage of celebrities' private lives often goes too far. 
+
+Upon closer examination,this perspective overlooks the potential negative consequences of the media's coverage on  the celebrities' private lives.The violation of celebrities' privacy may lead to the concern of citizens' privacy.  For instance, the paparazzi followed the celebrities' daily routine on purpose and even sneak into their houses to get further private information on it in the US . This phenomenon raises a heated public concern on the protection of the citizens' or celebrities' privacy.Thus, these coverage may lead to an dangerous and deteriorate the public distrust on the media privacy protections.
+
+Accpecting the coverage on the celebrities' private life as their fame is not an excuse to expose their information violently,  although proponents of accepting  the media's coverage is  understandable because  the publicizing may sometimes bring positive reputations . Furthermore, the media's coverage usually bring more scandals , rather than more reputations ,since scandals are more attractive .For instance , in China, some media expose the athletes' private information and that leads to they were harassed by some obcessive fans .Therefore, Exposing private information without permission is illegal and not an excuse for the violation of celebrities' privacy.
+
 
 
 
