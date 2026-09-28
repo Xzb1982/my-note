@@ -255,7 +255,20 @@ Upon closer examination,this perspective overlooks the potential negative conseq
 Accpecting the coverage on the celebrities' private life as their fame is not an excuse to expose their information violently,  although proponents of accepting  the media's coverage is  understandable because  the publicizing may sometimes bring positive reputations . Furthermore, the media's coverage usually bring more scandals , rather than more reputations ,since scandals are more attractive .For instance , in China,   ==some media repeatedly reports an athlete's private disputes or controversial behaviour, these stories quickly attract public attention and damage the athlete's reputation, even when the incidents have little to do with his or her professional performance.==(这种才能对得上,所以最好先写好这些逻辑链)
 
 
+Write about the following topic:
+
+The most common solution for criminal behavior is prison, but many believe education is a better method.
+
+To what extent do you agree or disagree?
+
+Give reasons for your answer and include any relevant examples from your own knowledge or experience.
+
+Education may not always be pratical on bringing some extreme criminals back to their normal lives.Some advocate that education is a better method than sending them to the prison .I firmly  disagree on the education is better  and I will elaborate this perspective
 
 
+立论： The most applied way of correcting  criminal behavior is prison and this way has its advantages.Regarding protecting the citizens safety , the prison can efficiently block the criminals away from committing crimes again and keep them under a centralized supervision.For instance , the criminals cannot easily escape the prison and their personal freedom is restricted .Compare with education, restricting them in the prisons is more effective by limiting their freedom.Thus, sending them into a prison is better than education .
 
-disagree
+让步：Admittedly ,to some criminals who commited less servere crimes intentionally like breaking someone's property in accident, education is a better method to them.However,upon a closer examination, this perspective overlooks the potential negative consequences of educating for criminal behavior , particularly on criminals who committed a servere crime and made a large impact on public security .Some of  these criminals may lose their consensus and education may have no positive effect for guiding them back to normal lives. For instance, in the US, some serial killers have twisted moral values because of the poor family background or the domestic violence. They should be under the prisons in order to preventing from committing further servere crimes and causing public panic .
+
+论证：Furthermore, concerning the cost , sending them into a prison is a cheaper way to correct the criminals behaviours.
+For instance 
