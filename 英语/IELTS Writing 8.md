@@ -273,7 +273,14 @@ Education may not always be pratical on bringing some extreme criminals back to 
 论证：Furthermore, concerning the cost , sending them into a prison is a cheaper way to correct the criminals behaviours.
 For instance 
 
+![[Pasted image 20260928222840.png]]
+![[Pasted image 20260928223153.png]]
 
+The following two bar charts demonstrate the percentage of earning spent on food and other products in France , Germany and England ,during a 10-year period from 1998 to 2008. 
 
 
 Overall, the proportion of the French food and other goods consuming  exceeded the Germans and  became the largest share among these three countries in 2008 . Furthermore , The percentage of  food and other goods spending among the three countries experienced increases to different extent ,~~which both the proportion of French  food and other goods consumption  ,and the share of England other goods spending increased remarkably~~ .==with particularly marked increases in both categories in France and in spending on other goods in England.==
+
+Regarding the food consumption , the French percentage in food largely inclined by almost 25% from around 15% to 40%  ,and overtook the german ones , which its proportion increased by nearly 5% from around 25% to 30%.  Subsequently, the england ones grew less than that of France and Germany , which increased from 10% to nearly 15%. 
+
+Concerning on the spending of other goods, the French percentage in food largely inclined by more than 25% from less than 10% to 40% in 2008 .Similarly ,the English proportion of other goods consumption increased by nearly 25% from less than 10% to 35% .Both two countries' share exceeded the german share ,which its proportion increased from little higher than 15% to little lower than 35%.
