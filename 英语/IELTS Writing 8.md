@@ -272,3 +272,8 @@ Education may not always be pratical on bringing some extreme criminals back to 
 
 论证：Furthermore, concerning the cost , sending them into a prison is a cheaper way to correct the criminals behaviours.
 For instance 
+
+
+
+
+Overall, the proportion of the French food and other goods consuming  exceeded the Germans and  became the largest share among these three countries in 2008 . Furthermore , The percentage of  food and other goods spending among the three countries experienced increases to different extent ,~~which both the proportion of French  food and other goods consumption  ,and the share of England other goods spending increased remarkably~~ .==with particularly marked increases in both categories in France and in spending on other goods in England.==
