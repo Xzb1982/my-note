@@ -281,6 +281,40 @@ The following two bar charts demonstrate the percentage of earning spent on food
 
 Overall, the proportion of the French food and other goods consuming  exceeded the Germans and  became the largest share among these three countries in 2008 . Furthermore , The percentage of  food and other goods spending among the three countries experienced increases to different extent ,~~which both the proportion of French  food and other goods consumption  ,and the share of England other goods spending increased remarkably~~ .==with particularly marked increases in both categories in France and in spending on other goods in England.==
 
-Regarding the food consumption , the French percentage in food largely inclined by almost 25% from around 15% to 40%  ,and overtook the german ones , which its proportion increased by nearly 5% from around 25% to 30%.  Subsequently, the england ones grew less than that of France and Germany , which increased from 10% to nearly 15%. 
+Regarding ~~the~~ food consumption , the French percentage in food largely inclined by almost 25% from around 15% to 40%  ,and overtook the german ones , which its proportion increased by nearly 5% from around 25% to 30%.  Subsequently, the england ones grew less than that of France and Germany , which increased from 10% to nearly 15%. 
 
-Concerning on the spending of other goods, the French percentage in food largely inclined by more than 25% from less than 10% to 40% in 2008 .Similarly ,the English proportion of other goods consumption increased by nearly 25% from less than 10% to 35% .Both two countries' share exceeded the german share ,which its proportion increased from little higher than 15% to little lower than 35%.
+**the proportion of income spent on food in France rose sharply by almost 25%, from around 15% to 40%, and overtook that in Germany, where the proportion increased by nearly 5 percentage points, from around 25% to 30%.** By contrast(不是并列也不是递进), the figure for England grew less than those for France and Germany, increasing from 10% to nearly 15%.
+
+Concerning ~~on~~ the spending of other goods, the French percentage in food largely increased by more than 25% from less than 10% to 40% in 2008 .Similarly ,the English proportion of other goods consumption increased by nearly 25% from less than 10% to 35% .Both two countries' share exceeded the german share ,which its proportion increased from little higher than 15% to little lower than 35%.
+
+**Regarding spending on other goods, the proportion in France rose sharply by more than 25 percentage points, from less than 10% to 40% in 2008.**  **Similarly, the proportion in England increased by nearly 25 percentage points, from less than 10% to 35%.**  **The shares of both countries exceeded that in Germany, where the proportion increased from slightly higher than 15% to slightly lower than 35%.**
+
+低级错误， 不能再犯！！
+
+1. **incline 不能表示上升**
+
+→ 用 rise / increase / grow / climb
+
+1. **百分比 vs 百分点**
+
+→ 从 15% 到 40%：increase by 25 **percentage points**
+
+1. **指代国家比例用 that / those**
+
+→ that in Germany
+
+→ those for France and Germany
+
+1. **which 后面不能直接加 its proportion**
+
+→ where the proportion increased
+
+1. **Concerning 后面不加 on**
+
+→ Regarding / Concerning
+
+1. **国家名和国籍形容词大写**
+
+→ Germany / German
+
+→ England / English
