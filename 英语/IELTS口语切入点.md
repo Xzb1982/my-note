@@ -203,3 +203,108 @@ left in advanced /left earlier than my plan
 I prefer go to concert rather than a music festival
 we all agree that we prefer going to the concert to music festival
 
+
+在口语上，脑子里面蹦出来什么词就说啥，先保证fluency
+
+
+P3
+
+科技类
+
+==**fame**== 
+influencers 网红 
+celebrities 名人 celebs 
+
+post vlogs / videos 
+go viral("火"了) overnight which their contents=> gain/get millions fans / followers and likes => 
+
+so that =>sponsership (代言) offer opportunities (O)to 
+
+R: =>a sense of achievement 
+
+==**However, Speaking of / in terms of :**== R:  privacy & public reputation
+==**pressure from  posting contents constantly**== &  retaining followers
+loss of privacy  - ==**face  hate comments**==
+even  small mistakes can be exaggerated / can be blown out of proportion => lead to millions hate comments
+
+逻辑连接词一定要加，因为是采分点，也可以帮你思考
+
+What are the advantages and disadvantages of being a famous child?
+
+It has serval pros and cons / doubled-edge soword
+
+==**short videos**==
+
+类型：reviews -- movie&restaurant  reviews 
+talk show
+drama clips 
+streets interview
+
+let off steam & 
+why? bec providing pleasure / instant gratification(即时满足) for+
+short videos are usually  easy to digest
+
+把口癖的冠词换成指代词
+口语里面大部分都不需要冠词
+复数不加冠词
+
+It is worth  mentioning  that short videos themselves dont have disavantage
+people are too obsessed with shorts videos ,  it may bring disadvantages
+
+Because 为什么依赖：因为推流机制： the sophisticated(精心设计的 ) algoitem => push ==**tailor-made content**== =>  keeps users watching
+
+For example 
+kill some time - but the next thing they know - they have  gone down a rabbit hole
+
+年龄段
+
+old people/ young people/ children(0-12小学生 primary students )
+
+小孩(特指小学生)的特征：
+①their cognitive and mental developem is still in progress =>(so that ) x cannot tell right from wrong
+gain attention => popularity => draw attention 
+
+② 口口相传/，their brains are like sponges , that  can absorb /==**soak up**== almost everything around them , so that they may learn xxx (xxx skills)
+
+③ 很喜欢模仿: imitate people around them like classmates and their friends and even their parents
+
+④ 商场: like screaming without any reasons 
+cry their eyes out (嚎啕大哭)=> and scream their heads off 
+在家: refuse to   cope with sth/cooperate => ==**drag their feet ,talk back**== 
+学校：pick on(没到霸凌) classmates /  make laugh at someone 
+
+⑤parents : 1.以身作则: R: lead by example + E: 怎么lead 
+	2. 正反馈  ==**when child perform well/ make progress,  parents can point it out  , then give credits /thumbs**==
+	3. give them options =》 give a sense of control 
+
+Do you think teachers are able to spot the unhappy children?
+0:from wrong
+R: 不成熟: their cognitive and mental development is still in progress, x tell right  => hard to hide their feelings ,their emotion are usually shown by its behavior
+E: ④ 商场: like screaming without any reasons 
+cry their eyes out (嚎啕大哭)=> and scream their heads off 
+在家/在学校: refuse to   cope with sth/cooperate => ==**drag their feet ,talk back**==
+
+练习P3的时候，先列出来逻辑链
+
+年轻人vs老年人
+
+① 人生阶段 they are at  life stages are different =>put more weight on different things 看重的东西不同 =>需求不同 => make different choices 做出不同的选择 for the elderly 
+
+①年轻人的特征：
+1. 特征:prefer things that are challenging, fast/convenient , interesting /fun , ==new==, care about themselves/friends/peers
+2. 行为: extreme sports / instant noodles,phones,social media ,keep up with friends / hang out with friends , try out new features
+
+during their leisure time
+spare time 
+
+做不到多样就不要重复，让对方意会
+
+②elderly
+1. 特征：things that stable , reliable , without too much hassle， care about their families 
+2. 行为: 因题而异 playing chesses  , walking , gardening , spend time with their families
+
+There are a lot of differences on leisure time activities
+because they are at different life 
+regarding their 
+
+
