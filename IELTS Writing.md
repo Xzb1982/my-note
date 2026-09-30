@@ -623,3 +623,5 @@ All large companies should offer sports and social facilities to the local commu
 去写作
 
 As well as making money, businesses also have a responsibility towards society. To what extent do you agree or disagree?
+
+agree
