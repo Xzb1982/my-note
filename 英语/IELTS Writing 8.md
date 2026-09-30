@@ -318,3 +318,39 @@ Concerning ~~on~~ the spending of other goods, the French percentage in food lar
 → Germany / German
 
 → England / English
+
+
+
+Write about the following topic:
+
+Individuals can do nothing to improve the environment; only governments and large companies can make a difference.
+
+To what extent do you agree or disagree?
+
+Give reasons for your answer and include any relevant examples from your own knowledge or experience.
+
+only governments and large companies can make a difference.
+
+
+
+立论： Individuals can make a huge and conducive difference on improving the environment by using reusable bags instead of the plastic ones ,commuting by transportation instead of driving  and engaging waste sorting actively , to name but a few.These actions seemingly have small impact on our environment. However, the more residents participate in , the more influence we can make .For instance,   millions of Chinese engage in waste sorting and commuting by public transportation in Beijing, China.After millions of Beijing citizens active actions on protecting environment, Beijing's air condition has improved . Therefore , Individuals can influence the environment by small actions and active engaging. 
+
+论证：Furthermore,  governments and large companies may not make enough progress on the environment protection without any individuals participation. Because some governments or companies may not gather enough information on local economic conditions so that they sometimes suggest some unrealistic approach to the local citizens.For instance, in some africa countries , some governments and corporations introduce a restriction together on the local fishing sectors for environmental protection purpose.However, the local residents earn a living by fishing industries and this ban faces enormous challenges  on enforcement.Thus , governments and large companies cannot make further progress on the environment protation without any individuals participation.
+
+让步：~~Adimittedly, propoents of individuals can do nothing to improve the environment is understandable to some extent. Because some large companies may prevent some individuals or environmental organizations from polluting the local environment on purpose which the corporates may control cost from it.However, these concerns can be addressed through making public differences on the policies making and effective public . The long-term benefits of  are likely to surpass any initial challenges.~~
+
+Admittedly, governments and large companies can make a greater difference to environmental protection because they have more financial resources and greater influence. For example, governments can introduce environmental regulations, while large companies can invest in cleaner technologies and reduce industrial emissions. However, this does not mean that individuals can do nothing. Many environmental policies still depend on public participation. For instance, recycling programmes will have limited effects if residents refuse to sort their household waste properly. Therefore, although governments and corporations may play a larger role, individual participation is still necessary.
+
+开头段快速模板：==**In recent years, more and more people**== have become concern about the envirnoment preservation . Some argues that only governments and large corporations can make a difference on the environment , individuals can have little or no difference to improve it.I strongly disagree with this opinion because
+
+结尾段快速模板：
+In conclusion ~~,after a comprehensive analysis of both perspectives~~,while （A） has its place in certain contexts, I firmly believe that （B） should be the cornerstone of our interactions in modern society. 
+
+
++①the potential benefits of (B) are compelling,involving (好处1) and (好处2).
+
+（突出对比型）
+
+②it is evident that the merits of （B） , such as （） and (), significantly prevail over the potential demerits.
+
+例句：In conclusion, ~~after a comprehensive analysis of both perspectives,~~ while **digital communication** has its place in certain contexts, I firmly believe that **genuine, face-to-face interaction** should be the cornerstone of our relationships in modern society. （再次强调自己的观点）The potential benefits of **authentic human connection** are compelling, involving **deeper emotional bonds** and **more nuanced non-verbal understanding**.（概括）
