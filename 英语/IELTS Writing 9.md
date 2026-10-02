@@ -58,3 +58,18 @@ Concerning both male and female young drivers who applied for licences from 1996
 
 只有说“增加了多少”时才用 percentage points：
 > rose **by 30 percentage points**, from 30% to 60%
+
+Write about the following topic:
+
+Whether or not a person achieves their aims in life is mostly related to luck.
+
+To what extent do you agree or disagree?
+
+Give reasons for your answer and include any relevant examples from your own knowledge or experience.
+
+Nowadays, more and more people have become concern about achieveing their personal goals in their life. Some people argue whether or not a person achieves their aims in life is mostly related to luck.I strongly disagree with this idea because
+
+立论：Whether or not a person achieves their aims in life is mostly related to  personal effort  => in farming 
+让步段：luck 有时候会带来机会, However , it does not mean luck is the only , because 
+
+In conclusion , while the opinion on a person mostly rely on luck  to achieve him or her goals has its own social contexts , I firmly believe that personal efforts should play the dominant role of achieveing their personal goals in  their lives.
