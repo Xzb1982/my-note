@@ -73,3 +73,14 @@ Nowadays, more and more people have become concern about achieveing their person
 让步段：luck 有时候会带来机会, However , it does not mean luck is the only , because 
 
 In conclusion , while the opinion on a person mostly rely on luck  to achieve him or her goals has its own social contexts , I firmly believe that personal efforts should play the dominant role of achieveing their personal goals in  their lives.
+
+
+![[8e2d696e1e9e48bf6303859ac691e304.png]]
+
+The following line graph and two pie charts demonstrate the proportion of population aged in 18-34  in a particular country and the share of this age group of people living in cities , towns and rural areas ,during 33-year period from 1978 to 2011.
+
+Overall, the population aged between 18 and 34 years old increased initially  from 1978 and peaked in 1992 ,before a gradual decline for the rest of the period.Concerning the share of this age group living in three regions,the share of people living in towns and cities  increased,  whereas the share of living in  rural areas declined in this period  .The percenatge of the people living in cities domained the proportion during the period.
+
+Regarding the proportion of people aged in 18-34, the population aged between 18 and 34 years old increased by close to 3 percentage points from 35% to around 38% initially , before a continuous decrease which was from about 38% to around 32% in the rest of this period.
+
+Specifically, in terms of its population distribution on living in different regions, the proportion of citizens played a dominant role among three regions during this period and even increased by 10 percentage points from 55% to 65%.Besides, overtaking by the share of people living in towns ,which increased 10 percentage points from 55% to 65% , the share of people living in rural areas experienced a sharp decrease which was 20 percentage points from 25% to 5%.
