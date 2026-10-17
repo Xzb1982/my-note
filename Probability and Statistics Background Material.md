@@ -84,3 +84,18 @@ we make a portfolio
 ![[Pasted image 20261017173024.png]]
 
 ![[Pasted image 20261017173033.png]]
+
+
+
+概率公理
+
+![[Pasted image 20261017174539.png]]
+
+条件概率与贝叶斯定理
+
+ Define the conditional probability
+2. Create a partition of O2
+3. Combine the partition and the conditional probabilitydefinitions to get the Partition Theorem
+4. Take the conditional probability definition and use thepartition theorem in the denominator to get Bayes' theorem
+
+为什么贝叶斯定理和分类模型
