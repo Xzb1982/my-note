@@ -99,3 +99,27 @@ we make a portfolio
 4. Take the conditional probability definition and use thepartition theorem in the denominator to get Bayes' theorem
 
 为什么贝叶斯定理和分类模型
+
+
+![[Pasted image 20261017175838.png]]
+![[Pasted image 20261017175859.png]]
+
+![[Pasted image 20261017180000.png]]
+概率密度函数和概率
+
+离散型随机变量的分布
+
+伯努利分布
+
+二项分布（n次独立重复试验的伯努利分布）
+
+几何分布（特殊的二项分布）和超几何分布
+
+泊松分布
+
+
+连续性随机变量的分布
+
+每个分布的应用是什么？
+
+均匀分布是
