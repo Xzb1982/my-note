@@ -28,7 +28,29 @@ Discuss the extent to which you agree or disagree with the statement and explain
 		RC部分的文章不长，但是考的是句间关系的分析能力
 		![[Pasted image 20261018130209.png]]
 		可能出现5选1，或者不定项
+之后是Quant部分
+	![[Pasted image 20261018142203.png]]
+	第一个是比大小
+	注意，GRE会提供桌面计算器
+	![[Pasted image 20261018142436.png]]
+	![[Pasted image 20261018142516.png]]
+	![[Pasted image 20261018142538.png]]
+
+![[3f89ba298f5b4fbcc5f4dff6b7fa6c77.png]]
 
 整个GRE考试有两个V部分和两个Q部分，第一个出现的是AW，之后可能是V先开始，也可能是Q先开始，之后交替来考
 GRE一年只能考5次，两次间隔需要满21天
 立即出分，成绩单寄送要到8-10天
+
+加试部分在新GRE中已经取消
+
+第一个大V+Q是12+12道题，一共18+21分钟，第二个大part是 15+15道题，一共23+26分钟
+
+考试一共1小时58分钟
+
+新GRE仍旧是半自适应，也就是第一个大part的难度是medium，第二个大part才开始区分
+两个section之间
+
+GRE的成绩单的解读
+	我们平时所说的GRE分数，指的是verbal+Quant，不加上AW
+	![[Pasted image 20261018145117.png]]
