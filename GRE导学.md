@@ -35,6 +35,7 @@ Discuss the extent to which you agree or disagree with the statement and explain
 	![[Pasted image 20261018142436.png]]
 	![[Pasted image 20261018142516.png]]
 	![[Pasted image 20261018142538.png]]
+	题型：比大小，5选1，不定项，手写数字的填空
 
 ![[3f89ba298f5b4fbcc5f4dff6b7fa6c77.png]]
 
@@ -54,3 +55,18 @@ GRE一年只能考5次，两次间隔需要满21天
 GRE的成绩单的解读
 	我们平时所说的GRE分数，指的是verbal+Quant，不加上AW
 	![[Pasted image 20261018145117.png]]
+
+考试相关事务
+	Official Score Report:
+	考试结束，10-15个工作日后，即可查询成绩
+	![[Pasted image 20261018155055.png]]
+	1.考试当天，可在考场选择4份免费成绩寄送，可选择:
+	寄送当场考试成绩(Score Select Most Recent)
+	寄送最近5年所有成绩(Score Select MostAll)
+	2.考试结束后，10-15个工作日考生获得正式GRE成绩后，登录https:/ereg.ets.orglereg/homel，通过Score Select系统进行选择想要寄送的成绩
+	同上
+	同上寄送任何一次或几次成绩(Score Select MostAny)(付费)
+
+
+GRE作文
+	每篇GRE的Issue或Argument作文都会先由一名人类评分员根据GRE写作评分标准给出0到6之间的整数分数，然后ETS的e-rater自动打分软件会为作文给出0 到6之间的实数分数。
