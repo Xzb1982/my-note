@@ -13,7 +13,7 @@ metamorphe => 变形
 
 warehouse n.仓库 
 
-anomalous
+anomalous adj.异常的 unusual
 a- 否定/强调
 nomal - 正常
 
