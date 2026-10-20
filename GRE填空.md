@@ -93,3 +93,22 @@ discordant(声音的不协调，不刺耳/人们意见不一) 一般配上 with
 anomalous ≈ inconsistent
 
 ![[Pasted image 20261020093049.png]]
+
+
+![[Pasted image 20261020094157.png]]
+你需要尽快做完填空，所以直接定位，定点
+
+![[Pasted image 20261020095049.png]]
+
+![[Pasted image 20261020095246.png]]
+
+
+![[Pasted image 20261020095621.png]]
+
+afresh 从头再来
+
+![[Pasted image 20261020100513.png]]
+
+by  xxx 这里有种因果关系在里面
+
+![[Pasted image 20261020101154.png]]
