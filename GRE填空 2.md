@@ -92,3 +92,6 @@ obviate  eliminate
 ![[Pasted image 20261023172514.png]]
 
 ![[Pasted image 20261023174813.png]]
+
+
+![[Pasted image 20261023180313.png]]
