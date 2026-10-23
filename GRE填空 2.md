@@ -86,3 +86,7 @@ obviate  eliminate
 先看句子再看选项
 
 ![[Pasted image 20261023170930.png]]
+
+![[Pasted image 20261023171958.png]]
+
+![[Pasted image 20261023172514.png]]
