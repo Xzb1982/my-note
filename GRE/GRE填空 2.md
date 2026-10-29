@@ -95,3 +95,114 @@ obviate  eliminate
 
 
 ![[Pasted image 20261023180313.png]]
+
+
+Since their beginnings in the late nineteenth century, ==comics== as an art form in the United States ==have encompassed== just about every aspect of ==**American life**==, from down-to-earth to _ _ .
+
+esoteric 内行人才知道的
+
+austere 严肃的
+
+arcane神秘的
+
+==pastoral 田园的==
+
+genteel 有文雅的
+
+==arcadian 田园牧歌式的==
+
+The orthodox approach to legal decision-making tends to be ==**backward-looking**==, asking which ==**decision**== would have the ==**better legal**== __ 
+不是backward looking/不是orthodox
+
+outcome结果
+
+==**lineage 家族世系**==
+
+consequence后果
+
+corollary 必然结果
+
+standing立场
+
+==**pedigree 家谱，血统**==
+
+
+Berreby claims that ==**people**== cannot help ==**being**== __ : organizing humans into kinds and drawing a ==**distinction**== between “us” and “others” is, he notes, an “==**absolute**== requirement for being human.
+
+being 区分
+
+==**xenophobic 排外的**==
+
+skeptical怀疑的
+
+tribal 部落的
+
+incredulous 怀疑的
+
+systematic 系统性的
+
+==**clannish 氏族、宗族排外的**==
+
+Neuroscientists are discovering that our sensory systems are much more ==**interconnected**== than previously thought: even in ordinary circumstances, **==our senses==** can _ one another in extraordinary ways.
+
+v. 内部联系
+overrule 逾越
+
+bypass 绕过
+
+abet 教唆
+
+==**improve 增强**==
+
+circumvent 避开
+
+==**support 支撑**==
+
+It is hardly __ that Babylonian astronomers took an interest in tracking the planet Jupiter, since they regarded it as a ==**celestial manifestation**== (天体的表示) of Marduk, the patron god(主神) of the ancient city of Babylon.
+
+几乎不会 + adj. 不推崇
+
+remarkable 显著的
+
+inconceivable 难以想象的
+
+commonplace 老生常谈
+
+surprising 惊喜的
+
+==**unjustifiable 证伪的**==
+
+==**dubitable 怀疑的**==
+
+
+A priori mathematics, according to Galileo, does not  __ the need for observation, ==**but**== mathematics does allow us to **==deduce（推断） unobservable properties**== and thus to penetrate further into the structure of nature ==**than observation**==
+
+不要observe
+
+==**address 解决，提出**==
+
+==**acknowledge 承认**==
+
+obviate 排除 消除
+
+diminish消除
+
+displace 代替
+
+appreciate 赞同赞许
+
+In Southern California, white abalone populations have ==**waned**== 减弱 dramatically and black abalone populations have likewise （同样的）_ .
+
+否则，提升
+
+==**vanished 消散**==
+
+==**collapsed 坍塌**==
+
+dispersed 驱散
+
+dwindled 缩小减少
+
+fluctuated 波动
+
+scattered 分散
