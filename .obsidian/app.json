@@ -34,5 +34,6 @@
     "editor:insert-footnote",
     "editor:insert-table"
   ],
-  "mobilePullAction": "editor:follow-link"
+  "mobilePullAction": "editor:follow-link",
+  "useTab": true
 }
