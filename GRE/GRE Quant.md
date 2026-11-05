@@ -167,3 +167,8 @@ A=C-B
 
 ![[Pasted image 20261027101815.png]]
 ![[Pasted image 20261027101910.png]]
+
+
+
+Distinct odd prime numbers 的意思是：两个互不相同的奇质数。
+
