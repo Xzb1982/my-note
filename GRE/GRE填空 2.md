@@ -206,3 +206,50 @@ dwindled 缩小减少
 fluctuated 波动
 
 scattered 分散
+
+![[Pasted image 20261106103656.png]]
+
+pastoral ,闲适的， arcadian
+
+xenophobic 是仇外的、恐外的 phobic phobia 恐惧的
+
+tribal 、 clannish 
+
+
+![[Pasted image 20261106104337.png]]
+
+abet 也有支持的意思
+support
+
+![[Pasted image 20261106105159.png]]
+
+since  这里引导的是原因状语从句
+as  、 for也可以引导原因状语从句
+
+
+![[Pasted image 20261106105455.png]]
+方向的前提是
+本身是否是等价词，一定要是意思至少要有
+
+
+ figure out ，acknowledge ， find  ,pinpoint 在含义上都是发现了问题、病灶，所以在这个含义上能成为等价词
+ address ， acknowledge 从哪个方向上都很难成为等价词
+![[Pasted image 20261106111020.png]]
+
+
+考logic =》这道题问的是 A 和B 的关系
+考强词 
+
+![[Pasted image 20261106111451.png]]
+
+这里考的是程度上的区分
+
+ tribal 和 clannish 可以理解成抱团的
+
+pastoral 和 arcadian 田园的，从这个词的本意克制地推测
+
+![[Pasted image 20261106112431.png]]
+logical 
+reasoned
+
+![[Pasted image 20261106112625.png]]
