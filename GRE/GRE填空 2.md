@@ -253,3 +253,17 @@ logical
 reasoned
 
 ![[Pasted image 20261106112625.png]]
+
+![[Pasted image 20261106120338.png]]
+
+spontaneity  自然而然的
+impromptu 即兴的
+
+![[Pasted image 20261106120427.png]]
+
+独立主格补充背景信息，省略了with；用同位语去解
+有同有反，先看
+
+
+英文的语境背意思
+
