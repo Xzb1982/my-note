@@ -240,7 +240,62 @@
 		![[Pasted image 20261110144559.png]]
 		做完回归之后，我们会得到这样一张表格，这个表格表示的是一元一次线性回归模型和一元三次线性回归模型的拟合效果
 		注意，“戴帽子”的系数是我们拟合出来的，而不戴帽子的α、β是真实的，是未知的系数
-		
+		还有一个点，==**是KNN近邻预测是非参数预测；但是线性回归模型的预测是参数预测，其模型是参数模型**==
+		原理：最小二乘法
+			![[Pasted image 20261110153743.png]]
+			我们任意画一条拟合直线，实际数据点和拟合直线总会存在一段距离，而将==**任意一个点yi - 在直线上的点y = ei,我们把它称之为残差**==
+			我的目的是让所有的残差最小，那么我们可以这样来量化：$$ \min \sum^n_{i=1} e_{i}^2 = \min \sum^n_{i=1} (y_{i} - \alpha -\beta x_{i}) ^2$$
+			我们使其残差最小，就是要找出一组合适的α和β使其最小
+			为了使其最小，求出系数，我们需要对该方程进行微分,然后求偏导数：
+			$$\frac{ d \left( \sum^n_{i=1} (y_{i} - \alpha -\beta x_{i}) ^2\right) }{dx}$$
+			令这个式子为0：
+			$$ \sum^n_{i=1} (y_{i} - \hat{\alpha} -\hat{\beta} x_{i}) ^2 = 0 $$
+			根据微积分，如果一个可微函数在内部取得极小值，那么它对各个变量的一阶偏导数必须=0。
+			因此需要满足： $$\begin{cases} \dfrac{\partial S}{\partial\alpha}=0\\[8pt] \dfrac{\partial S}{\partial\beta}=0 \end{cases} $$
+			这就是 normal 方程的来源。
+			我们的目标函数：$$S(\alpha,\beta)=\sum_{i=1}^{N}(y_i-\alpha-\beta x_i)^2 $$
+			先看求和符号中的一个部分：$$(y_i-\alpha-\beta x_i)^2 $$
+			对 \(\alpha\) 求偏导。
+				这里需要使用复合函数求导法则：$$\frac{d}{dt}[f(t)]^2=2f(t)f'(t) $$
+				因为：$$\frac{\partial}{\partial\alpha} (y_i-\alpha-\beta x_i)=-1 $$
+				所以： $$\frac{\partial}{\partial\alpha} (y_i-\alpha-\beta x_i)^2 =2(y_i-\alpha-\beta x_i)(-1) $$
+				即：$$=-2(y_i-\alpha-\beta x_i) $$
+				再把所有观测值加起来：$$\frac{\partial S}{\partial\alpha} =-2\sum_{i=1}^{N}(y_i-\alpha-\beta x_i) $$
+				按照一阶极值条件，令偏导数=0： $$-2\sum_{i=1}^{N}(y_i-\hat\alpha-\hat\beta x_i)=0 $$
+				两边同时除以 -2： $$\boxed{ \sum_{i=1}^{N}(y_i-\hat\alpha-\hat\beta x_i)=0 } $$
+				这就是第一个 Normal Equation。
+				它还有一个很重要的统计学含义：
+				由于: $$e_i=y_i-\hat\alpha-\hat\beta x_i $$
+				因此： $$\boxed{\sum_{i=1}^{N}e_i=0}$$ 
+				也就是说，带截距项的普通最小二乘回归中，样本残差之和=0。
+			对 \beta 求偏导
+				同样从目标函数出发
+				注意，\beta 前面乘了一个x_i，所以： $$\frac{\partial}{\partial\beta} (y_i-\alpha-\beta x_i)=-x_i $$
+				根据复合函数求导法则：$$ \begin{aligned} &\frac{\partial}{\partial\beta} (y_i-\alpha-\beta x_i)^2\\ &=2(y_i-\alpha-\beta x_i)(-x_i)\\ &=-2x_i(y_i-\alpha-\beta x_i) \end{aligned} $$
+				对全部观测值求和： $$\frac{\partial S}{\partial\beta} =-2\sum_{i=1}^{N}x_i(y_i-\alpha-\beta x_i) $$
+				令偏导数等于零：$$-2\sum_{i=1}^{N}x_i(y_i-\hat\alpha-\hat\beta x_i)=0 $$
+				两边同时除以 -2，得到：$$\boxed{ \sum_{i=1}^{N}x_i(y_i-\hat\alpha-\hat\beta x_i)=0 } $$
+				这就是你截图中的第二个 Normal Equation。
+				由于括号内就是残差 e_i，因此也可以写成： $$\boxed{\sum_{i=1}^{N}x_ie_i=0} $$
+				这意味着样本中解释变量 x_i 与残差 e_i 的乘积之和为零。由于样本残差的均值也为零，因此样本解释变量与残差的协方差为零。
+			求出拟合截距和拟合系数的表达式
+				现在我们得到了两个方程：$$\begin{cases} \displaystyle\sum_{i=1}^{N}(y_i-\hat\alpha-\hat\beta x_i)=0\\[10pt] \displaystyle\sum_{i=1}^{N}x_i(y_i-\hat\alpha-\hat\beta x_i)=0 \end{cases} $$
+				实际上，这是一个关于 $$\hat\alpha,\hat\beta$$ 的二元方程组。
+				第一步：从第一个正规方程求截距。
+				展开求和符号：$$\sum_{i=1}^{N}y_i-N\hat\alpha-\hat\beta\sum_{i=1}^{N}x_i=0 $$
+				移项：$$ N\hat\alpha=\sum_{i=1}^{N}y_i-\hat\beta\sum_{i=1}^{N}x_i $$
+				两边除以 N：$$ \hat\alpha= \frac{\sum y_i}{N}-\hat\beta\frac{\sum x_i}{N} $$
+				我们知道： $$\bar y=\frac{\sum y_i}{N},\qquad \bar x=\frac{\sum x_i}{N} $$
+				因此： $$\boxed{\hat\alpha=\bar y-\hat\beta\bar x} $$
+				第二步：将截距公式代入第二个正规方程。
+				原方程展开后：$$\sum x_iy_i-\hat\alpha\sum x_i-\hat\beta\sum x_i^2=0 $$
+				代入 $$\hat\alpha=\bar y-\hat\beta\bar x$$：$$ \sum x_iy_i-(\bar y-\hat\beta\bar x)\sum x_i-\hat\beta\sum x_i^2=0 $$
+				整理：$$\hat\beta\left(\sum x_i^2-\bar x\sum x_i\right) =\sum x_iy_i-\bar y\sum x_i $$
+				利用 $$\sum x_i=N\bar x$$，得到：$$\hat\beta= \frac{\sum x_iy_i-N\bar x\bar y} {\sum x_i^2-N\bar x^2} $$
+				又因为：$$\sum(x_i-\bar x)(y_i-\bar y) =\sum x_iy_i-N\bar x\bar y $$
+				以及：$$\sum(x_i-\bar x)^2 =\sum x_i^2-N\bar x^2 $$
+				最终得到： $$\boxed{ \hat\beta= \frac{\displaystyle\sum_{i=1}^{N}(x_i-\bar x)(y_i-\bar y)} {\displaystyle\sum_{i=1}^{N}(x_i-\bar x)^2} } $$
+
 
 
 
