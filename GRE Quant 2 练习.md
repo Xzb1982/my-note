@@ -81,4 +81,14 @@ C. 极差小于 200。
 
 1+2+3+4+5+6+7+8+9 =45
 
-应该是10？
+应该是10？ 对
+
+第三题：
+
+The probability distribution function f of a continuous random variable x is defined by 𝑓(𝑥) = 2/13 *  |𝑥| 𝑓𝑜𝑟 − 3 ≤ 𝑥 ≤ 2
+
+Quantity A: The median of the distribution of X
+
+Quantity B: -9/5
+
+A，因为X在-1到0取到中位数？
