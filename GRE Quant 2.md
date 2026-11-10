@@ -78,3 +78,57 @@ nP1 = n = nC1
 nC0 = nCn = 1
 
 互补定理： nCr = nCn-r
+
+![[Pasted image 20261110095107.png]]
+
+![[Pasted image 20261110095201.png]]
+这道题需要反着来
+
+独立事件
+P(A)P(B) = P(A&B)
+
+![[Pasted image 20261110095600.png]]
+
+![[Pasted image 20261110095858.png]]
+
+![[Pasted image 20261110100006.png]]
+
+但是，这里不允许为0，P(AB) = P(A) +P(B) -1
+
+![[Pasted image 20261110100256.png]]
+当且仅当 a=b的时候取等号，而且 ab非负
+
+![[Pasted image 20261110100355.png]]
+
+
+当n为奇数，![[Pasted image 20261110100606.png]]
+当n为偶数
+
+当均值 > 中位数时，右偏
+
+箱线图
+![[Pasted image 20261110100845.png]]
+
+![[Pasted image 20261110100934.png]]
+
+median，我们可以理解成一个分位数
+
+IQR四分位距，Q3-Q1
+Ascending order 升序
+![[Pasted image 20261110101236.png]]
+百分位数越高越好
+
+最高是前99percentile
+
+![[Pasted image 20261110101423.png]]
+GRE只要求你记住 ： ![[Pasted image 20261110101643.png]]
+
+
+
+![[Pasted image 20261110101754.png]]
+
+![[Pasted image 20261110101933.png]]
+
+![[Pasted image 20261110102102.png]]
+
+![[Pasted image 20261110102217.png]]
