@@ -17,13 +17,13 @@ $$
 这种题最好列表
 
 
-
+# 第二题
 
 在坐标系中有点（a,b）,其中 a 和 b 均为正整数，问有多少个点满足关系式𝑎 + 𝑏 ≤ 200
 101 * 100 = 10100个点
 思路：我们先只看在y轴上的101个点，包含(0,0),之后向正x轴* 100倍数
 
-
+# 第三题
 
 x and y are integers.
 Quantity A: 2^(𝑥+𝑦)^2
@@ -78,6 +78,7 @@ $$
 	由于 k>0，不等式两边同时乘 k，方向不变：$$\boxed{0\leq kr<kd} $$
 	这恰好满足带余除法定理对余数的要求。
 
+# 第四题
 
 a is a positive integer.
 x is the remainder when 15a is divided by 6.
@@ -89,6 +90,7 @@ Quantity B:2
 回到这一道题： 15a/6 N为15a，d为6， 15a = 6q+x  a>0,  0<= x < 6
 选D
 
+# 第五题
 
 使得5^𝑎是1500的最大因子的𝑎的值，和使得3^𝑏是33,333,333的最大因子𝑏的值，下列说法正确的有：
 
@@ -121,6 +123,8 @@ B. The tens digit of the product (4^100)(5^101)
 所以这道题选择C，两者相等
 
 ![[Pasted image 20261109202501.png]]
+
+# 第六题
 
 r is the remainder obtained dividing7^995 + 7^50 − 4 by 7
 
@@ -155,6 +159,8 @@ $$r+4=7 \quad\Longrightarrow\quad \boxed{r=3}. $$
 因此，你原先从“范围中既有小于 4的数，也有大于 4 的数”走到选 D，中间缺少了一步：
 **这些不同的数，是否真的都能满足题目的其余条件？**
 
+# 第七题
+
 n is an even integer.偶整数
 Quantity A：The number of prime factors of n
 Quantity B：The number of prime factors of n/2
@@ -181,6 +187,61 @@ n可以是负数，但是一定有2 这个质因子 （一定要记住，==**质
 如果 n=2\times3=6，除掉唯一的一个 2 后，剩下 3，已经没有因子 2。
 如果 n=2\times2\times3=12，除掉一个 2 后，剩下 2\times3=6，仍然含有因子 2。
 
+对于任何非零偶整数，都可以写成： n=2^k m 
+其中 k\geq1，m 是奇整数。
+除以 2：$$\frac n2=2^{k-1}m 
+$$
+这里有两种情况：
+① 当 k=1 时，n/2=m，质因数 2 消失，因此 A 比 B 多一个不同质因数。
+② 当 k≤2 时，n/2 仍含有质因数 2，因此 A 和 B 的不同质因数集合完全相同。
+
 ![[Pasted image 20261109223546.png]]
 
 ![[Pasted image 20261109223908.png]]
+
+# 第八题
+
+If c and d are odd positive integers, which of the following could be odd?
+
+Indicate all such expressions
+
+![[Pasted image 20261109234510.png]]
+
+奇数乘上奇数还是奇数
+AB都是奇数
+偶数乘上偶数还是偶数，C不对
+奇数+奇数=偶数，偶数乘上偶数还是偶数，D不对
+奇数/奇数 有可能除不尽，因此不一定是偶数，也不一定是奇数 E不对
+选AB
+
+不对，E也可以入选，因为题干问的是==**could be**==
+CD是不可能为奇数的
+E可以为奇数
+
+# 第九题
+
+if x is an integer, which of the following must be an even integer?
+
+A. 𝑥^2 − 𝑥 − 1 找特例 x=1 就不是偶数
+
+B. 𝑥^2 − 4𝑥 + 6 找特例 x=1 就不是偶数
+
+C. 𝑥^2 − 5𝑥 + 5 找特例 x=1 就不是偶数
+
+==**D. 𝑥^2 + 3𝑥 + 8==**  选D
+
+E. 𝑥^2 + 2𝑥 + 10 找特例 x=1 就不是偶数
+
+# 第十题
+
+If w, x, y, and z are consecutive positive integers （连续正整数）, where w<x<y, which of the following statements must be true?
+
+Indicate all such statements.
+
+
+A. wxy is a multiple of 3. A一定对，因为任意一个连续3个正整数一定是3的倍数
+
+B. wxz is a multiple of 3.B不一定，因为 如果是 xyz是连续的 x< y< z就不满足了
+
+C. wxy + wyz is a multiple of 3. wxy一定有3的倍数，但是wyz不一定，把wy提出来，x+z,
+
