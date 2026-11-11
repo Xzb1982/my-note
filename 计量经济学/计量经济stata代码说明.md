@@ -444,11 +444,9 @@ vce(cluster city)
 ```
 
 最核心的意思是：
-
 > 允许“同一个城市内部不同年份的误差项彼此相关”。
 
 比如你的面板数据是：
-
 ```
 city      年份     unemployment
 广州      2015       ...
@@ -458,11 +456,9 @@ city      年份     unemployment
 深圳      2016       ...
 深圳      2017       ...
 ```
-
 普通 OLS 在计算标准误时，比较强地依赖不同观测之间误差独立这一类假设。但面板数据里，同一个城市今年和明年的情况往往不是完全独立的。
 
 例如广州：
-
 广州2019年的某些未观测因素
             ↓
 广州2020年可能还存在
@@ -482,23 +478,6 @@ vce(cluster city)
 # tab函数
 tab函数就是在做频数分布表的意思
 
-# est函数
-
-这里的：
-
-```
-est store east
-```
-
-完整写法是：
-
-```
-estimates store east
-```
-
-意思就是：
-
-> 把刚刚这一次回归结果保存起来，并命名为 `east`。
 
 # 异质性检验
 
@@ -813,6 +792,7 @@ bysort firm: egen meanprofit = mean(profit)
 
 在 Stata 中，`estat` 是一个估计后检验命令（postestimation command），主要用于在完成回归或其他模型估计后，进行统计检验、模型诊断和结果分析。
 
+
 例如：
 |命令|功能|主要用途|
 |---|---|---|
@@ -822,3 +802,42 @@ bysort firm: egen meanprofit = mean(profit)
 |`estat bgodfrey`|Breusch-Godfrey检验|检验序列相关|
 |`estat ic`|AIC、BIC等信息准则|比较模型拟合与复杂度|
 
+## est函数
+
+`est` 是 `estimates` 的缩写，而 `est store` 是 `estimates store` 的缩写，主要用于保存回归模型的估计结果。
+
+你可以这样理解：
+
+- `est`：告诉 Stata，我接下来要操作的是模型估计结果。
+    
+- `store`：表示储存。
+    
+- `est store m1`：把刚刚估计出来的模型结果保存起来，并命名为 `m1`。
+
+
+## 各种 reg函数
+ reg 因变量 自变量 控制变量 （如果要固定效应，就要用 i. ; 如果要用标准误需要用 vce(cluster 变量 ) ）
+
+reg y x controls i.city i.year
+
+其中，`i.city` 控制城市固定效应，`i.year` 控制年份固定效应。其本质是引入相应的虚拟变量。
+如果需要使用聚类稳健标准误，可以添加：
+```
+reg y x controls i.city i.year, vce(cluster city)
+```
+这里的 `vce(cluster city)` 表示允许同一城市内部不同年份的误差项存在相关性，同时允许异方差，并据此调整标准误。
+
+| Stata 命令                     | 含义                    |
+| ---------------------------- | --------------------- |
+| `reg y x`                    | 普通 OLS 回归，默认计算传统标准误   |
+| `reg y x, vce(robust)`       | OLS 回归，使用异方差稳健标准误     |
+| `reg y x, vce(cluster city)` | OLS 回归，使用城市层面的聚类稳健标准误 |
+## 各种检验相关的代码
+
+豪斯曼检验
+hausman 固定效应模型名 随机效应模型名
+
+| 检验结果     | 一般判断                        |
+| -------- | --------------------------- |
+| p < 0.05 | 拒绝 H_0，倾向选择 FE固定效应          |
+| p ≥ 0.05 | 不拒绝 H_0，在满足其他假设时可以考虑 RE随机效应 |
