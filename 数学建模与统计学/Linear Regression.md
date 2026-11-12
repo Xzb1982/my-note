@@ -31,31 +31,18 @@
 				所以，**“残差和为零”是最小二乘法确定截距时，求导得到的结果。**
 		第二个结论：
 			$$\sum^N_{i=1} x_{i}e_{i}$$
-			为什么每个残差再乘上自己的 \(x_i\)，加起来也为零？
-这里先把求和符号展开：$$\sum_{i=1}^{N}x_i e_i =x_1e_1+x_2e_2+\cdots+x_Ne_N. $$
-意思是：**第一个残差乘第一个样本的横坐标，第二个残差乘第二个样本的横坐标，依此类推，最后相加。**
-现在固定截距，调整斜率。假设斜率增加了 \Delta\beta，那么第 i 个样本的预测值会从$$\alpha+\beta x_i $$
-变成$$ \alpha+(\beta+\Delta\beta)x_i. $$
-
-两者相减，预测值的变化量就是：$$\boxed{\Delta\hat y_i=x_i\Delta\beta}. $$
-比如，斜率增加 0.1 时，x_i=1 处的预测值增加 0.1，x_i=3 处的预测值增加 0.3。
-这说明：**调整斜率时，每个样本的预测值改变多少，要看它自己的 x_i。** 
-因此，计算调整斜率对残差平方和的影响时，就会出现 x_i 这个乘数。
-### 对斜率求导，直接得到结果
-还是同一个目标函数：$$Q(\alpha,\beta) =\sum_{i=1}^{N}(y_i-\alpha-\beta x_i)^2. $$
-
-这一次对 \(\beta\) 求导。括号里面的导数是：
-
-\[ \frac{\partial}{\partial\beta} (y_i-\alpha-\beta x_i)=-x_i. \]
-
-因此：
-
-\[ \frac{\partial Q}{\partial\beta} =-2\sum_{i=1}^{N}x_i(y_i-\alpha-\beta x_i). \]
-
-在最优的截距和斜率处，导数等于零：
-
-\[ -2\sum_{i=1}^{N}x_i \underbrace{(y_i-\hat\alpha-\hat\beta x_i)}_{e_i} =0. \]
-
-于是：
-
-\[ \boxed{\sum_{i=1}^{N}x_i e_i=0}. \]
+			为什么每个残差再乘上自己的 x_i，加起来也为零？
+				这里先把求和符号展开：$$\sum_{i=1}^{N}x_i e_i =x_1e_1+x_2e_2+\cdots+x_Ne_N. $$
+				意思是：**第一个残差乘第一个样本的横坐标，第二个残差乘第二个样本的横坐标，依此类推，最后相加。**
+				现在固定截距，调整斜率。假设斜率增加了 \Delta\beta，那么第 i 个样本的预测值会从$$\alpha+\beta x_i $$
+				变成$$ \alpha+(\beta+\Delta\beta)x_i. $$
+				两者相减，预测值的变化量就是：$$\boxed{\Delta\hat y_i=x_i\Delta\beta}. $$
+				比如，斜率增加 0.1 时，x_i=1 处的预测值增加 0.1，x_i=3 处的预测值增加 0.3。
+				这说明：**调整斜率时，每个样本的预测值改变多少，要看它自己的 x_i。** 
+				因此，计算调整斜率对残差平方和的影响时，就会出现 x_i 这个乘数。
+				对斜率求导
+					还是同一个目标函数：$$Q(\alpha,\beta) =\sum_{i=1}^{N}(y_i-\alpha-\beta x_i)^2. $$
+					这一次对 \beta 求导。括号里面的导数是：$$\frac{\partial}{\partial\beta} (y_i-\alpha-\beta x_i)=-x_i. $$
+					因此：$$ \frac{\partial Q}{\partial\beta} =-2\sum_{i=1}^{N}x_i(y_i-\alpha-\beta x_i). $$
+					在最优的截距和斜率处，导数=0：$$-2\sum_{i=1}^{N}x_i \underbrace{(y_i-\hat\alpha-\hat\beta x_i)}_{e_i} =0. $$
+					于是：$$\boxed{\sum_{i=1}^{N}x_i e_i=0}. $$
