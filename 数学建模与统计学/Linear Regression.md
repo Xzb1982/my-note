@@ -46,3 +46,9 @@
 					因此：$$ \frac{\partial Q}{\partial\beta} =-2\sum_{i=1}^{N}x_i(y_i-\alpha-\beta x_i). $$
 					在最优的截距和斜率处，导数=0：$$-2\sum_{i=1}^{N}x_i \underbrace{(y_i-\hat\alpha-\hat\beta x_i)}_{e_i} =0. $$
 					于是：$$\boxed{\sum_{i=1}^{N}x_i e_i=0}. $$
+	决定系数R^2
+		$$R^2 = 1- \frac{\sum e^2_{i}}{\sum(y_{i} - \bar{y})}$$
+		![[Pasted image 20261112174100.png]]
+		当R^2越大，拟合的效果就越好
+		我们可以看到cubic的相关系数比较大，但是可能在统计学上不显著
+		调整过的R^2
