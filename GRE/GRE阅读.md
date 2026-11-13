@@ -209,7 +209,7 @@ It is a replication of a winter view. (==**T**==/F/NG)
 ![[Pasted image 20261030095904.png]]
 likewise就证明了不是复刻
 
-主旨题(Mainidea)
+主旨题(Mainidea)的问法
 The primary purpose of the passage is to?
 刷题2阶段
 The passage is primarily concerned with
@@ -218,10 +218,10 @@ passage?
 Which of the following best characterizes/describes the organization
 of the passage as a whole?
 
-主旨题/结构题解题思路
-单段式:
-单观点:P+l
-双/多观点:P+P(两个P之间的顺反关系
+==**主旨题/结构题解题思路==**
+	**==单段式:==**
+	**==单观点:P+l==**
+	**==双/多观点:P+P(两个P之间的顺反关系**==
 
 1. The primary purpose of the passage is to
 A. ==**challenge**== a popular interpretation of one of Eliot's paintings
@@ -268,29 +268,32 @@ different astronomical bodies
 
 ![[Pasted image 20261030101057.png]]
 
-大原则:作者视角(动词必须是作者可以发出的动作)
-有情感色彩词:(思考是否有对应的作者立场)
-1. 认为：propose, argue, believe, claim, contend, conclude...//support, confirm,
-argue for, advocate, affirm .
-2. 质疑：challenge, contest, question, call into question, argue against, refute，cast doubt on, weaken, undermine
-3. qualify(削弱，程度调整)
-4. remedy, correct,revise ...
-5. evaluate, critique, assess, respond, analyze ...
-6. defend, trace/chronicle, reconcile, synthesize, clarify, resolve...
+==**大原则:作者视角(动词必须是作者可以发出的动作)==**
+**==有情感色彩词:(思考是否有对应的作者立场)==**
+1. **==认为：propose, argue, believe, claim, contend, conclude...//support, confirm,==**
+**==argue for, advocate, affirm .==**
+2. **==质疑：challenge, contest, question, call into question, argue against, refute，cast doubt on, weaken, undermine==**
+3. **==qualify(削弱，程度调整)==**
+4. **==remedy, correct,revise ...==**
+5. **==evaluate, critique, assess, respond, analyze ...==**
+6. **==defend, trace/chronicle, reconcile, synthesize, clarify, resolve...**==
 
-主旨题选项分析一抽象名词:
-单纯观点(看不出具体逻辑关系)perspective, understanding, position, point
-view, belief, argument, assertion, contention, interpretation,
-推论
-speculation, conjecture, significance, projection ...
-找原因
-explanation, hypothesis, theory, model, mechanism, alternative（既包含了观点，也包含了原因的可能的解释）
-找结果
-consequence, impact, effect, implication
-事实
-phenomenon, event, discovery, finding
-问题解决
-problem, solution, efforts
+==**主旨题选项分析一抽象名词:==**
+**==单纯观点(看不出具体逻辑关系)perspective, understanding, position, point==**
+**==view, belief, argument, assertion, contention, interpretation,==**
+**==推论==**
+**==speculation, conjecture, significance, projection ...==**
+**==找原因==**
+**==explanation, hypothesis, theory, model, mechanism, alternative（既包含了观点，也包含了原因的可能的解释）==**
+**==找结果==**
+**==consequence, impact, effect, implication==**
+**==事实==**
+**==phenomenon, event, discovery, finding==**
+**==问题解决==**
+**==problem, solution, efforts**==
 
-思路总结：顺逻辑阅读
-先读主旨，把握主旨，之后分析句间关系
+首先，读文章，变速阅读，读明白主旨+结构（一定要细化），读句子先只读主谓宾
+
+主旨到分论点：同向：1.具体化 (分为解释和支持) 2.因果 ； 反向：对比/比较
+
+分论点到例子：顺逻辑：1.具体化 (分为阐明、支持和类比) 2.因果 ； 反逻辑：对比/比较
