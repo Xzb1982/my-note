@@ -87,3 +87,6 @@ of the passage as a whole?
 		**==problem, solution, efforts**==
 
 ![[Pasted image 20261113093713.png]]
+
+
+怎么抽象到题目想要的抽象
