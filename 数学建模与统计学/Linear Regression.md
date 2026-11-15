@@ -146,46 +146,137 @@
 				在讨论回归估计时，还要另外说明它与误差项的关系。仅仅把某个变量称作“外生变量”，并不能替代相应的统计假设。
 		结构模型的作用
 			结构模型可以帮助我们解释观察到的变化、估计行为反应，也常用于**反事实分析**：如果换一种政策或制度，结果可能怎样。
-	教授首先换了一个思考方向：开始假设数据是怎样产生的
-		他回顾了之前画散点图的方法：先有一些数据点，再找一条尽量贴近这些点的直线。
-		前面已经学过，这条拟合直线是：$$\hat y_i=\hat\alpha+\hat\beta x_i. $$
-		OLS 通过最小化残差平方和，确定 \hat\alpha 和 \hat\beta。到这一步，我们已经知道怎样计算，但还没有回答：**算出的这两个系数，与现实中我们希望了解的关系有什么联系？**
-		教授现在提出一套假设：$$\boxed{y_i=\alpha+\beta x_i+\varepsilon_i.} $$
-		可以这样理解：
-			在这个模型中，先有一条我们不知道的真实关系 \alpha+\beta x。==**对于第 i 个观测，给定 x_i，这条关系对应的数值是 \alpha+\beta x_i；**==
-			实际观察到的 y_i 还受到其他影响，因此会在这个数值上偏离，偏离的部分记为 \varepsilon_i。
-		所以，教授现在是从这套关系出发，解释散点为什么会出现在那些位置：$$\underbrace{y_i}_{\text{实际观测值}} = \underbrace{\alpha+\beta x_i}_{\text{模型中的真实关系}} + \underbrace{\varepsilon_i}_{\text{偏离这条关系的部分}}. $$
-		这就是他开始谈论的**数据生成过程**：模型如何描述 Y 的产生，包括它通常处在什么位置，以及为什么会偏离那个位置。
-		现实研究通常只给我们 (x_i,y_i)，不会把真实的 \alpha,\beta,\varepsilon_i 告诉我们。
-		之后，我们需要接着给 \varepsilon_i 加上“一些限定”（概率假设），那几条钟形曲线就是在解释这些假设
-			教授先写误差的期望、方差，再把假设公式化：$$\boxed{\varepsilon_i\mid X_i=x\sim N(0,\sigma^2).} $$
-			这个式子值得拆开理解。竖线 表示“在给定……的条件下”。沿用你之前理解条件期望的方式，就是**先把参照范围缩小到 \(X=x\) 的那一组，再研究这一组里面的误差怎样分布**。
-			例如，继续用教育与对数工资的例子，把教育年限固定为 12 年。同样读了 12 年书的人，对数工资仍可能不同；现在讨论的是这一组人相对于模型所给水平的偏离。
-			这条假设具体规定了：
+	从样本拟合转向数据生成模型
+		前面讨论的是：已有一批观测数据，怎样找一条尽量贴近这些点的直线。拟合直线写成：
+		$$\hat y_i=\hat\alpha+\hat\beta x_i.  $$
+		OLS 通过最小化残差平方和，确定 \hat\alpha 和 \hat\beta。这解决了怎样根据样本计算系数的问题，但还需要进一步说明：算出的系数，与我们希望了解的关系有什么联系？
+		为此，教授开始假设数据按照下面的模型产生：$$\boxed{Y_i=\alpha+\beta X_i+\varepsilon_i.}  $$
+		其中，\alpha,\beta 是模型中未知的参数；\alpha+\beta X_i 是模型中的直线部分；\varepsilon_i 汇总了没有在直线部分中单独表示的其他影响。
+		对于已经观察到的第 i 个样本，有：$$y_i=\alpha+\beta x_i+\varepsilon_i.  $$
+		这里的 x_i,y_i 都是观测值。将同一个 x_i 代入模型中的直线，得到 \alpha+\beta x_i，再与实际值 y_i 比较，两者的差距就是： $$\boxed{\varepsilon_i=y_i-(\alpha+\beta x_i).}  $$
+		这个比较不会改变已经观测到的数据点。实际点 (x_i,y_i) 与直线上对应的点 (x_i,\alpha+\beta x_i)，具有相同的横坐标。
+		还需要区分误差与残差：误差相对于模型中的直线计算，残差相对于样本拟合直线计算：
+		$$\varepsilon_i=y_i-(\alpha+\beta x_i),  
+		\qquad  
+		e_i=y_i-(\hat\alpha+\hat\beta x_i).  $$
+		现实研究通常只给出 (x_i,y_i)。由于真实参数 \alpha,\beta 未知，\varepsilon_i 通常无法直接算出；拟合完成后，残差 e_i 则可以计算。
+		单独写出 Y_i=\alpha+\beta X_i+\varepsilon_i，还没有规定误差怎样分布以及它与 X_i 有什么关系。那么接下来需要加入相应的概率假设。
+	 二、对误差项作出条件分布假设
+		教授首先采用下面这套设定：$$\boxed{\varepsilon_i\mid X_i=x\sim N(0,\sigma^2).}  $$
+		竖线  表示“在给定……的条件下”。这里要求先把参照范围缩小到 X_i=x 的那一组，再研究这一组内部的误差分布。
+		例如，把教育年限固定为 12 年，同样读了 12 年书的人，对数工资仍可能不同。此时讨论的是这一组人相对于模型给出水平的偏离。
 
-| 数学内容                                                 | 通俗理解                               |
-| ---------------------------------------------------- | ---------------------------------- |
-| E(\varepsilon_i\mid X_i=x)=0                         | 在每一个给定的 x 组内，误差的总体平均为零，没有整体向上或向下偏移 |
-| \operatorname{Var}(\varepsilon_i\mid X_i=x)=\sigma^2 | 不同 x 组内，误差的散布程度相同，这就是这里的同方差假设      |
-| 条件分布为 N(0,\sigma^2)                                  | 每组误差按正态分布的形状散开，较大的正负偏离相对少见         |
-			为什么直线会穿过那些钟形曲线的中心？
-				从模型出发：$$Y_i=\alpha+\beta X_i+\varepsilon_i. $$
-				固定 X_i=x，两边取条件期望：$$\begin{aligned} E(Y_i\mid X_i=x) &=E(\alpha+\beta x+\varepsilon_i\mid X_i=x)\\ &=\alpha+\beta x+E(\varepsilon_i\mid X_i=x)\\ &=\alpha+\beta x. \end{aligned}$$ 
-				因此，在这套假设成立时：$$\boxed{E(Y_i\mid X_i=x)=\alpha+\beta x.} $$
-				**这条直线给出的是：每一个 x 对应的那组 Y，其总体平均水平在哪里。**
-				再结合正态分布假设，就有：$$\boxed{Y_i\mid X_i=x\sim N(\alpha+\beta x,\sigma^2).} $$
-				教授画的那些侧着的钟形曲线，表示的正是：固定一个横坐标 x，纵坐标 Y 仍然可能取不同的值，而这一组值围绕 \alpha+\beta x 分布。换一个 x，分布的中心跟着直线移动。
-			为什么要限制误差与 X 的关系
-				教授提出一种不同的情形：如果 x 较小时，误差大多偏负；x 较大时，误差大多偏正，会怎样？
-				![[Pasted image 20261115134148.png]]
-				结合图来看，小 x 处的观测点会被往下拉，大 x 处的观测点会被往上推。你根据这些点拟合直线时，便可能得到一条更陡的线。
-				这时，拟合线虽然能贴近观测数据，但它的斜率混进了两部分变化：模型中 \beta x 带来的变化，以及误差随着 x 系统性变化所带来的部分。
-				你笔记开头的协方差公式，正好可以用来说明这个问题。为了区分符号，先把**总体线性拟合的斜率**记为 b：$$b=\frac{\operatorname{Cov}(X,Y)} {\operatorname{Var}(X)}. $$
-				把假定的生成关系 Y=\alpha+\beta X+\varepsilon 代入：$$\begin{aligned} b &=\frac{\operatorname{Cov}(X,\alpha+\beta X+\varepsilon)} {\operatorname{Var}(X)}\\[2mm] &=\frac{\beta\operatorname{Var}(X)+\operatorname{Cov}(X,\varepsilon)} {\operatorname{Var}(X)}\\[2mm] &=\boxed{\beta+ \frac{\operatorname{Cov}(X,\varepsilon)} {\operatorname{Var}(X)}}. \end{aligned} $$
-				这个展开是我补充的，用来解释教授的绿色点。(如图)
-				假如数值大的 X 往往对应正误差，数值小的 X 往往对应负误差，就可能有：$$\operatorname{Cov}(X,\varepsilon)>0. $$
-				于是，数据所对应的总体拟合斜率 b 就会大于模型中的 \beta。
-				而在适当的有限矩条件下，$$E(\varepsilon\mid X)=0 $$
-				能够推出 $$\operatorname{Cov}(X,\varepsilon)=0, $$
-				从而使这里的总体拟合斜率对应模型中的 \beta。
-				这也是为什么教授要加上“给定 X”这个条件。**把所有人的误差混在一起，平均为零，要求还不够。** 小 X 组平均偏负、大 X 组平均偏正，混在一起也可能抵消；但这种分组差异已经足以影响拟合斜率。
+|数学内容|含义|
+|---|---|
+|(E(\varepsilon_i\mid X_i=x)=0)|每一个给定的 (x) 组内，误差的总体平均为零|
+|(\operatorname{Var}(\varepsilon_i\mid X_i=x)=\sigma^2)|不同 (x) 组内，误差的散布程度相同，即同方差|
+|条件分布为 (N(0,\sigma^2))|每组误差按照均值为零、方差为 (\sigma^2) 的正态分布散开|
+	 三、在这套假设下，直线给出各组 Y 的平均水平
+		从模型出发：Y_i=\alpha+\beta X_i+\varepsilon_i.  
+		固定 X_i=x，两边取条件期望：
+		$$\begin{aligned}  
+		E(Y_i\mid X_i=x)  
+		&=E(\alpha+\beta x+\varepsilon_i\mid X_i=x)\  
+		&=\alpha+\beta x+E(\varepsilon_i\mid X_i=x).  
+		\end{aligned}  $$
+		由于此时假定：$$E(\varepsilon_i\mid X_i=x)=0,  $$
+		因此：$$\boxed{E(Y_i\mid X_i=x)=\alpha+\beta x.}  $$
+		**在零条件均值假设成立时，模型中的直线部分，正好等于给定x 时 Y 的总体平均水平。**
+		再结合条件正态分布假设，有：$$\boxed{Y_i\mid X_i=x\sim N(\alpha+\beta x,\sigma^2).} $$ 
+		教授画的那些侧着的钟形曲线，表示固定不同的横坐标 x 后，Y 在纵向上的条件分布。每组分布的中心是 \alpha+\beta x，所以这些中心落在同一条直线上。
+		换一个 x，分布中心沿着直线移动；各组分布的散布程度仍由相同的 \sigma^2 决定。
+	四、换一种情形：==**允许误差的条件均值随 X 变化**==
+		接下来，教授改为考察另一种可能：**不再沿用前面均值为零的条件正态假设，允许 $$E(\varepsilon\mid X=x)\ne0$$**
+		例如，假设小 X 组的误差平均为负，大 X 组的误差平均为正。
+		这里讨论的是组内的平均情况。小 x_i 并不必然对应负误差，大 x_i 也不必然对应正误差。
+		此时，应当保留条件期望中的误差项：
+		$$\alpha+\beta x+E(\varepsilon\mid X=x).  $$
+		如果某个小 x组满足：$$E(\varepsilon\mid X=x)<0, $$
+		那么这一组 Y 的平均水平就低于 \alpha+\beta x。
+		如果某个大 x 组满足：$$E(\varepsilon\mid X=x)>0$$,  那么这一组 Y 的平均水平就高于 \alpha+\beta x。
+		**观测数据没有被移动；变化的是我们对数据背后误差分布的假设。** 在这种情形下，\alpha+\beta x 仍是模型设定中的直线部分，但它已经不一定等于给定 x 时 Y 的平均水平。
+		误差之所以可能与 X 有关，是因为其中包含的其他影响因素，可能在不同 X 组之间存在系统性差异。
+			例如，在教育与工资的模型中，如果未单独列出的家庭支持，在不同教育组中的平均水平不同，那么它对工资的影响就可能使不同教育组的平均误差不同。
+		图中最初以直线为中心的钟形曲线，表示零条件均值成立的情形；后来加入的绿色点，用来设想这一假设不成立时会发生什么。需要将前后两种设想区分开。
+
+## 五、补充推导：总体拟合斜率为什么可能偏离模型中的 (\beta)
+
+为了区分符号，把总体中带截距的线性最小二乘拟合斜率记为 (b)。在相关二阶矩存在且 (\operatorname{Var}(X)>0) 时：
+
+[  
+b=  
+\frac{\operatorname{Cov}(X,Y)}  
+{\operatorname{Var}(X)}.  
+]
+
+将假定的模型：
+
+[  
+Y=\alpha+\beta X+\varepsilon  
+]
+
+代入，得到：
+
+[  
+\begin{aligned}  
+b  
+&=  
+\frac{\operatorname{Cov}(X,\alpha+\beta X+\varepsilon)}  
+{\operatorname{Var}(X)}\[2mm]  
+&=  
+\frac{\beta\operatorname{Var}(X)+\operatorname{Cov}(X,\varepsilon)}  
+{\operatorname{Var}(X)}\[2mm]  
+&=  
+\boxed{  
+\beta+  
+\frac{\operatorname{Cov}(X,\varepsilon)}  
+{\operatorname{Var}(X)}  
+}.  
+\end{aligned}  
+]
+
+因此，总体拟合斜率与模型参数之间的差距是：
+
+[  
+\boxed{  
+b-\beta=  
+\frac{\operatorname{Cov}(X,\varepsilon)}  
+{\operatorname{Var}(X)}  
+}.  
+]
+
+如果 (X) 与误差在总体中正相关，即：
+
+[  
+\operatorname{Cov}(X,\varepsilon)>0,  
+]
+
+那么：
+
+[  
+b>\beta.  
+]
+
+这说明，观测数据中的总体拟合斜率，可能同时包含模型中 (\beta X) 对应的变化，以及误差与 (X) 共同变化所带来的部分。
+
+而零条件均值假设能够推出：
+
+[  
+E(\varepsilon\mid X)=0  
+\quad\Longrightarrow\quad  
+\operatorname{Cov}(X,\varepsilon)=0  
+\quad\Longrightarrow\quad  
+b=\beta.  
+]
+
+这里的 (b=\beta) 是总体层面的结论。具体某次样本算出的斜率是 (\hat\beta)，它仍可能由于抽样波动而与 (\beta) 不同。
+
+这也是为什么仅仅要求：
+
+[  
+E(\varepsilon)=0  
+]
+
+还不够。小 (X) 组的平均误差为负、大 (X) 组的平均误差为正，混在一起仍可能相互抵消，使整体平均为零；但这种组间差异依然可能导致 (X) 与误差相关。
+
+**教授采用的零条件均值假设要求每个 (X) 组的误差平均都为零，从而排除这里所讨论的平均误差随 (X) 系统性变化的情形。**

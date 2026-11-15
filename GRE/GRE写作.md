@@ -29,6 +29,15 @@ disagree : 教育系统设置的目的是
 
 而且“不一定能成功”是主观的，很难进行量化，可行性低 =》 相比于劝阻学生学习他们不能成功的领域，根据学生的具体情况进行职业规划是更现实且有效的，更能够达成培养人才、推动社会进步的目标
 
+
+29,48 Young people should be encouraged to pursue long-term, realistic goals rather than seek immediate fame and recognition.
+
+立论：agree => seeking long-term benefits rather than the immediate ones is beneficial for their personal growth
+
+进一步论证段：society can have sustainable development => 环保(exmaple)
+
+让步：Ad' , seeking for immediate fame and recognition can bring a 可观的 fortune , however it overlooks the negative consequence on 这种价值观所带来的对社会的不利影响
+
 ## N应该对M做某事（教育类话题）
 
 l父母应该对孩子进行教育
