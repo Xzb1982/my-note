@@ -3,5 +3,6 @@
   "enabledCssSnippets": [
     "obsidian_math_outline_pdf"
   ],
-  "cssTheme": "Composer"
+  "cssTheme": "Composer",
+  "showRibbon": true
 }
