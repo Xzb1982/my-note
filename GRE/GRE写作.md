@@ -32,11 +32,11 @@ disagree : 教育系统设置的目的是
 
 29,48 Young people should be encouraged to pursue long-term, realistic goals rather than seek immediate fame and recognition.
 
-立论：agree => seeking long-term benefits rather than the immediate ones is beneficial for their personal growth
+立论：agree => seeking long-term benefits rather than the immediate ones is beneficial for their personal growth =》long-term benefits 例如了解自己的优势和短板， 有利于明确自己的目标与职业规划，进而增强自己的就业优势
 
-进一步论证段：society can have sustainable development => 环保(exmaple)
+进一步论证段：society can have sustainable development => 企业家关注长期利益，进而推动企业追求长期利益例如环境保护，有利于改善企业和企业家本人的形象，增强自身竞争力 =》 例如中国的一些企业开始研发节能减排的高新技术改善了企业的形象，同时迎合国家发展政策
 
-让步：Ad' , seeking for immediate fame and recognition can bring a 可观的 fortune , however it overlooks the negative consequence on 这种价值观所带来的对社会的不利影响
+让步：诚然 , seeking for immediate fame and recognition can bring a 可观的 fortune , however it overlooks the negative consequence on 这种价值观所带来的对社会的不利影响例如助长腐败，同时让个人变得更加功利，进而让社会的发展更不可持续 =》而反过来，注重长期利益的价值观有利于人类社会的可持续进步
 
 ## N应该对M做某事（教育类话题）
 
