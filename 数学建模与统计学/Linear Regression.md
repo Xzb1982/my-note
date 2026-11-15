@@ -161,7 +161,7 @@
 		e_i=y_i-(\hat\alpha+\hat\beta x_i).  $$
 		现实研究通常只给出 (x_i,y_i)。由于真实参数 \alpha,\beta 未知，\varepsilon_i 通常无法直接算出；拟合完成后，残差 e_i 则可以计算。
 		单独写出 Y_i=\alpha+\beta X_i+\varepsilon_i，还没有规定误差怎样分布以及它与 X_i 有什么关系。那么接下来需要加入相应的概率假设。
-	 二、对误差项作出条件分布假设
+	 对误差项作出条件分布假设
 		教授首先采用下面这套设定：$$\boxed{\varepsilon_i\mid X_i=x\sim N(0,\sigma^2).}  $$
 		竖线  表示“在给定……的条件下”。这里要求先把参照范围缩小到 X_i=x 的那一组，再研究这一组内部的误差分布。
 		例如，把教育年限固定为 12 年，同样读了 12 年书的人，对数工资仍可能不同。此时讨论的是这一组人相对于模型给出水平的偏离。
@@ -171,7 +171,7 @@
 |(E(\varepsilon_i\mid X_i=x)=0)|每一个给定的 (x) 组内，误差的总体平均为零|
 |(\operatorname{Var}(\varepsilon_i\mid X_i=x)=\sigma^2)|不同 (x) 组内，误差的散布程度相同，即同方差|
 |条件分布为 (N(0,\sigma^2))|每组误差按照均值为零、方差为 (\sigma^2) 的正态分布散开|
-	 三、在这套假设下，直线给出各组 Y 的平均水平
+	 在这套假设下，直线会给出各组 Y 的平均水平
 		从模型出发：Y_i=\alpha+\beta X_i+\varepsilon_i.  
 		固定 X_i=x，两边取条件期望：
 		$$\begin{aligned}  
@@ -194,89 +194,49 @@
 		如果某个小 x组满足：$$E(\varepsilon\mid X=x)<0, $$
 		那么这一组 Y 的平均水平就低于 \alpha+\beta x。
 		如果某个大 x 组满足：$$E(\varepsilon\mid X=x)>0$$,  那么这一组 Y 的平均水平就高于 \alpha+\beta x。
-		**观测数据没有被移动；变化的是我们对数据背后误差分布的假设。** 在这种情形下，\alpha+\beta x 仍是模型设定中的直线部分，但它已经不一定等于给定 x 时 Y 的平均水平。
-		误差之所以可能与 X 有关，是因为其中包含的其他影响因素，可能在不同 X 组之间存在系统性差异。
+		**此时，观测数据没有被移动；变化的是我们对数据背后误差分布的假设。** 在这种情形下，\alpha+\beta x 仍是模型设定中的直线部分，但它已经不一定等于给定 x 时 Y 的平均水平。
+		==**误差之所以可能与 X 有关，是因为其中包含的其他影响因素，可能在不同 X 组之间存在系统性差异。**==
 			例如，在教育与工资的模型中，如果未单独列出的家庭支持，在不同教育组中的平均水平不同，那么它对工资的影响就可能使不同教育组的平均误差不同。
-		图中最初以直线为中心的钟形曲线，表示零条件均值成立的情形；后来加入的绿色点，用来设想这一假设不成立时会发生什么。需要将前后两种设想区分开。
-
-## 五、补充推导：总体拟合斜率为什么可能偏离模型中的 (\beta)
-
-为了区分符号，把总体中带截距的线性最小二乘拟合斜率记为 (b)。在相关二阶矩存在且 (\operatorname{Var}(X)>0) 时：
-
-[  
-b=  
-\frac{\operatorname{Cov}(X,Y)}  
-{\operatorname{Var}(X)}.  
-]
-
-将假定的模型：
-
-[  
-Y=\alpha+\beta X+\varepsilon  
-]
-
-代入，得到：
-
-[  
-\begin{aligned}  
-b  
-&=  
-\frac{\operatorname{Cov}(X,\alpha+\beta X+\varepsilon)}  
-{\operatorname{Var}(X)}\[2mm]  
-&=  
-\frac{\beta\operatorname{Var}(X)+\operatorname{Cov}(X,\varepsilon)}  
-{\operatorname{Var}(X)}\[2mm]  
-&=  
-\boxed{  
-\beta+  
-\frac{\operatorname{Cov}(X,\varepsilon)}  
-{\operatorname{Var}(X)}  
-}.  
-\end{aligned}  
-]
-
-因此，总体拟合斜率与模型参数之间的差距是：
-
-[  
-\boxed{  
-b-\beta=  
-\frac{\operatorname{Cov}(X,\varepsilon)}  
-{\operatorname{Var}(X)}  
-}.  
-]
-
-如果 (X) 与误差在总体中正相关，即：
-
-[  
-\operatorname{Cov}(X,\varepsilon)>0,  
-]
-
-那么：
-
-[  
-b>\beta.  
-]
-
-这说明，观测数据中的总体拟合斜率，可能同时包含模型中 (\beta X) 对应的变化，以及误差与 (X) 共同变化所带来的部分。
-
-而零条件均值假设能够推出：
-
-[  
-E(\varepsilon\mid X)=0  
-\quad\Longrightarrow\quad  
-\operatorname{Cov}(X,\varepsilon)=0  
-\quad\Longrightarrow\quad  
-b=\beta.  
-]
-
-这里的 (b=\beta) 是总体层面的结论。具体某次样本算出的斜率是 (\hat\beta)，它仍可能由于抽样波动而与 (\beta) 不同。
-
-这也是为什么仅仅要求：
-
-[  
-E(\varepsilon)=0  
-]
-
-还不够。小 (X) 组的平均误差为负、大 (X) 组的平均误差为正，混在一起仍可能相互抵消，使整体平均为零；但这种组间差异依然可能导致 (X) 与误差相关。
-
-**教授采用的零条件均值假设要求每个 (X) 组的误差平均都为零，从而排除这里所讨论的平均误差随 (X) 系统性变化的情形。**
+		图中最初以直线为中心的钟形曲线，表示零条件均值成立的情形；
+		后来加入的绿色点，用来设想这一假设不成立时会发生什么。需要将前后两种设想区分开。
+	补充推导：总体拟合斜率为什么在有些情况下，可能会偏离模型中的 β
+		有些情况下，我们会发现==**拟合直线的斜率会偏离于模型中的β**==，即便是在只有一个解释变量的情况下
+		为了区分符号，把==**总体中带截距的线性最小二乘拟合斜率记为 b**==。在相关二阶矩存在且 $$\operatorname{Var}(X)>0 $$时：$$b=  
+		\frac{\operatorname{Cov}(X,Y)}  
+		{\operatorname{Var}(X)}.  $$
+		将假定的模型：$$Y=\alpha+\beta X+\varepsilon  $$
+		代入，得到：
+		$$\begin{aligned}  
+		b  
+		&=  
+		\frac{\operatorname{Cov}(X,\alpha+\beta X+\varepsilon)}  
+		{\operatorname{Var}(X)}  
+		&=  
+		\frac{\beta\operatorname{Var}(X)+\operatorname{Cov}(X,\varepsilon)}  
+		{\operatorname{Var}(X)}  
+		&=  
+		\boxed{  
+		\beta+  
+		\frac{\operatorname{Cov}(X,\varepsilon)}  
+		{\operatorname{Var}(X)}  
+		}.  
+		\end{aligned}  $$
+		因此，总体拟合斜率与模型参数之间的差距是：
+		$$\boxed{  
+		b-\beta=  
+		\frac{\operatorname{Cov}(X,\varepsilon)}  
+		{\operatorname{Var}(X)}  
+		}.  $$
+		如果 X 与误差在总体中正相关，即：$$\operatorname{Cov}(X,\varepsilon)>0,  $$
+		那么：$$b>\beta.  $$
+		这说明，观测数据中的总体拟合斜率，可能同时包含模型中 \beta X 对应的变化，以及误差与 X共同变化所带来的部分。
+		而零条件均值假设能够推出：
+		$$E(\varepsilon\mid X)=0  
+		\quad\Longrightarrow\quad  
+		\operatorname{Cov}(X,\varepsilon)=0  
+		\quad\Longrightarrow\quad  
+		b=\beta.  $$
+		这里的 b=\beta 是总体层面的结论。具体某次样本算出的斜率是 \hat\beta，它仍可能由于抽样波动而与 \beta 不同。
+		这也是为什么仅仅要求：$$E(\varepsilon)=0  $$
+		还不够。==**小 X 组的平均误差为负、大 X 组的平均误差为正，混在一起仍可能相互抵消，使整体平均为零；但这种组间差异依然可能导致 X 与误差相关。**==
+		**教授采用的零条件均值假设要求每个 X 组的误差平均都为零，从而排除这里所讨论的平均误差随 (X) 系统性变化的情形。**
