@@ -151,7 +151,9 @@
 		前面已经学过，这条拟合直线是：$$\hat y_i=\hat\alpha+\hat\beta x_i. $$
 		OLS 通过最小化残差平方和，确定 \hat\alpha 和 \hat\beta。到这一步，我们已经知道怎样计算，但还没有回答：**算出的这两个系数，与现实中我们希望了解的关系有什么联系？**
 		教授现在提出一套假设：$$\boxed{y_i=\alpha+\beta x_i+\varepsilon_i.} $$
-		可以这样理解：在这个模型中，先有一条我们不知道的真实关系 \alpha+\beta x。对于第 i 个观测，给定 x_i，这条关系对应的数值是 \alpha+\beta x_i；实际观察到的 y_i 还受到其他影响，因此会在这个数值上偏离，偏离的部分记为 \varepsilon_i。
+		可以这样理解：
+			在这个模型中，先有一条我们不知道的真实关系 \alpha+\beta x。==**对于第 i 个观测，给定 x_i，这条关系对应的数值是 \alpha+\beta x_i；**==
+			实际观察到的 y_i 还受到其他影响，因此会在这个数值上偏离，偏离的部分记为 \varepsilon_i。
 		所以，教授现在是从这套关系出发，解释散点为什么会出现在那些位置：$$\underbrace{y_i}_{\text{实际观测值}} = \underbrace{\alpha+\beta x_i}_{\text{模型中的真实关系}} + \underbrace{\varepsilon_i}_{\text{偏离这条关系的部分}}. $$
 		这就是他开始谈论的**数据生成过程**：模型如何描述 Y 的产生，包括它通常处在什么位置，以及为什么会偏离那个位置。
 		现实研究通常只给我们 (x_i,y_i)，不会把真实的 \alpha,\beta,\varepsilon_i 告诉我们。
@@ -167,9 +169,23 @@
 | \operatorname{Var}(\varepsilon_i\mid X_i=x)=\sigma^2 | 不同 x 组内，误差的散布程度相同，这就是这里的同方差假设      |
 | 条件分布为 N(0,\sigma^2)                                  | 每组误差按正态分布的形状散开，较大的正负偏离相对少见         |
 			为什么直线会穿过那些钟形曲线的中心？
-				从模型出发：$$$Y_i=\alpha+\beta X_i+\varepsilon_i. $$
+				从模型出发：$$Y_i=\alpha+\beta X_i+\varepsilon_i. $$
 				固定 X_i=x，两边取条件期望：$$\begin{aligned} E(Y_i\mid X_i=x) &=E(\alpha+\beta x+\varepsilon_i\mid X_i=x)\\ &=\alpha+\beta x+E(\varepsilon_i\mid X_i=x)\\ &=\alpha+\beta x. \end{aligned}$$ 
 				因此，在这套假设成立时：$$\boxed{E(Y_i\mid X_i=x)=\alpha+\beta x.} $$
 				**这条直线给出的是：每一个 x 对应的那组 Y，其总体平均水平在哪里。**
 				再结合正态分布假设，就有：$$\boxed{Y_i\mid X_i=x\sim N(\alpha+\beta x,\sigma^2).} $$
 				教授画的那些侧着的钟形曲线，表示的正是：固定一个横坐标 x，纵坐标 Y 仍然可能取不同的值，而这一组值围绕 \alpha+\beta x 分布。换一个 x，分布的中心跟着直线移动。
+			为什么要限制误差与 X 的关系
+				教授提出一种不同的情形：如果 x 较小时，误差大多偏负；x 较大时，误差大多偏正，会怎样？
+				![[Pasted image 20261115134148.png]]
+				结合图来看，小 x 处的观测点会被往下拉，大 x 处的观测点会被往上推。你根据这些点拟合直线时，便可能得到一条更陡的线。
+				这时，拟合线虽然能贴近观测数据，但它的斜率混进了两部分变化：模型中 \beta x 带来的变化，以及误差随着 x 系统性变化所带来的部分。
+				你笔记开头的协方差公式，正好可以用来说明这个问题。为了区分符号，先把**总体线性拟合的斜率**记为 b：$$b=\frac{\operatorname{Cov}(X,Y)} {\operatorname{Var}(X)}. $$
+				把假定的生成关系 Y=\alpha+\beta X+\varepsilon 代入：$$\begin{aligned} b &=\frac{\operatorname{Cov}(X,\alpha+\beta X+\varepsilon)} {\operatorname{Var}(X)}\\[2mm] &=\frac{\beta\operatorname{Var}(X)+\operatorname{Cov}(X,\varepsilon)} {\operatorname{Var}(X)}\\[2mm] &=\boxed{\beta+ \frac{\operatorname{Cov}(X,\varepsilon)} {\operatorname{Var}(X)}}. \end{aligned} $$
+				这个展开是我补充的，用来解释教授的绿色点。(如图)
+				假如数值大的 X 往往对应正误差，数值小的 X 往往对应负误差，就可能有：$$\operatorname{Cov}(X,\varepsilon)>0. $$
+				于是，数据所对应的总体拟合斜率 b 就会大于模型中的 \beta。
+				而在适当的有限矩条件下，$$E(\varepsilon\mid X)=0 $$
+				能够推出 $$\operatorname{Cov}(X,\varepsilon)=0, $$
+				从而使这里的总体拟合斜率对应模型中的 \beta。
+				这也是为什么教授要加上“给定 X”这个条件。**把所有人的误差混在一起，平均为零，要求还不够。** 小 X 组平均偏负、大 X 组平均偏正，混在一起也可能抵消；但这种分组差异已经足以影响拟合斜率。
