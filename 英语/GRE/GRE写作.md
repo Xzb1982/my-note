@@ -1,8 +1,7 @@
 
-Governments should place few, if any, restrictions on scientific research and  
+1. Governments should place few, if any, restrictions on scientific research and  
 development.  
-Write a response in which you discuss  extent to which you agree or disagree with  recommendation and explain your reasoning for  position you take. In developing  
-and supporting your position, describe circumstances in which adopting  recommendation would or would not be advantageous and explain how these examples   shape your position.
+
 
 政府不该限制科研及其发展
 
@@ -23,7 +22,7 @@ disagree:政府对所有学生提供免费大学教育会增大政府的财政�
 
 13,110,131 Educational institutions should dissuade（劝阻） students from pursuing fields of study in which they are unlikely to succeed
 
-disagree : 教育系统设置的目的是
+disagree : 
 
 从效率的角度来说，劝阻这些学生相对于让这些学生自己摸索而言的成本更高；与其将资源倾斜到劝说学生学他们能成功的学科，不如让他们自己探索=》一方面有利于学生的身心健康，另外一方面也让资源能更有效分配
 
@@ -49,9 +48,26 @@ agree: 在个人层面上，有利于学生的事业发展=》去国外，增进
 2，7，30 The best way to teach is to praise positive actions and ignore negative one
 最好的教育方法是扬善和忽略负面的
 
-disagree：扬善并忽略负面的教育方法并不是最好的教育方法  =>负面的案例往往比正面的案例会更加的深刻=》例如
+disagree：扬善并忽略负面的教育方法并不是最好的教育方法  =>负面的案例往往比正面的案例会更加的印象深刻=》例如交通安全的教育，通过交通事故的案例警醒驾驶者不要危险驾驶，例如酒驾、疲劳驾驶
 
-第二个分论点+让步：
+第二个分论点+让步：诚然，在某些情况下，宣传正面的案例有益于激励社会大众做善事=>但是这种教育方法显然不是最好的 = > 因为负面的案例可以起到警示作用，这种作用也不能忽略，而且更好的教育方法，或许是正面的案例和负面的案例都需要宣传到，这样才能把正面反面案例的教育作用都发挥出来=》例如在我们的生活中，不仅有发扬社会正能量的案例，还有提醒我们不要做什么的负面案例，在正反案例中我们可以逐渐明确可以做什么，不可以做什么的行动边界
+
+8，58 Teachers' salaries should be based on their students' academic performance.
+(应该基于教学水平而不是学生的学术表现)
+
+disagree:老师的工资不能和学生的学术表现画等号，因为学生的学术表现受不同因素的影响，导致其表现各不相同 ，而老师的工资应当跟老师的教学水平而不是学生的学术表现挂钩=》即便老师教学水平很高而且努力跟进学生进度也不一定能提升一些学生的学术表现  =》 例如有些学生尽管很努力，但是因为反应迟钝、智力水平等因素的影响无法达到学生的预期 ；又例如有些学生很懒惰，但是老师很努力地在跟进，督促，结果这些学生的成绩还是不理想 
+
+第二个分论点+让步：尽管在一定程度上，学生的学术表现和老师的教学水平有相关性，但是相比于把老师的工资跟学生的学术表现挂钩，把老师的工资和老师的教学水平挂钩显然更合理 =》
+
+第二个分论点：从社会层面来说，如果老师的工资跟学生的学术表现挂钩，那么会进一步加剧教育系统的功利化 =》  有些老师可能会不择手段地提升学生的学术表现，例如代考、作弊，而且这种现象即便在教师工资不和学生学术表现挂钩的国家也时有发生 ，那么如果真的发生了，这种现象或许会更加严重
+
+45，148 Some people believe that the purpose of education is to free the mind and the spirit. Others believe that formal education tends to restrain our minds and spirits rather than set them free
+
+I agree with the previous opinion : 因为教育的其中一个重要要求就是探索未知 而探索未知恰恰要求我们解放思想和精神=》有些科学发现就是从解放思想和精神里面诞生的，例如从海豚的外形想到流线型设计、又例如从鸟的生理结构想到飞机的外形设计
+
+
+
+56，69 All parents should be required to volunteer time to their children's schools.
 
 ## N应该对M做某事（教育类话题）
 
