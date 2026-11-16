@@ -67,9 +67,31 @@ I agree with the previous opinion : 因为教育的其中一个重要要求就�
 
 进一步论证：即便是正式的教育，也要求我们理解原因并拓宽自己的思路=》通过理解一个现象背后的原因，我们的思维也在被解放，被拓展。=》例如无论是习题、实验还是考试，都要求我们先理解好知识，而理解知识的过程需要我们解放思想而不是死记硬背
 
-让步：在某些情况下，这种观点能够被理解，因为有些正式教育例如大学的一些在课纲的课程，会限制我们的思维。
+让步：在某些情况下，这种观点能够被理解，因为有些正式教育例如大学的一些在课纲的课程，会限制我们的思维。=》其实有些正式教育也在努力培养学生的独立思考能力，让他们解放思想，例如在中国的一些大学里面，通过实践，让学生主动运用知识，脱离死记硬背。
 
 56，69 All parents should be required to volunteer time to their children's schools.
+**“所有家长都应该被要求抽出一定时间，到自己孩子所在的学校参加志愿服务。”**
+disagree: 不是所有的家长都有时间 =》每个家庭的情况都不同，我们不能对所有的家长都这样要求=》 有些家长出远门一两年不回家；有些家长可能生了重病。
+
+第二个分论点：志愿服务的前提是志愿，而当所有家长都被要求抽出一定时间去参加志愿的时候，就违背了志愿的前提=》这不利于家校之间的合作，同时也会增加学校劝说家长参与的成本
+
+让步：尽管家长如果能抽出一定时间到自己孩子所在的学校参与志愿，可以增进和孩子之间的关系，并且增强家庭和学校之间的纽带=》相比于让所有的家长都抽出时间去孩子的学校参与志愿来说，让家长可以自愿抽时间参与志愿是更现实的选择
+
+第二个分论点：
+
+66 Educators should base their assessment of students' learning not on students' grasp of facts but on the ability to explain the ideas, trends, and concepts that those facts illustrate.
+
+立论：agree => the ability to explain the ideas, trends, and concepts that those facts illustrate is beneficial to students' personal growth => 解释： cultivate the critical thinking abilities
+
+进一步：对 educator 而言，based on he ability to explain the ideas, trends, and concepts that those facts can 让学生真正运用知识于实践而不是死板地学习 => 科学领域
+
+让步：Admittedly, based on students' grasp of facts can be efficient in cultivating a => it overlooks the negative influences on students' personal growth
+
+
+143 Claim: Group assignments that students must work together to complete should
+replace a substantial amount of traditional lecture-based instruction in college and
+university courses.
+Reason: It is vital for students to gain experience collaborating with peers to study a topic and to achieve a common goal.
 
 ## N应该对M做某事（教育类话题）
 
