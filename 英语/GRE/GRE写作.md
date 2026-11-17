@@ -6,9 +6,7 @@ l万能理由
 
 和雅思写作类似，主体段一定就是逻辑链，也就是分论点=》解释=》例子=》总结
 
-第一节课作业
-1. Governments should place few, if any, restrictions on scientific research and  
-development.  
+
 
 一些AI指令：# 如何改自己的作文让它流畅清晰（没有改逻辑）
 
@@ -32,14 +30,43 @@ l5 mins构思 20mins写作 5mins检查
 ¡构思时间不能省
 
 
+![[Pasted image 20261117102846.png]]
+● 分析：clear and insightful（题目：A好？B好？立场：A好）
+~~○ 【一边倒式】A1+；A2+；B3-~~  
+○ （呈现逻辑广度）【让步】Admittedly，B1+. A2+；A3+
+○ （呈现逻辑深度）【让步-反驳】Admittedly，B1+. However，B1 truly -. A2+; A3+
+~~○ 【中立观点】It depends.~~
+l逻辑 well-focused和well-organized
+¡5句及以上的解释和举例后的解释（50%的段落内容）
 
+**举例的论证有效性为什么差一些：举例是使用特殊论证一般的过程
+
+¡general enough（足够抽象）的段落中心句
+
+**吃早餐有利于身体健康 明显比 吃早餐有利于血液循环 要好？
+
+越具体的分论点，越难论证 --> 具体的信息会限制论证思路
+
+l内容 compelling reasons or persuasive examples
+
+¡可以无举例（不推荐这样做）--> 举例可以水字数
+
+¡解释和举例后解释应该50%
+
+l语言 辞能达意 --> 你想说的话，可以用英文正确表述即可；不必追求难词难句
+
+¡尤其不要使用GRE填空单词，造成register（语域）错误 --> “我昨天没起床，迟到了。我大发雷霆。”
+
+第一节课作业
+1. Governments should place few, if any, restrictions on scientific research and  
+development.  
 政府不该限制科研及其发展
 
 立论：diagree: 政府对部分科研的限制是对企业科技研发的合理引导 =》企业：盲目研发一些对人类短期有益，但是长期有害的东西，甚至违反伦理道德=》例如基因编辑技术
 
 第二个分论点：政府对部分科研的限制有利于保障消费者合法权益和个人安全=》限制这些科研可以让技术有更充足的时间成熟并且改善技术可行性=》转基因食品技术的改善和最终的落地推动了食品安全的进步
 
-让步：尽管政府不限制科研在有些情况下有利于科技本身的进步，但是这忽略了科技发展在伦理层面的对社会进步的不利后果=》让政府对科研进行合理限制既能够有效地推动科技发展，也能在伦理道德层面上让科技更能造福人类=》例如对氟利昂的限制
+让步：尽管政府不限制科研在有些情况下有利于科技本身的进步，但是这忽略了科技发展在伦理层面的对社会进步的不利后果=》让政府对科研进行合理限制既能够有效地推动科技发展，也能在伦理道德层面上让科技更能造福人类=》例如对氟利昂的限制==**（对应的表述方式要提前准备，例如氟利昂）**==
 
 3,139 Governments should offer college and university education free of charge to all students.
 disagree:政府对所有学生提供免费大学教育会增大政府的财政负担=》造成政府支出不得不向教育倾斜进而削减在提供社会福利、基础设施建设方面的开支=》例如中国的教育支出相比于社会福利支出而言占总GDP的份额更小，这是出于维护社会稳定的考量
@@ -52,11 +79,11 @@ disagree:政府对所有学生提供免费大学教育会增大政府的财政�
 
 13,110,131 Educational institutions should dissuade（劝阻） students from pursuing fields of study in which they are unlikely to succeed
 
-disagree : 
+disagree : 从效率的角度来说，劝阻这些学生相对于让这些学生自己摸索而言的成本更高；与其将资源倾斜到劝说学生学他们能成功的学科，不如让他们自己探索=》一方面有利于学生的身心健康，另外一方面也让资源能更有效分配
 
-从效率的角度来说，劝阻这些学生相对于让这些学生自己摸索而言的成本更高；与其将资源倾斜到劝说学生学他们能成功的学科，不如让他们自己探索=》一方面有利于学生的身心健康，另外一方面也让资源能更有效分配
+可行性：而且“不一定能成功”是主观的，很难进行量化，可行性低 =》 相比于劝阻学生学习他们不能成功的领域，根据学生的具体情况进行职业规划是更现实且有效的，更能够达成培养人才、推动社会进步的目标
 
-而且“不一定能成功”是主观的，很难进行量化，可行性低 =》 相比于劝阻学生学习他们不能成功的领域，根据学生的具体情况进行职业规划是更现实且有效的，更能够达成培养人才、推动社会进步的目标
+从教育机构：
 
 
 29,48 Young people should be encouraged to pursue long-term, realistic goals rather than seek immediate fame and recognition.
