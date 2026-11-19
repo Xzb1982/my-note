@@ -253,19 +253,11 @@
 		可以想象：**把散点图的横坐标留在原处，每轮重新生成一组误差，于是得到一组新的纵坐标，再重新拟合直线。** 每轮拟合出的斜率可能不同。
 		教授反复指着这个式子，想说明的正是：==**虽然真实误差无法直接观察，但只要对其概率性质作出假设，就能研究我们实际算出来的 \hat\beta 会怎样变化。**==
 	对 \hat\beta 求期望，得到无偏性
-		现在出现了一个问题：按照同一套数据生成规律反复取得样本，每次算出一个 \(\hat\beta\)，这些估计值的平均位置在哪里？
+		现在出现了一个问题：按照同一套数据生成规律反复取得样本，每次算出一个 \hat\beta，这些估计值的平均位置在哪里？
+从刚才的分解式出发：$$E(\hat\beta\mid\mathbf X) = E\left( \beta+ \frac{\sum_i x_i\varepsilon_i}{\sum_i x_i^2} \,\middle|\,\mathbf X \right). $$
+这里，\beta 是固定参数；给定 \mathbf X 后，各个 x_i 也是固定数。因此可以写成：$$E(\hat\beta\mid\mathbf X) = \beta+ \frac{\sum_i x_iE(\varepsilon_i\mid\mathbf X)} {\sum_i x_i^2}. $$
 
-从刚才的分解式出发：
-
-\[ E(\hat\beta\mid\mathbf X) = E\left( \beta+ \frac{\sum_i x_i\varepsilon_i}{\sum_i x_i^2} \,\middle|\,\mathbf X \right). \]
-
-这里，\(\beta\) 是固定参数；给定 \(\mathbf X\) 后，各个 \(x_i\) 也是固定数。因此可以写成：
-
-\[ E(\hat\beta\mid\mathbf X) = \beta+ \frac{\sum_i x_iE(\varepsilon_i\mid\mathbf X)} {\sum_i x_i^2}. \]
-
-前面假设：
-
-\[ E(\varepsilon_i\mid\mathbf X)=0. \]
+前面假设：$$E(\varepsilon_i\mid\mathbf X)=0. $$
 
 于是：
 
