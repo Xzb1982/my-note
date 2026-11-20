@@ -126,7 +126,7 @@
 				==能力与家庭条件可能同时影响教育和工资，教育本身也可能影响工资。==
 			因此，观察到“受教育年限较长的人，工资较高”，里面可能同时包含教育的作用和背景条件的差异。结构模型需要说明这些因素怎样进入结果，以及在什么假设下可以区分它们。
 			因果分析所需的这些信息，无法仅从变量之间的相关关系中直接读出来。
-			所以，**判断一个方程是否具有结构解释，要看它被赋予了什么含义、背后有哪些假设；只看它是不是 Y=\alpha+\beta X+u，判断不了。**
+			所以，**判断一个方程是否具有结构解释，要看它被赋予了什么含义、背后有哪些假设；只看它是不是 $Y=\alpha+\beta X+u$，判断不了。**
 		那么，一个结构模型究竟包含了什么？
 
 | 组成部分       | 需要说明的问题                     | 咖啡市场中的例子                     |
@@ -146,158 +146,208 @@
 				在讨论回归估计时，还要另外说明它与误差项的关系。仅仅把某个变量称作“外生变量”，并不能替代相应的统计假设。
 		结构模型的作用
 			结构模型可以帮助我们解释观察到的变化、估计行为反应，也常用于**反事实分析**：如果换一种政策或制度，结果可能怎样。
-	从结构模型到参数估计
-		前面通过结构模型，说明了我们怎样描述结果的形成过程，以及模型中的参数应当怎样解释。
-		接下来需要把模型与实际数据联系起来：==**用样本 OLS 算出的系数，能否用来估计我们希望了解的模型参数？**==
-		这里需要区分两个符号：模型中的斜率是 β，根据当前样本拟合出的斜率是 \hat\beta。OLS 通过最小化样本残差平方和得到 \hat\beta；
-		==**要研究它与 β 的联系，还需要说明误差项怎样分布，以及它与解释变量 X有什么关系。**==
-		为讨论这个问题，先从一元线性模型出发，并将误差项统一记为 \varepsilon_i： $$\boxed{Y_i=\alpha+\beta X_i+\varepsilon_i.}  $$
-		从样本拟合转向数据生成模型
-			已有一批观测数据时，OLS 通过最小化残差平方和，确定 (\hat\alpha) 和 (\hat\beta)，得到样本拟合直线：$$\hat y_i=\hat\alpha+\hat\beta x_i.  $$
-			这解决了怎样根据样本计算系数的问题。
-			接下来我们说明：算出的系数，与我们希望了解的关系有什么联系？
-				为此，假设数据按照下面的模型产生：$$\boxed{Y_i=\alpha+\beta X_i+\varepsilon_i.}  $$
-				其中，α，β  是模型中未知的参数；α+β  X_i 是模型中的直线部分；\varepsilon_i 汇总了没有在直线部分中单独表示的其他影响。
-				此时，**误差相对于模型直线计算，残差相对于样本拟合直线计算：**
-				$$\varepsilon_i=y_i-(\alpha+\beta x_i),  
-				\qquad  
-				e_i=y_i-(\hat\alpha+\hat\beta x_i).  $$
-				真实参数 α，β  通常未知，因此误差 \varepsilon_i 通常无法直接算出；拟合完成后，残差 e_i 可以计算。
-			单独写出这个模型，我们还需要规定误差怎样分布，以及它与 X 有什么关系，因此需要进一步作出概率假设。
-		==**误差的条件分布假设**==
-			教授首先采用：$$\boxed{\varepsilon_i\mid X_i=x\sim N(0,\sigma^2).}  $$
-			这里的条件表示：先把参照范围缩小到 X_i=x 的那一组，再研究这一组内部的误差分布。
-			这套假设要求，每个给定的 x 组内，误差均值为零、方差为相同的 σ^2，并且服从正态分布。其中，均值为零是**零条件均值假设**，各组方差相同是**同方差假设**。
-			由==**零条件均值假设**==可得：$$\boxed{E(Y_i\mid X_i=x)=\alpha+\beta x.}  $$
-			也就是说，**模型中的直线部分，正好给出每个 x 组内 Y 的总体平均水平。**
-				注：如果结合完整的条件正态分布假设，还有：$$Y_i\mid X_i=x\sim N(\alpha+\beta x,\sigma^2). $$
-				教授画的侧向钟形曲线，表示固定不同的横坐标 x 后，Y 在纵向上的条件分布。各组分布的中心落在模型直线上，散布程度由相同的 σ^2 决定。
-		 如果0条件均值假设不成立，会怎么样？
-			接下来，教授考察另一种情形：==**不再沿用零条件均值假设，允许不同 X 组的平均误差有所不同。**==
-			此时，条件均值应写为：$$\alpha+\beta x+E(\varepsilon\mid X=x).  $$
-			模型直线 α+β x 已经不一定=各组 Y 的平均水平。
-			如果小 X 组的平均误差为负、大 X 组的平均误差为正，那么这些组的平均水平就分别低于、高于模型直线。
-			误差中的其他影响因素，如果在不同 X 组之间存在系统性差异，就可能出现这种情况。图中最初的钟形曲线对应零条件均值成立的情形，后来的绿色点用于说明这一假设不成立时会怎样。
-			只要求总体平均 E(\varepsilon)=0 还不够：不同 X 组的正负平均误差可能相互抵消，使整体平均为零，但各组内部的平均误差仍不为零。
+	 一、从模型参数到样本估计：我们究竟要研究什么？
+		前面的结构模型讨论了结果怎样形成，以及模型参数应当怎样解释。
+		接下来需要把模型与实际数据联系起来：**用样本 最小二乘估计 算出的系数，能否估计我们希望了解的模型参数？估计结果通常有多大波动？**
+		以受教育年限与工资为例，写出：$$\boxed{Y_i=\alpha+\beta X_i+\varepsilon_i.} $$
+		其中，X_i 是受教育年限，Y_i 是工资，$\alpha,\beta$ 是固定但未知的模型参数；$\varepsilon_i$汇总了直线部分没有单独表示的其他影响。
+		如果希望把 $\beta$ 解释为教育的因果作用，还需要前面结构模型中的解释与假设。
+		这里接下去研究的是：在所设模型下，OLS 与这个目标参数有什么联系。
+		取得一份样本后，OLS 通过最小化残差平方和，得到 $\hat\alpha,\hat\beta$，进而得到样本拟合直线：$$\hat y_i=\hat\alpha+\hat\beta x_i. $$
+		此时，需要分清三个量：
 
-补充：模型斜率、总体拟合斜率与样本斜率
-1. 先区分三个斜率
+| 名称     | 数学表达                                   | 含义              | 当前样本中能否直接计算        |
+| ------ | -------------------------------------- | --------------- | ------------------ |
+| 模型误差   | $\varepsilon_i=y_i-(\alpha+\beta x_i)$ | 观测值相对于模型直线的偏离   | 通常不能，因为真实参数未知      |
+| 样本残差   | $e_i=y_i-(\hat\alpha+\hat\beta x_i)$   | 观测值相对于样本拟合直线的偏离 | 能                  |
+| 参数估计误差 | $\hat\beta-\beta$                      | 当前估计斜率与目标参数的差距  | 通常不能，因为 $\beta$ 未知 |
+		将模型代入残差的定义：$$\begin{aligned} e_i &=y_i-(\hat\alpha+\hat\beta x_i)\\ &=\varepsilon_i +(\alpha-\hat\alpha) +(\beta-\hat\beta)x_i. \end{aligned} $$
+		因此，**残差=真实误差，再+模型直线与样本拟合直线在同一个横坐标处的差异。** 
+		==**如果两条线在这个位置接近，对应的残差也就接近真实误差。**==
+		这个关系使残差能够提供有关误差的信息。
+		==**但要研究估计量的抽样性质，还需要对模型误差作出概率假设。**==整部分的逻辑可以表示为：
+		![[Pasted image 20261120103840.png]]
+		模型与误差假设估计量的均值、方差与抽样分布样本数据OLS估计与残差估计模型误差方差标准误、置信区间与假设检验残差诊断
+	二、对误差作出假设，说明模型直线与条件均值的关系
+		条件分布假设是什么意思？
+			先看一个观察对象，假设：$$\boxed{\varepsilon\mid X=x\sim N(0,\sigma^2).} $$
+			条件 X=x 表示：把参照范围缩小到受教育年限为 x 的那一组，再研究组内误差的分布。
+			这个假设要求，每个给定的 x 组内，误差均值=0、方差为同一个 $\sigma^2$，并且服从正态分布。
+			其中，均值=0是**零条件均值假设**，不同组方差相同是**同方差假设**。
+			对模型取条件期望，可以得到：$$\boxed{ E(Y\mid X=x) = \alpha+\beta x+E(\varepsilon\mid X=x). } $$
+			这个式子来自期望运算。
+			采用零条件均值假设：$$E(\varepsilon\mid X=x)=0, $$
+			进一步得到：$$\boxed{E(Y\mid X=x)=\alpha+\beta x.} $$
+			也就是说，**模型直线正好通过各个 x 组内 Y 的总体平均水平。**
+			结合条件正态分布假设，还有：$$Y\mid X=x\sim N(\alpha+\beta x,\sigma^2). $$
+			课堂中画在模型直线旁边的钟形曲线，描述的就是给定不同 x 后，Y 在纵向上的分布。
+		 样本推导为什么要给定整组 $\mathbf X$？
+			接下来要研究根据整份样本算出的估计量。
+			因此，在涉及样本估计量的条件推导时，均给定整组解释变量：$$\mathbf X=(X_1,\ldots,X_n), 
+			$$
+			把已经给定的取值 x_1,\ldots,x_n 当作已知数，并要求它们不全相同。
+			教授采用的完整经典正态设定，可以写成： $$\boxed{ \text{给定 }\mathbf X\text{ 后，误差相互独立，且 } \varepsilon_i\mid\mathbf X\sim N(0,\sigma^2). } $$
+			各个条件的含义如下：
 
-| 符号        | 含义                      | 模型与总体分布不变时，重新抽样是否改变它 |
-| --------- | ----------------------- | -------------------- |
-| β         | 数据生成模型中，(α+β  X) 的斜率    | 不变                   |
-| b         | 根据总体分布，使平均平方误差最小的线性拟合斜率 | 不变                   |
-| \hat\beta | 根据当前样本计算出的 OLS 拟合斜率     | 通常会改变                |
-	因此，需要分别讨论：**总体拟合斜率为什么可能偏离模型参数，以及样本拟合斜率为什么会随抽样变化。**
-2. 总体拟合斜率为什么可能偏离模型参数
-	误差中可能包含与 X 线性相关的部分。对误差本身作总体线性拟合，可以写成：
-	$$\varepsilon=c+\delta X+v,  
-	\qquad  
-	\operatorname{Cov}(X,v)=0.  $$
-	其中，c+\delta X 是用 X 对误差作出的线性拟合，v 是剩余部分。
-	将这部分合并进原模型后，总体拟合斜率为：$$\beta+  
-	\frac{\operatorname{Cov}(X,\varepsilon)}  
-	{\operatorname{Var}(X)}.  $$
-	这说明，**总体拟合斜率会同时包含模型中的 β，以及误差与 X 线性共同变化所贡献的部分。** 回归中只列出一个解释变量，并不排除误差中还包含与它相关的其他影响。
-	零条件均值假设能够排除这里的额外部分：
-	$$E(\varepsilon\mid X)=0  
-	\quad\Longrightarrow\quad  
-	\operatorname{Cov}(X,\varepsilon)=0  
-	\quad\Longrightarrow\quad  
-	b=\beta.  $$
- 3. 样本拟合斜率为什么仍会变化
-	即使 b=β，某一次样本算出的 \hat\beta 仍可能与它们不同。对应的样本关系是：
-	$$\frac{\operatorname{Cov}_{\text{样本}}(X,\varepsilon)}  
-	{\operatorname{Var}_{\text{样本}}(X)}.  $$
-	总体协方差为零，并不要求每一份样本的协方差都恰好为零。某次抽样可能偶然出现误差与 X 同向或反向变化的情况，使样本拟合斜率偏大或偏小。这里的 \varepsilon 仍然是模型误差。
-	因此，重新抽样时，观测点和样本拟合斜率 \hat\beta 会改变；只要模型与总体分布不变，β 和 b 就保持不变。
-	两种差距可以放在同一个式子中：
-	$$\underbrace{b-\beta}_{\text{总体拟合与模型参数的差距}}  +
-	\underbrace{\hat\beta-b}_{\text{本次样本与总体拟合的差距}}.  $$
-	
-	零条件均值成立时，第一项 b-β=0，但第二项仍可能因抽样波动而不为0。
-	总式子：$$\boxed{ \underbrace{\hat\beta-\beta}_{\text{本次估计与模型参数的差距}} = \underbrace{b-\beta}_{\text{总体拟合关系与模型参数的差距}} + \underbrace{\hat\beta-b}_{\text{本次样本与总体拟合关系的差距}} }. $$
-	从抽样波动到标准误与假设检验
-		前面已经说明，即使==**零条件均值假设成立**==，使总体拟合斜率满足b=β，某次样本算出的 \hat\beta 仍可能与 β不同。
-		接下来需要研究的是：**这种抽样波动有多大，以及我们能根据当前的估计值，对未知的 β作出怎样的判断。**
-		在这里的经典回归讨论中，模型参数 α,β 固定但未知。
-		同一套数据生成规律可以产生不同的样本，每份样本又会得到不同的 \hat\alpha,\hat\beta。
-		因此，我们可以研究：==**按照同样的规律反复抽样，估计量会怎样分布**==。这就是估计量的**抽样分布**。
-		标准误描述估计量在重复抽样中的波动程度；
-		==**实际软件报告的标准误，通常是对这种抽样标准差的估计。**==
-		在此基础上，置信区间用一个区间表达参数估计的不确定性，假设检验则考察当前数据与某个关于参数的假设是否相容。
-		这也说明了教授开头提出加入 probabilistic structure（概率结构）的用意：
-			对数据生成过程作出概率假设，使我们能够从一次样本的拟合，进一步研究换一份样本以后估计结果怎样变化，并据此进行统计推断。
-	利用残差检查误差假设
-		前面讨论了怎样根据误差假设，研究估计量的抽样波动，并进一步进行区间估计和假设检验。接下来还需要考察：**数据中是否存在与这些误差假设不相符的迹象？**
-		这里遇到的困难是，模型参数通常未知，因此真实误差 \varepsilon_i 无法直接计算。
-		我们能够计算的是样本拟合完成后的残差 e_i。要利用残差研究误差，就需要说明两者有什么联系。
-		将数据生成模型代入残差的定义，可以得到：
-		$$e_i = \varepsilon_i  +
-		(\alpha-\hat\alpha)  +
-		(\beta-\hat\beta)x_i.  $$
-		也就是说，**残差=真实误差+模型直线与样本拟合线在同一个 x_i 处的差异。** 如果两条线在这个位置比较接近，对应的残差也就比较接近真实误差。 
-		这个关系为残差诊断提供了依据。
-		我们可以研究残差的分布和变化情况，寻找误差的正态性、方差设定或误差之间的相关性等方面可能存在问题的迹象。
-		不过，残差受到共同估计系数的影响，还必须满足前面已经证明的 OLS 约束，因此不能直接把它们当作真实误差。
-	前面已经说明，可以通过残差，寻找误差假设可能不合适的迹象。
-	接下来，教授暂时接受这些假设（==**0条件均值假设和误差之间相互独立**==），研究这些假设对 OLS 估计量意味着什么。
-		为简化推导，他先省去截距项，将模型写成：$$\boxed{Y_i=\beta x_i+\varepsilon_i.} $$这样可以使得求导和后面的运算更简短。
-		前面含截距模型的公式仍然适用，只是需要分别对应。
-		下文均给定整组解释变量$$ \mathbf X$$，将各个 x_i当作已知数，并假设误差相互独立，且： $$\varepsilon_i\mid\mathbf X\sim N(0,\sigma^2). $$
-		在这个无截距模型中，OLS 通过最小化$$\sum_{i=1}^n(Y_i-\widetilde\beta x_i)^2 $$
-		得到：$$\hat\beta = \frac{\sum_i x_iY_i}{\sum_i x_i^2}, \qquad \sum_i x_i^2>0. $$
-		到这里，仍然是在说明如何根据数据算出斜率。接下来，教授把数据生成模型 $$Y_i=\beta x_i+\varepsilon_i $$代入：$$\begin{aligned} \hat\beta &=\frac{\sum_i x_i(\beta x_i+\varepsilon_i)} {\sum_i x_i^2}\\[4pt] &=\frac{\beta\sum_i x_i^2+\sum_i x_i\varepsilon_i} {\sum_i x_i^2}\\[4pt] &=\beta+\frac{\sum_i x_i\varepsilon_i} {\sum_i x_i^2}. \end{aligned} $$
-		因此：$$\boxed{ \hat\beta-\beta = \frac{\sum_i x_i\varepsilon_i}{\sum_i x_i^2}. } $$
-		这就是后面全部推导的起点。它把“估计出来的斜率为什么与真实参数有差距”写成了一个可以分析的表达式。
-		给定 x_i 后，分母和各个 x_i 都固定，β 也固定；误差 \varepsilon_i 随样本变化，因而右边这一项会变化，$\hat\beta$  随之变化。
-		可以想象：**把散点图的横坐标留在原处，每轮重新生成一组误差，于是得到一组新的纵坐标，再重新拟合直线。** 每轮拟合出的斜率可能不同。
-		教授反复指着这个式子，想说明的正是：==**虽然真实误差无法直接观察，但只要对其概率性质作出假设，就能研究我们实际算出来的 \hat\beta 会怎样变化。**==
-	对 $\hat\beta$ 求期望，得到无偏性
-		现在出现了一个问题：按照同一套数据生成规律反复取得样本，每次算出一个 $$\hat\beta$$，这些估计值的平均位置在哪里？
-		从刚才的分解式出发：$$E(\hat\beta\mid\mathbf X) = E\left( \beta+ \frac{\sum_i x_i\varepsilon_i}{\sum_i x_i^2} \,\middle|\,\mathbf X \right). $$
-		这里，β  是固定参数；给定 \mathbf X 后，各个 x_i 也是固定数。因此可以写成：$$E(\hat\beta\mid\mathbf X) = \beta+ \frac{\sum_i x_iE(\varepsilon_i\mid\mathbf X)} {\sum_i x_i^2}. $$
-		前面假设：$$E(\varepsilon_i\mid\mathbf X)=0. $$
-		于是：$$\boxed{E(\hat\beta\mid\mathbf X)=\beta.} $$
-		这就是这里的 **OLS 估计量无偏性**。
-		它说的是：在这些假设下，重复抽样得到的斜率估计，其平均位置落在真实参数 β 上。某一次样本算出的 \hat\beta，仍然可能高于或低于β 。
-		前面已经讲过“总体协方差为零，不要求每份样本的协方差恰好为零”。这里与那个解释接得上：$$E\left( \frac{\sum_i x_i\varepsilon_i}{\sum_i x_i^2} \,\middle|\,\mathbf X \right)=0, $$
-		但某一次样本中的 $$\frac{\sum_i x_i\varepsilon_i}{\sum_i x_i^2} $$
-		通常不会恰好=0。
-	对 $\hat\beta$ 求方差，计算抽样波动有多大
-		平均位置正确以后，还需要知道估计值通常离这个位置多远。
-		例如，同样围绕 β=2 波动，一种估计方法大多得到接近 2 的数，另一种却经常得到相差很大的数。两者即使都无偏，估计精度也可能相差很大。
-		因此，教授继续计算：$$\operatorname{Var}(\hat\beta\mid\mathbf X). $$
-		为缩短式子，记：$$S=\sum_i x_i^2. $$
-		由于：$$\hat\beta=\beta+\frac{\sum_i x_i\varepsilon_i}{S}, $$
-		而加上固定常数 β不会改变方差，所以：$$\operatorname{Var}(\hat\beta\mid\mathbf X) = \frac{1}{S^2} \operatorname{Var}\left(\sum_i x_i\varepsilon_i\mid\mathbf X\right). $$
-		注意，**常数从方差里面提出时需要平方**，所以这里出现的是 S^2。
-		接下来展开加权和的方差：$$\begin{aligned} \operatorname{Var}\left(\sum_i x_i\varepsilon_i\mid\mathbf X\right) ={}& \sum_i x_i^2\operatorname{Var}(\varepsilon_i\mid\mathbf X)\\ &+ 2\sum_{i<j}x_ix_j \operatorname{Cov}(\varepsilon_i,\varepsilon_j\mid\mathbf X). \end{aligned} $$
-		根据同方差假设：$$\operatorname{Var}(\varepsilon_i\mid\mathbf X)=\sigma^2. $$
-		根据误差相互独立的假设，不同误差之间的协方差=0：$$\operatorname{Cov}(\varepsilon_i,\varepsilon_j\mid\mathbf X)=0, \qquad i\ne j. $$
-		因此，交叉项消失，只剩：$$\operatorname{Var}\left(\sum_i x_i\varepsilon_i\mid\mathbf X\right) = \sigma^2\sum_i x_i^2 = \sigma^2S. 
-$$
-		再代回去：$$\boxed{ \operatorname{Var}(\hat\beta\mid\mathbf X) = \frac{\sigma^2S}{S^2} = \frac{\sigma^2}{\sum_i x_i^2}. } $$
-		讲义在公式下面写了“这里使用了独立性”，对应的就是把那些交叉协方差消掉的步骤。
-		这里需要分清两个对象：$$\underbrace{\sigma^2}_{\text{单个误差的条件方差}} \qquad\text{与}\qquad \underbrace{\frac{\sigma^2}{\sum_i x_i^2}}_{\text{斜率估计量的条件方差}}. $$
-		前者描述观测值在模型直线周围的散布
-		后者描述换一份样本以后，拟合斜率会波动多少。
-		对后者开平方，就得到斜率估计量的抽样标准差： $$\boxed{ \operatorname{SD}(\hat\beta\mid\mathbf X) = \frac{\sigma}{\sqrt{\sum_i x_i^2}}. } $$
-		这也把你前面关于“标准误描述估计量的抽样波动”的文字，接到了具体公式上。
-	利用正态假设，得到 $\hat\beta$ 的抽样分布
-		到这里，我们已经知道 $\hat\beta$的平均位置和波动大小。
-		教授进一步指出：$$ \hat\beta = \beta+ \sum_i \left(\frac{x_i}{\sum_jx_j^2}\right)\varepsilon_i. $$
-		给定 $\mathbf X$ 后，括号里的系数都是固定数。因此，$\hat\beta$ 是一个常数加上若干误差的线性组合。
-		在误差相互独立且服从正态分布的假设下，这个线性组合也服从正态分布。结合前面求出的期望和方差：$$\boxed{ \hat\beta\mid\mathbf X \sim N\left( \beta,\, \frac{\sigma^2}{\sum_i x_i^2} \right). } $$
-		**这里的正态分布，描述的是反复抽样得到的一批斜率估计值。** 你前面画在回归直线旁边的钟形曲线，描述的则是某个给定 x 处，观测值 Y 的分布。两者的随机对象不同。
-	 知道抽样分布以后，怎样进行假设检验？
-		教授说明：知道了 $\hat\beta$ 的分布，就能够进行假设检验，这也是前面引入概率结构的目的。
-		假设我们要检验：$$ \boxed{H_0:\beta=\beta_0.} $$
-		其中，\beta_0 是原假设指定的数，例如 0、1，或者某个理论提出的值。
-		如果原假设成立，那么： $$\hat\beta\mid\mathbf X,H_0 \sim N\left( \beta_0,\, \frac{\sigma^2}{\sum_i x_i^2} \right). $$
-		于是，我们可以把估计值与假设值的差距标准化：$$\boxed{ Z= \frac{\hat\beta-\beta_0} {\sigma/\sqrt{\sum_i x_i^2}}. } $$
-		在这里的正态模型下，如果 \sigma 已知，且原假设成立，那么：$$Z\mid\mathbf X,H_0\sim N(0,1). $$
-		这个比值的意思是： $$\frac{\text{当前估计值与假设值的差距}} {\text{估计量通常的抽样波动大小}}. $$
-		例如，估计值与假设值相差 0.4。如果斜率估计的标准差是 0.1，这相当于偏离了 4 个标准差；如果标准差是 0.5，就只偏离了 0.8 个标准差。判断当前结果与原假设是否相容，需要同时考虑差距和估计精度
-		这里也接上了你前面区分 \beta 与 $\hat\beta$ 的内容：
-		**原假设中的数值约束施加在未知参数 \beta 上；我们用样本算出的 $\hat\beta$，检查数据是否与这个约束相容。**
+| 条件        | 数学表达                                                                    | 含义                            |
+| --------- | ----------------------------------------------------------------------- | ----------------------------- |
+| 零条件均值     | $E(\varepsilon_i\mid\mathbf X)=0$                                       | 给定解释变量后，每个误差的平均值为零            |
+| 同方差       | $\operatorname{Var}(\varepsilon_i\mid\mathbf X)=\sigma^2$               | 各个误差的条件方差相同                   |
+| 不同误差条件不相关 | $\operatorname{Cov}(\varepsilon_i,\varepsilon_j\mid\mathbf X)=0，i\ne j$ | 不同误差之间没有条件线性共同变化；条件独立性能够保证这一点 |
+| 条件正态性     | 给定 $\mathbf X$后，各误差独立正态                                                 | 进一步得到估计量的精确正态抽样分布             |
+		零条件均值不成立时会怎样？
+			如果不同 X 组的平均误差有所不同，就必须保留：$$E(Y\mid X=x) = \alpha+\beta x+E(\varepsilon\mid X=x). $$
+			此时，模型直线 $\alpha+\beta x$已经不一定等于各组 Y 的平均水平。
+			例如，小 X 组的平均误差为负、大 X 组的平均误差为正，那么各组平均水平就分别落在模型直线下方和上方。
+			只要求总体平均：$E(\varepsilon)=0$还不够。不同 X 组的正负平均误差可能相互抵消，使总体平均为零，但各组内部仍存在系统性偏离。
+	 三、区分三个斜率：模型参数、总体拟合与样本估计
+		三个符号分别代表什么？
+
+| 符号          | 含义                       | 模型与总体分布不变时，重新抽样是否改变它 |
+| ----------- | ------------------------ | -------------------- |
+| $\beta$     | 数据生成模型中的斜率               | 不变                   |
+| b           | 在所有含截距直线中，使总体平均平方误差最小的斜率 | 不变                   |
+| $\hat\beta$ | 当前样本算出的 OLS 斜率           | 通常改变                 |
+			因此，需要分别讨论：总体拟合关系是否对应我们希望估计的模型参数，以及当前样本的拟合结果为什么会偏离总体关系。
+		总体拟合斜率为什么可能偏离模型参数？
+			在所需二阶矩存在、$\operatorname{Var}(X)>0$时，总体线性拟合斜率为：$$ b=\frac{\operatorname{Cov}(X,Y)}{\operatorname{Var}(X)}. $$
+			将 $Y=\alpha+\beta X+\varepsilon$ 代入： $$\begin{aligned} b &= \frac{\operatorname{Cov}(X,\alpha+\beta X+\varepsilon)} {\operatorname{Var}(X)}\\ &= \beta+ \frac{\operatorname{Cov}(X,\varepsilon)} {\operatorname{Var}(X)}. \end{aligned} $$
+			所以：$$\boxed{ b-\beta = \frac{\operatorname{Cov}(X,\varepsilon)} {\operatorname{Var}(X)}. } $$
+			这说明，==**如果误差中的其他影响因素与教育年限共同变化，总体拟合斜率就可能同时包含模型中的 $\beta$，以及这些因素带来的部分。**==
+			也可以把误差作总体线性投影：$$\varepsilon=c+\delta X+v, \qquad \delta= \frac{\operatorname{Cov}(X,\varepsilon)} {\operatorname{Var}(X)}. $$
+			其中，$c=E(\varepsilon)-\delta E(X)$，并有：$$E(v)=0,\qquad \operatorname{Cov}(X,v)=0. $$
+			代回原模型：$$Y=(\alpha+c)+(\beta+\delta)X+v. $$
+			于是，总体拟合斜率就是：$$b=\beta+\delta. $$
+			零条件均值假设能够排除上述额外的线性部分：$$\boxed{ E(\varepsilon\mid X)=0 \Longrightarrow \operatorname{Cov}(X,\varepsilon)=0 \Longrightarrow b=\beta. }$$
+			即使 $b=\beta$，某一次样本算出的 $\hat\beta$ 仍可能与它们不同。
+			两类差距可以放在同一个式子中：$$\boxed{ \hat\beta-\beta = \underbrace{b-\beta}_{\text{总体拟合与模型参数的差距}} + \underbrace{\hat\beta-b}_{\text{当前样本与总体拟合的差距}}. } $$
+			第一项由模型与总体分布决定；第二项随着样本变化。
+		接下来，就是具体研究当前样本的斜率为什么会变化，以及这种变化有多大。
+	四、把参数估计误差写成模型误差的加权和
+		含截距的一元 OLS 斜率为：$$\hat\beta = \frac{\sum_i(x_i-\bar x)(Y_i-\bar Y)} {\sum_i(x_i-\bar x)^2}. $$
+		记：$$d_i=x_i-\bar x, \qquad S_{xx}=\sum_i d_i^2>0. $$
+		因为 $\sum_i d_i=0$，所以：$\hat\beta=\frac{\sum_i d_iY_i}{S_{xx}}.$
+		将模型 $Y_i=\alpha+\beta x_i+\varepsilon_i$ 代入：$$\begin{aligned} \hat\beta &= \frac{\sum_i d_i(\alpha+\beta x_i+\varepsilon_i)} {S_{xx}}\\ &= \frac{ \alpha\sum_i d_i+ \beta\sum_i d_ix_i+ \sum_i d_i\varepsilon_i }{S_{xx}}. \end{aligned} $$
+		其中： $\sum_i d_i=0$, 
+		而： $\sum_i d_ix_i = \sum_i d_i(d_i+\bar x) = S_{xx}$. 
+		因此：$$\boxed{ \hat\beta = \beta+ \frac{\sum_i(x_i-\bar x)\varepsilon_i}{S_{xx}}. }$$ 
+		也就是：$$\boxed{ \hat\beta-\beta = \frac{\sum_i(x_i-\bar x)\varepsilon_i} {\sum_i(x_i-\bar x)^2}. } $$
+		**这个分解只用了模型与代数运算，还没有使用零条件均值、独立性或正态性。**
+		如果样本协方差与样本方差采用相同的除数，也可以写成：$$\hat\beta-\beta = \frac{ \operatorname{Cov}_{\text{样本}}(X,\varepsilon) }{ \operatorname{Var}_{\text{样本}}(X) }. $$
+		因此，总体协方差为0，并不要求每一份样本的协方差恰好为0。某次样本中，误差可能偶然与 X 同向或反向变化，使斜率偏大或偏小。
+		再令：$w_i=\frac{x_i-\bar x}{S_{xx}}$, 
+		就得到：$\boxed{\hat\beta-\beta=\sum_iw_i\varepsilon_i.}$ 
+		这条式子把两个研究对象连接起来了：**参数估计误差，是模型误差的一种加权和。**
+		给定 $\mathbf X$ 后，权重 w_i 固定，$\beta$ 也固定；
+		误差随样本变化，斜率估计就随之变化。
+	五、从==**模型误差的分布，推导估计量的抽样分布**==
+		抽样分布描述的是：==按照同一套数据生成规律反复取得样本，每次都采用相同的估计方法，得到的估计值会怎样分布。==
+		在当前的条件分析中，可以想象：==把所有横坐标留在原处，每轮重新生成一组误差，得到一组新的纵坐标，再拟合直线。==
+		求期望：平均位置是否正确？
+			从斜率分解出发：$$\begin{aligned} E(\hat\beta\mid\mathbf X) &= E\left( \beta+\sum_iw_i\varepsilon_i \,\middle|\,\mathbf X \right)\\ &= \beta+\sum_iw_iE(\varepsilon_i\mid\mathbf X). \end{aligned} $$
+			利用零条件均值：$E(\varepsilon_i\mid\mathbf X)=0$, 
+			得到：$\boxed{E(\hat\beta\mid\mathbf X)=\beta.}$ 
+			这就是条件无偏性：重复抽样得到的斜率估计，其平均位置落在真实参数上。某一次估计仍可能偏大或偏小。
+			这一结论只使用了零条件均值，不需要同方差、误差独立或正态分布。
+		求方差：估计值通常波动多大？
+			由于 $\beta$ 固定： $$\operatorname{Var}(\hat\beta\mid\mathbf X) = \operatorname{Var}\left( \sum_iw_i\varepsilon_i \,\middle|\,\mathbf X \right).$$
+			展开加权和的方差：$$\begin{aligned} \operatorname{Var}(\hat\beta\mid\mathbf X) ={}& \sum_iw_i^2 \operatorname{Var}(\varepsilon_i\mid\mathbf X)\\ &+ 2\sum_{i<j}w_iw_j \operatorname{Cov}(\varepsilon_i,\varepsilon_j\mid\mathbf X). \end{aligned} $$
+			采用同方差，以及不同误差条件不相关的假设后，交叉协方差为0：$$\begin{aligned} \operatorname{Var}(\hat\beta\mid\mathbf X) &=\sigma^2\sum_iw_i^2\\ &= \sigma^2 \frac{\sum_i(x_i-\bar x)^2}{S_{xx}^2}\\ &= \frac{\sigma^2}{S_{xx}}. \end{aligned} $$
+			所以：$$\boxed{ \operatorname{Var}(\hat\beta\mid\mathbf X) = \frac{\sigma^2}{S_{xx}}. } $$
+			对它开平方，就得到斜率估计量的抽样标准差：$$\boxed{ \operatorname{SD}(\hat\beta\mid\mathbf X) = \frac{\sigma}{\sqrt{S_{xx}}}. } $$
+		这里需要分清：$$\underbrace{\sigma^2}_{\text{模型误差的条件方差}} \qquad\text{与}\qquad \underbrace{ \frac{\sigma^2}{S_{xx}} }_{\text{斜率估计量的条件方差}}. $$
+			==**前者描述观测值在模型直线周围怎样散布==**
+			**==后者描述换一份样本以后，拟合斜率会波动多少。**==
+			**==其他条件相同时，误差散布越大，斜率越难估准；**==
+		样本中的教育年限==差异越充分==，S_{xx} 越大，通常越容易区分不同的斜率。
+		例如，如果样本中的人几乎都读了同样长时间的书，就很难据此判断教育年限变化时工资怎样变化。
+		加上正态假设：得到完整分布
+			给定 $\mathbf X$ 后，$\hat\beta$ 是一个常数加上若干独立正态误差的线性组合，因此也服从正态分布。
+			结合已经求出的期望和方差：$$\boxed{ \hat\beta\mid\mathbf X \sim N\left( \beta,\frac{\sigma^2}{S_{xx}} \right). } $$
+			在这套正态假设下，这个结论在有限样本中也成立。
+		需要区分两个分布：
+
+| 分布                                                    | 描述的对象                         |
+| ----------------------------------------------------- | ----------------------------- |
+| $Y_i\mid\mathbf X\sim N(\alpha+\beta x_i,\sigma^2)$   | 给定横坐标后，==**观测值**==在模型直线周围怎样散布 |
+| $\hat\beta\mid\mathbf X\sim N(\beta,\sigma^2/S_{xx})$ | 重复取得整份样本后，==**斜率**==估计怎样变化    |
+	六、用残差估计误差方差，让标准误可以实际计算
+		前面得到的抽样分布还包含未知的 $\sigma^2$。因此，理论上知道斜率的方差是 $\sigma^2/S_{xx}$，实际中却还不能直接算出这个数。
+		这时，可计算的残差重新发挥作用。下面这一节将补齐“残差怎样用于估计误差方差”的连接。
+		用残差平方和估计 $\sigma^2$
+			记：$$\mathrm{SSE}=\sum_i e_i^2. $$
+			因为截距和斜率根据同一份样本拟合，拟合过程会吸收一部分误差变动。
+			在零条件均值、同方差和误差条件不相关下：$$\boxed{ E(\mathrm{SSE}\mid\mathbf X) = (n-2)\sigma^2. } $$
+			因此，当 n>2 时：$$ \boxed{ s^2=\frac{\mathrm{SSE}}{n-2} } $$
+			是 $\sigma^2$ 的条件无偏估计。
+			这里的 n-2 对应同时估计了截距和斜率。如果直接使用 $\mathrm{SSE}/n$，其条件期望为：$$\frac{n-2}{n}\sigma^2, $$
+			会低估误差方差。
+		为什么平均少了两个 $\sigma^2$？
+			记： $$D=\hat\beta-\beta, \qquad \bar\varepsilon=\frac1n\sum_i\varepsilon_i. $$
+			由截距公式 $\hat\alpha=\bar Y-\hat\beta\bar x$，可得：$$ \hat\alpha-\alpha = \bar\varepsilon-D\bar x$$. 
+			代回残差：$$e_i = \varepsilon_i-\bar\varepsilon-D(x_i-\bar x).$$ 
+			利用前面的关系：$$ \sum_i(x_i-\bar x)\varepsilon_i=S_{xx}D, $$
+			展开残差平方和，可得：$$\boxed{ \mathrm{SSE} = \sum_i\varepsilon_i^2 -n\bar\varepsilon^2 -S_{xx}D^2. } $$
+			在相应假设下，三项的条件期望分别为：
+			$E\left(\sum_i\varepsilon_i^2\mid\mathbf X\right) =n\sigma^2,$ 
+			$E(n\bar\varepsilon^2\mid\mathbf X) = n\operatorname{Var}(\bar\varepsilon\mid\mathbf X) =\sigma^2,$
+			$E(S_{xx}D^2\mid\mathbf X) = S_{xx}\operatorname{Var}(\hat\beta\mid\mathbf X) =\sigma^2$. 
+			因此：$$E(\mathrm{SSE}\mid\mathbf X) = n\sigma^2-\sigma^2-\sigma^2 = (n-2)\sigma^2. $$
+			这也说明，分母的自由度修正有明确的期望计算依据。这个结论本身不需要正态假设。
+		得到标准误
+			令 $s=\sqrt{s^2}$，用它代替未知的 $\sigma$，得到：$$\boxed{ \widehat{\operatorname{SE}}(\hat\beta) = \frac{s}{\sqrt{S_{xx}}} = \sqrt{ \frac{\sum_i e_i^2} {(n-2)\sum_i(x_i-\bar x)^2} }. } $$
+			所以，理论抽样标准差与实际估计的标准误之间的关系是： $$\underbrace{ \frac{\sigma}{\sqrt{S_{xx}}} }_{\text{真实但通常未知的抽样标准差}} \quad\longrightarrow\quad \underbrace{ \frac{s}{\sqrt{S_{xx}}} }_{\text{由样本估计的标准误}}. $$
+			标准误描述这种估计方法在重复抽样中通常波动多大。**它不会告诉我们本次 $\hat\beta-\beta$ 的真实值，但能用来表达估计的不确定性。**
+			这里仅有 $s^2$ 对 $\sigma^2$ 的无偏性；不能因为开了平方，就进一步认定 s 也无偏估计 $\sigma$。
+	七、利用抽样分布进行参数检验与区间估计
+		检验未知参数
+			假设要检验：$$\boxed{H_0:\beta=\beta_0.} $$
+			其中，$\beta_0$是原假设指定的数，例如 0、1，或者理论提出的其他值。
+			$\hat\beta$ 是已经由样本算出的估计值。检验关注的是：如果真实参数确实等于$\beta_0$，抽样波动能否合理解释当前得到的估计结果？
+		已知 $\sigma$ 时，利用标准正态分布
+			在原假设成立时：$$\hat\beta\mid\mathbf X,H_0 \sim N\left( \beta_0,\frac{\sigma^2}{S_{xx}} \right). $$
+			因此可以标准化：$$\boxed{ Z= \frac{\hat\beta-\beta_0} {\sigma/\sqrt{S_{xx}}}. } $$
+			在给定 $\mathbf X$、原假设成立的正态模型下：$Z\sim N(0,1).$ 
+			如果 $\sigma$ 已知，这个统计量可以直接计算。它衡量的是： $$\frac{ \text{当前估计值与假设值的差距} }{ \text{估计量通常的抽样波动大小} }. $$
+			例如，同样相差 0.4，如果抽样标准差为 0.1，就是相差 4 个标准差；如果抽样标准差为 0.5，就只相差 0.8 个标准差。判断当前结果是否与原假设相容，需要同时考虑差距与估计精度。
+		$\sigma$ 未知时，使用估计的标准误
+			实际中通常不知道 $\sigma$，因此使用：$$\boxed{ T= \frac{\hat\beta-\beta_0} {\widehat{\operatorname{SE}}(\hat\beta)}. } $$
+			在经典正态模型下，给定 $\mathbf X$，原假设成立时： $\boxed{T\sim t_{n-2}.}$
+			这里的精确 t 分布还利用了正态模型下系数估计与残差平方和的独立性，以及残差平方和的卡方分布。
+			对于双侧检验，|T| 越大，当前估计值相对于原假设越不寻常。是否拒绝原假设，还要结合选定的显著性水平。
+		用置信区间表达估计的不确定性
+			为避免与截距 $\alpha$ 混淆，把显著性水平记为 $\gamma$。
+			经典正态模型下，$\beta$ 的 $100(1-\gamma)\%$ 置信区间为：$$ \boxed{ \hat\beta \pm t_{n-2,\,1-\gamma/2} \widehat{\operatorname{SE}}(\hat\beta). } $$
+			其中，$t_{n-2,\,1-\gamma/2}$ 是相应 t 分布的分位数。
+			95% 置信区间的含义是：按照同样的抽样和构造方法反复得到区间，其中约 95% 会覆盖固定的真实参数 $\beta$。
+			这一节关于未知 $\sigma$ 下的 t 检验和置信区间，是在视频中的标准化思路上继续补充，用来衔接实际回归计算。
+	八、利用残差检查假设：与前面的推导形成联系
+		完成估计以后，还需要检查：数据中是否有与前面假设不相符的迹象？
+			==残差相对于 X 或拟合值呈现弯曲形状，可能提示系统部分的函数形式不合适；==
+			==**残差散布随 X改变，可能提示异方差；**==
+			==**按时间排列的残差存在连续同号等规律，可能提示误差相关。**==
+		残差的分布形状也可以提供有关正态假设的线索。
+		这些检查利用了残差与真实误差的联系，但残差受到共同估计系数的影响，还要满足 OLS 的样本约束。
+		尤其需要记住，含截距 OLS 拟合后自动满足：$$\boxed{ \sum_i e_i=0, \qquad \sum_i x_ie_i=0. } $$
+		这是最小二乘一阶条件带来的代数结果。
+		无论真实误差是否满足零条件均值，这两个等式都会在拟合中成立。
+		因此：$$\boxed{ \text{残差与 }X\text{ 的样本线性正交，不能证明 } E(\varepsilon\mid X)=0. } $$
+		残差图没有明显规律，也不能单独证明不存在遗漏的混杂因素。
+		同时，即使真实误差独立同方差，残差仍共享同一组估计系数，并受到上述约束，不能直接当作独立同分布的真实误差样本。
+		残差在这里有两个相关用途：==**估计模型误差的波动程度，使标准误能够计算；检查模型与误差假设是否出现明显问题，使统计推断有所依据。**==
+	九、教授省去截距的版本，与正文怎样对应？
+		教授为了简化运算，暂时使用：$$ Y_i=\beta x_i+\varepsilon_i.$$ 
+		这时只估计一个斜率，OLS 公式为： $$\begin{aligned} \hat\beta &=\frac{\sum_i x_iY_i}{\sum_i x_i^2}\\ &=\frac{\sum_i x_i(\beta x_i+\varepsilon_i)} {\sum_i x_i^2}\\ &=\beta+\frac{\sum_i x_i\varepsilon_i} {\sum_i x_i^2}. \end{aligned} $$
+		在相应条件下，两种模型逐项对应如下：
+
+| 内容               | 含截距，正文模型                                                                    | 无截距，课堂简化模型                                                  |
+| ---------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| 模型               | $Y_i=\alpha+\beta x_i+\varepsilon_i$                                        | $Y_i=\beta x_i+\varepsilon_i$                               |
+| 斜率估计误差           | $\displaystyle\frac{\sum_i(x_i-\bar x)\varepsilon_i}{\sum_i(x_i-\bar x)^2}$ | $\displaystyle\frac{\sum_i x_i\varepsilon_i}{\sum_i x_i^2}$ |
+| 斜率条件期望           | $\beta$                                                                     | $\beta$                                                     |
+| 斜率条件方差           | $\displaystyle\frac{\sigma^2}{\sum_i(x_i-\bar x)^2}$                        | $\displaystyle\frac{\sigma^2}{\sum_i x_i^2}$                |
+| 误差方差的无偏估计        | $\displaystyle s^2=\frac{\mathrm{SSE}}{n-2}$                                | $\displaystyle s^2=\frac{\mathrm{SSE}}{n-1}$                |
+| 斜率估计标准误          | $\displaystyle\frac{s}{\sqrt{\sum_i(x_i-\bar x)^2}}$                        | $\displaystyle\frac{s}{\sqrt{\sum_i x_i^2}}$                |
+| 经典正态模型下的 t 检验自由度 | n-2                                                                         | n-1                                                         |
+		无截距模型要求 $\sum_i x_i^2>0$；含截距模型要求 $\sum_i(x_i-\bar x)^2>0$。估计误差方差时，还需要相应的残差自由度>0。
+		这里的无截距版本，指真正只估计一个参数的模型。如果只是把原来含截距的数据中心化，斜率公式虽然可能看起来像无截距公式，原模型估计误差方差的自由度仍然是 n-2。
