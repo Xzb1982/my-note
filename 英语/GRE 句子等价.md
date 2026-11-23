@@ -167,6 +167,55 @@ ludicrous 可笑的
 
 考强词
 
+四个找，找对象、强词、逻辑、否定词
+科学和科学家  xxx 范例样式  （不情愿地xxx）
+他们xxx了， 科技革命会发生
+
+团结
+分享、分配、共有
+==**割让、转让、放弃**==
+拥抱、欣然接受、包含
+拆卸、拆开、废除、取缔
+==**放弃、让出**==
+
+![[Pasted image 20261123205339.png]]
+
+考强词
+
+四个找，找对象、强词、逻辑、否定词
+
+修饰treatment （待遇、治疗）
+served as merely transitional（变迁的）
+and
+
+outgrown不再适合
+
+过时的？
+
+**==仓促的，匆匆的、粗略的==**
+诙谐的，滑稽的
+==衷心的、真诚的==
+教诲、说教的、好为人师的
+==热烈的，热情的==
+**==敷衍的，马虎的==**
+
+![[Pasted image 20261123210124.png]]
+
+考logic
+
+尽管 对于外行人来说 term  表达了 家庭农夫被大企业替代（负面概念）
+空：对内行人来说，更表达个体的
+
+trustworty 值得信赖的可靠的
+rapacious贪得无厌的
+
+
+灵活的，可变通的
+==**中立的，不偏不倚的**==
+熟悉的，普通的，非正式的
+贬损的，轻蔑的
+==**公平的，不偏不倚的**==
+蔑视的，轻视的，诽谤的
 
 
 U3 练习
@@ -399,3 +448,204 @@ A coated（覆盖） and reveal（揭示）  xxx with xxx
 去除，消除
 忽略，置之不理
 
+四个找，找对象、强词、逻辑、否定词
+1. **空格在说谁的什么？**(找对象) 是作品的风格、人的态度、行为的方式，还是变化的程度？先把评价对象找准。
+2. **哪一段信息直接限制它？**（找强词） 是后面的解释、另一组对应信息、原因、对照对象，还是一个具体例子？
+3. **这条线索怎样连接到空格？**（找logic） 是重述、类比、对照、让步、因果、目的条件、比较、递进，还是范围两端？
+4. **空格外有没有改变意思的词？**（找否定词） 把 _not、less、hardly、even、only_ 等一起带进去，再用中文预测空格含义。
+
+错题笔记可以只留一行：
+
+> **对应线索：_****；句内关系：****_；空格外的修饰：_****；预填含义：****_。**
+
+
+### 1. 解释重述：一边给出概括，另一边把它说具体
+常见骨架：
+> **空格所表示的特点：具体行为／具体表现。**  
+
+这类题的线索可能由冒号、同位语、定语从句、例子或补充说明给出。
+你要做的是：**把一段具体描述，压缩成空格需要的那个意思。**
+
+讲义二第 3 页的填字游戏题：
+> The Internet provides a framework for _____: … with the veterans mentoring those just starting out.
+
+后面说“老手指导刚入门的人”，前面的空格就应当概括这种活动：
+$$\text{老手指导新手}\quad\longrightarrow\quad\text{教学、指导} $$
+
+### 2. 多项对应：A＋B 对应 A′＋？
+
+前后各有两项或多项信息，其中一组已经能对应起来，空格补的是另一组。可以记成： $$A+B\quad\leftrightarrow\quad A'+\square $$
+
+其中 A' 是对 A 的另一种说法。
+
+
+讲义一第 10 页的音乐题很适合这样拆：
+
+> There is frequently a **protracted time interval** between the introduction of an **innovative musical composition** and its public acceptance; the concert-going public often spurns the _____ in favor of the familiar **for a prolonged period**.
+
+| 前半句的信息                                 | 后半句的对应表达                        |
+| -------------------------------------- | ------------------------------- |
+| protracted time interval：很长的时间间隔       | for a prolonged period：持续很长一段时间 |
+| innovative musical composition：创新的音乐作品 | spurns the _____：排斥那些_____的东西   |
+| 公众很久以后才接受                              | 公众长期偏爱熟悉的东西                     |
+时间已经对应上了，空格需要承接“新作品”，所以方向是 _novel / original_。
+**这一类最有用的操作是：先配上确定的一组，再看空格承担哪一组信息。**
+
+讲义二第 7 页的政策题也是类似的：
+> There is **nothing surprising** … about the country's policies; they are usually _____ **and even rational** …
+
+空格首先对应“不令人意外”，所以要找“可以预料的”，即 _predictable / foreseeable_。后面的 _rational_ 已经在评价政策是否合理，不能因为它离空格最近，就再填一个“合理的”。
+
+### 3. 同向类比：换了对象，仍然发生类似的事情
+常见骨架：
+> **对象甲具有某种特点；对象乙 likewise／similarly 也具有_____。**
+
+讲义二第 7 页：
+> White abalone populations have **waned dramatically** and black abalone populations have **likewise** _____.
+
+前面说白鲍数量大幅减少，后面说黑鲍也有类似变化，因此空格的方向是“数量下降”。
+
+这类题要核对两件事：**变化方向是否相同，程度是否合适。**
+“减少”和“完全消失”并不是同一回事，不能从前者直接跳到后者。
+这里也能看出一个区别：`likewise / similarly` 明确提示类似；`and` 本身只负责连接。
+比如“文章简洁而尖锐”，简洁和尖锐就是两个不同特点。
+
+### 4. 直接对照：两边在同一个维度上不同
+常见骨架：
+> **甲具有 A 特点，乙却具有_____特点。**  
+> **与 A 相比，B 表现为_____。**
+
+常见提示有 `unlike`、`in contrast to`、`the opposite of`、`whereas`、`contrary to` 等。
+
+讲义一第 10 页的服装题，把独裁者闪亮的军装、帝王式装饰，与其他政治领导人的衣着作对照：
+> … **sharply contrast with** the _____ fashion favored by most other contemporary political leaders.
+
+对照的维度是“张扬奢华还是朴素低调”，所以空格方向是 _unostentatious / modest_。
+
+| 对照双方      | 实际需要比较的内容      |
+| --------- | -------------- |
+| 两个人、两个群体  | 态度、行为、评价等      |
+| 名声与实际情况   | 外界以为怎样，实际怎样    |
+| 两项研究、两种观点 | 对同一问题得出了什么不同判断 |
+| 两种事物      | 大小、复杂程度、抽象程度等  |
+**先确定对照的维度，再找反向意思。**
+
+### 5. 让步与反预期：按前文，本来容易预期一件事，实际却没有如此
+常见骨架：
+> **虽然 A，按理容易预期 B，但实际却是 C。**
+
+常见提示有 `although`、`though`、`despite`、`even though`、`nevertheless`、`yet`。
+它比直接对照多了一层：你往往需要读出“前文会让人产生什么预期”。
+
+ETS 有一道很典型的例题：
+> Although it does contain some pioneering ideas, one would hardly characterize the work as _____.
+
+作品有一些开创性的想法，容易让人想到“作品有创新性”；
+后半句却说，还很难把整部作品称为有创新性的作品。
+因此空格填 _original / innovative_。
+
+### 6. 因果推断：由原因推结果，或由结果反找解释
+常见骨架：
+> **Because／since A，所以_____。**  
+> **A；因此／这就解释了_____。**
+
+这一类很容易被“同义／反义”分类漏掉，因为原因和结果往往根本不是同一类意思。
+
+看一个自拟例子：
+> Because the evidence was **fragmentary**, the researchers’ conclusions remained _____.
+
+证据零碎、不完整，因此研究者的结论只能保持暂定，空格可以朝 _tentative / provisional_ 的方向考虑。
+
+推理是：$$\text{证据不足}\quad\longrightarrow\quad\text{结论不能说得太确定} $$
+“零碎”和“暂定”既不是同义词，也不是反义词。它们通过原因和结果联系起来。
+
+讲义二第 6 页的巴比伦天文学家题还叠加了否定：
+> It is **hardly** _____ that …, **since** …
+
+后面给出他们关注木星的充分理由，因此前面整块应表达“不奇怪”。但空格外已经有 `hardly`，所以空格本身需要“令人惊讶的”，即 _remarkable / surprising_。
+
+**因果先决定整句话的态度，否定词再决定空格本身填什么。**
+
+### 7. 目的与条件：为了达到某个目标，需要采取什么做法
+常见骨架：
+
+> **为了达到 A，采取_____做法。**  
+> **如果 A，就会 B。**  
+> **只有满足 A，才可能 B。**  
+> **缺少 A，B 就受到限制。**
+
+相关结构包括 `to / in order to`、`so that`、`if`、`unless`、`only if`、`without`。
+
+自拟例子：
+> To avoid offending her hosts, she was deliberately _____ in her criticism.
+
+为了不冒犯主人，她提出批评时会有意保持委婉，空格方向是 _tactful / diplomatic_。
+这里要把“做法”放回“目标”中检查：这样的做法是否有助于实现句子给出的目标？
+
+条件句则要特别看限制落在哪里。`only if` 表示“只有……才……”，`unless` 表示“除非……”。它们限定的是某件事成立的条件，不能只把附近的两个词拿来找同义或反义。
+
+### 8. 程度比较与变化：同一种性质，更多、更少，或逐渐改变
+常见骨架：
+
+> **X 比 Y 更／不那么_____。**  
+> **X 变得越来越／越来越不_____。**  
+> **过去如此，现在仍然如此／有所变化。**
+
+这就是你说的 `less A` 最需要单独分析的地方。
+
+讲义一第 7 页的迷宫题：
+> The laboratory maze has grown ever **less** _____ … today's scientists design mazes to elicit a few **simple, easily measurable behaviors**.
+
+后文说明，现在的设计追求少数简单、容易测量的行为。它支持前文表达“迷宫逐渐简化”。
+
+但前文真正需要填完整的是：
+> **less［_____］**
+
+所以空格要填“复杂的”，即 _intricate / convoluted_
+
+**因此，这道题不能仅凭空格要填“复杂”，就把整句认作转折题。**
+
+还要分清另外一种比较：
+> not so much A as B
+
+它通常表示“与其说是 A，更适合说是 B”，是在比较两种描述的适用程度。例如“与其说生气，不如说难过”。这里 A 和 B 也不必是反义词。
+
+### 9. 递进升级：前面说到一个程度，后面再推进一步
+常见骨架：
+> **A，甚至 B。**  
+> **不仅达到 A，还达到 B。**  
+> **A，或者更进一步说 B。**
+
+常见提示有 `even`、`indeed`、`not merely … but …`、`not only … but also …`。
+自拟例子：
+> His response was not merely **unfriendly**, but openly **hostile**.
+
+作者把“不友好”推进到“公开敌对”。读题时，需要判断后面的表达为什么被作者当作更进一步的说法。
+
+讲义一第 5 页出现：
+> _____ **or even erroneous** results
+
+`even` 提示后面的“错误结果”是进一步的批评，空格要与这种评价接得上。
+
+不过，递进不一定是同一个形容词的强弱变化。讲义二的政策题：
+> _____ **and even rational**
+
+也可以是“可以预料，甚至有其合理性”。“可预料”和“合理”是不同判断，后者增加了一层评价。
+所以，**递进要求两项在当前语境中能逐步推进，不要求它们是同义词。**
+
+### 10. 范围两端：用两个相隔较远的端点，说明覆盖面广
+常见骨架：
+> **从 A 到 B，几乎什么都包括。**  
+> **无论 A 还是 B，都在讨论范围内。**
+
+常见提示有 `from … to …`、`ranging from … to …`，并常与 `every aspect`、`a broad range`、`the whole spectrum` 一起出现。
+
+讲义二第 6 页的漫画题：
+> … encompassed just about **every aspect** of American life, **from down-to-earth to** _____.
+
+“几乎涵盖生活的每个方面”要求后面的两个端点体现广度。前面是贴近日常、通俗实际的一端，后面就朝深奥、只有少数人熟悉的一端考虑，选项中的 _esoteric / arcane_ 符合这个方向。
+
+这里的读法是：
+> **用相隔较远的两端，表达中间很宽的范围。**
+
+这类结构和普通转折不同，两端都被纳入同一个范围。也要注意，`from … to …` 本身不保证两端反义，是否需要拉开距离，要结合“覆盖广泛”这样的上文判断。
