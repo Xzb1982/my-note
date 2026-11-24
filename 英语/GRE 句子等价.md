@@ -4,7 +4,7 @@ U2  练习
 
 考强词
 
-awesome?
+awesome?![[Pasted image 20261124104053.png]]
 
 ==**令人安心的，可靠的==**
 **==振奋人心的、新颖有趣的**==
@@ -12,6 +12,9 @@ awesome?
 冗长的，沉闷的
 吓人的恐怖的
 吓人的，令人胆怯的
+
+这一道
+正确答案：EF
 
 ![[Pasted image 20261123160514.png]]
 
@@ -25,6 +28,8 @@ awesome?
 受到曲解的，失真的
 ==**老一套的 老生常谈的 mundane commonplace**==
 有争议的
+
+对
 
 ![[Pasted image 20261123161301.png]]
 
@@ -41,21 +46,27 @@ omit 省略、遗漏
 吸引人的，引人入胜的
 ==**无关的，外来的，**==
 
+对
+
+
 ![[Pasted image 20261123162726.png]]
 
-考强词
+考强词，考程度（程度更轻）
 
 incomplete record 不完整的记录
 speculation 推测猜测
 
 否定了 证据，反正就是记录不完整；太imagine 导致没有证据
 
-==**被....取代**==
+==**被....取代**== （如果是被动的话，就相反了）
 被....约束
 从....解除束缚
 从....分离
 ==**代替、替换、取代**==
 被....收缩
+
+正确：CD
+这一道
 
 ![[Pasted image 20261123164052.png]]
 
@@ -72,6 +83,8 @@ least favorite,groan（呻吟）
 短暂的
 ==**没资格的，完全的，绝对的**==
 
+对
+
 ![[Pasted image 20261123191102.png]]
 
 考logic 
@@ -85,6 +98,8 @@ least favorite,groan（呻吟）
 同类的；相似的；均一的
 ==感觉不到的，极细微的==
 **==休眠的，蛰伏的，暂停活动==**
+
+对
 
 ![[Pasted image 20261123192448.png]]
 
@@ -103,6 +118,8 @@ music prompt（促使）  xxx to conclude
 少量，一点点
 缺乏
 
+对
+
 ![[Pasted image 20261123193254.png]]
 
 考强词，
@@ -118,6 +135,8 @@ music prompt（促使）  xxx to conclude
 自命不凡的、矫饰的、做作的
 ==倾向性的、有偏见的、有争议的==
 
+对
+
 ![[Pasted image 20261123194710.png]]
 
 考logic
@@ -132,6 +151,8 @@ music prompt（促使）  xxx to conclude
 ~~排出、发射~~
 ==**变化、转化、转变**==
 储存、存入
+
+正确：CF
 
 ![[Pasted image 20261123195742.png]]
 
@@ -150,6 +171,8 @@ ludicrous 可笑的
 ==反常现象，异常事物==
 ==**不一致，前后矛盾，反复无常**==
 
+正确：EF
+
 ![[Pasted image 20261123200732.png]]
 
 考logic
@@ -162,6 +185,8 @@ ludicrous 可笑的
 缺乏创意的，抄袭的
 偏袒的
 ==引人入胜、令人信服==
+
+正确：AC
 
 ![[Pasted image 20261123201237.png]]
 
@@ -177,6 +202,8 @@ ludicrous 可笑的
 拥抱、欣然接受、包含
 拆卸、拆开、废除、取缔
 ==**放弃、让出**==
+
+对
 
 ![[Pasted image 20261123205339.png]]
 
@@ -199,6 +226,8 @@ outgrown不再适合
 ==热烈的，热情的==
 **==敷衍的，马虎的==**
 
+对
+
 ![[Pasted image 20261123210124.png]]
 
 考logic
@@ -217,8 +246,9 @@ rapacious贪得无厌的
 ==**公平的，不偏不倚的**==
 蔑视的，轻视的，诽谤的
 
+对
 
-U3 练习
+# U3 练习
 
 ![[Pasted image 20261122233410.png]]
 
@@ -233,6 +263,8 @@ U3 练习
 ~~意料之外~~
 ~~惊喜的~~
 ==**粗浅的，肤浅、没什么深度**==
+
+对
 
 ![[Pasted image 20261122234204.png]]
 
@@ -254,6 +286,8 @@ on time  => fewer complaint
 
 aggressive 和 assiduous 在此也可能等价
 
+对
+
 ![[Pasted image 20261122235538.png]]
 
 考强词
@@ -271,6 +305,7 @@ unambiguous和 explicit 等价
 
 mutable fluid
 
+对
 
 ![[Pasted image 20261123000218.png]]
 
@@ -287,6 +322,8 @@ mutable fluid
 ==**成分混杂的，内容各异==**
 **==不相似的，不一样的**==
 
+对
+
 ![[Pasted image 20261123091946.png]]
 
 考logic
@@ -299,6 +336,8 @@ mutable fluid
 ==单纯的、自然的、不做作的==
 完美、娴熟、高雅
 缜密的，一丝不苟的
+
+对
 
 ![[Pasted image 20261123093352.png]]
 
@@ -314,6 +353,8 @@ more 女权 ，不国家主义
 低估、轻描淡写
 ==**捍卫**==
 
+对
+
 ![[Pasted image 20261123094437.png]]
 
 考logic
@@ -327,6 +368,8 @@ elicit 引出、引起
 流行的、普遍存在的
 有效的
 有用的
+
+对
 
 ![[Pasted image 20261123095829.png]]
 
@@ -342,6 +385,8 @@ unwieldy 庞大而笨重的
 ==**短暂的 朝生暮死的**==
 灵活的
 
+正确答案：BD
+
 ![[Pasted image 20261123100341.png]]
 
 考logic
@@ -354,6 +399,8 @@ unwieldy 庞大而笨重的
 公正的，不偏不倚的
 真诚、诚实
 客观性、客观现实
+
+对
 
 
 ![[Pasted image 20261123101555.png]]
@@ -371,9 +418,15 @@ dire（可怕的、迫切的、极其的） portrait of soil loss
 ==**减少**==
 恶化
 
+对
+
 ![[Screenshot_2026-11-23-14-19-15-271_cn.wps.moffice_eng-edit.jpg]]
 
 考强词
+brew：v.酝酿、酿造
+n.啤酒、质地
+
+reap v.![[Pasted image 20261124105800.png]]
 
 喝茶人 喝不喝茶的
 喝茶的人 不 reap（获得） 好处  than 
@@ -384,6 +437,10 @@ dire（可怕的、迫切的、极其的） portrait of soil loss
 ==**发誓放弃**==
 大口喝
 狂吃暴饮
+
+这里是用 茶相关的人 和 喝啤酒的人
+
+正确答案：EF
 
 ![[Screenshot_2026-11-23-14-29-21-580_cn.wps.moffice_eng-edit.jpg]]
 考logic
@@ -402,6 +459,8 @@ rapacious贪得无厌的
 ==**公平的，不偏不倚的**==
 蔑视的，轻视的，诽谤的
 
+对
+
 ![[Screenshot_2026-11-23-14-41-59-107_cn.wps.moffice_eng_1795416129739edit.jpg]]
 
 考强词
@@ -414,6 +473,8 @@ rapacious贪得无厌的
 宏伟的，威严的
 正式的
 随意的，休闲的
+
+对
 
 ![[Screenshot_2026-11-23-14-49-59-213_cn.wps.moffice_eng-edit.jpg]]
 
@@ -433,13 +494,23 @@ spurn轻蔑拒绝
 易于理解的
 复杂的
 
+对
+
 ![[Pasted image 20261123151404.png]]
 
 考强词
-
+![[Pasted image 20261124110308.png]]
 which 前后句子结构类似
 
-A coated（覆盖） and reveal（揭示）  xxx with xxx
+![[Pasted image 20261124110704.png]]
+
+and不是 和 which
+
+定从：关系
+
+==**四个找，必须对应语法**==
+
+~~A coated（覆盖）~~ and reveal（揭示）  xxx with xxx
 
 ==**用魔法召唤，使。。。。浮现==**
 **==想象，幻想**==
@@ -447,6 +518,8 @@ A coated（覆盖） and reveal（揭示）  xxx with xxx
 忽略，忽视
 去除，消除
 忽略，置之不理
+
+正确答案：CE
 
 四个找，找对象、强词、逻辑、否定词
 1. **空格在说谁的什么？**(找对象) 是作品的风格、人的态度、行为的方式，还是变化的程度？先把评价对象找准。
