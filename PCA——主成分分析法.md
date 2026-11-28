@@ -15,16 +15,9 @@
 	特征向量简单理解就是：矩阵作用后，仍留在原来的直线上
 向量 $$\mathbf v=\begin{pmatrix}1\\1\end{pmatrix} $$
 可以看成从原点指向 (1,1) 的箭头，即向右上方 $45^\circ$。向量 (2,2) 与它方向相同，长度是它的两倍。
-
-矩阵乘一个向量，会得到一个新向量。比如：
-
-\[ S\begin{pmatrix}1\\0\end{pmatrix} = \begin{pmatrix}10/3\\8/3\end{pmatrix}. \]
-
+矩阵乘一个向量，会得到一个新向量。比如： $$S\begin{pmatrix}1\\0\end{pmatrix} = \begin{pmatrix}10/3\\8/3\end{pmatrix}. $$
 原来的箭头水平向右，结果变成了斜向右上，方向发生了变化。
-
-再看另一个向量：
-
-\[ S\begin{pmatrix}1\\1\end{pmatrix} = \begin{pmatrix}6\\6\end{pmatrix} = 6\begin{pmatrix}1\\1\end{pmatrix}. \]
+再看另一个向量：$$S\begin{pmatrix}1\\1\end{pmatrix} = \begin{pmatrix}6\\6\end{pmatrix} = 6\begin{pmatrix}1\\1\end{pmatrix}. $$
 
 这次，结果恰好是原向量的 \(6\) 倍。因此，\((1,1)\) 就是 \(S\) 的一个**特征向量**，\(6\) 是对应的**特征值**。
 
