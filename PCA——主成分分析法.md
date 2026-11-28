@@ -11,22 +11,53 @@
 	两个变量的方差、协方差分别为:$$\begin{aligned} s_{u_1}^2=s_{u_2}^2 &=\frac{4+1+1+4}{3}=\frac{10}{3},\\ s_{u_1u_2} &=\frac{2\times1+1\times2+(-1)\times(-2)+(-2)\times(-1)}{3} =\frac83. \end{aligned} $$把这些数放进一个矩阵，就得到**协方差矩阵**：$$\boxed{ S= \begin{pmatrix} 10/3&8/3\\ 8/3&10/3 \end{pmatrix} } $$
 	对角线是各变量的方差，另外两个位置是它们的协方差。
 	PCA 后面要用的就是这个矩阵。
-接着，我们需要补充一下特征向量是什么
-	特征向量简单理解就是：矩阵作用后，仍留在原来的直线上
-向量 $$\mathbf v=\begin{pmatrix}1\\1\end{pmatrix} $$
-可以看成从原点指向 (1,1) 的箭头，即向右上方 $45^\circ$。向量 (2,2) 与它方向相同，长度是它的两倍。
-矩阵乘一个向量，会得到一个新向量。比如： $$S\begin{pmatrix}1\\0\end{pmatrix} = \begin{pmatrix}10/3\\8/3\end{pmatrix}. $$
-原来的箭头水平向右，结果变成了斜向右上，方向发生了变化。
-再看另一个向量：$$S\begin{pmatrix}1\\1\end{pmatrix} = \begin{pmatrix}6\\6\end{pmatrix} = 6\begin{pmatrix}1\\1\end{pmatrix}. $$
+	接着，我们需要补充一下特征向量是什么
+		特征向量简单理解就是：矩阵作用后，仍留在原来的直线上
+		向量 $\mathbf v=\begin{pmatrix}1\\1\end{pmatrix}$ 可以看成从原点指向 (1,1) 的箭头，即向右上方 $45^\circ$。
+		向量 (2,2) 与它方向相同，长度是它的两倍。
+		矩阵乘一个向量，会得到一个新向量。比如： $$S\begin{pmatrix}1\\0\end{pmatrix} = \begin{pmatrix}10/3\\8/3\end{pmatrix}. $$
+		原来的箭头水平向右，结果变成了斜向右上，方向发生了变化。
+		再看另一个向量：$$S\begin{pmatrix}1\\1\end{pmatrix} = \begin{pmatrix}6\\6\end{pmatrix} = 6\begin{pmatrix}1\\1\end{pmatrix}. $$
+		这次，结果恰好是原向量的 6 倍。因此，(1,1) 就是 S 的一个**特征向量**，6 是对应的**特征值**。
+		一般定义写成： $$\boxed{A\mathbf v=\lambda\mathbf v,\qquad \mathbf v\ne\mathbf0} $$
+		它的意思是：**矩阵 A 作用于这个非零向量后，结果只是它本身的某个倍数。** $\mathbf v$ 叫特征向量，倍数 $\lambda$ 叫特征值。
+		所以，特征向量描述矩阵的一种特殊方向。正倍数会伸长或缩短箭头，负倍数还会使箭头反向，但结果都留在原来那条直线上。
+		至于这种特殊方向为什么与 PCA 有关，要从 PCA 的目标推出来。
+	PCA 要找的方向：投影后的方差最大
+		我们用一个新变量概括原来的两个变量： $z=au_1+bu_2$. 
+这里的 (a,b) 决定投影方向。例如，选择 (a,b)=(1,0)，就只保留第一个变量；选择右上方 $45^\circ$，就会把两个变量共同的高低合在一起。
+为了公平比较方向，要把方向向量的长度统一为 1：$\boxed{a^2+b^2=1}$ .
+这样，z 就是样本在这个方向上的投影坐标。
+如果不限制长度，把 a,b 同时放大十倍，方差就会放大一百倍，便没有有意义的最大值。
+由于 u_1,u_2 的均值都是 0，z 的均值也是 0。因此，投影后的样本方差为$$\begin{aligned} V(a,b) &=\frac13\sum_{i=1}^{4}(au_{i1}+bu_{i2})^2\\ &=a^2s_{u_1}^2+2ab\,s_{u_1u_2}+b^2s_{u_2}^2\\ &=\boxed{\frac{10a^2+16ab+10b^2}{3}}. \end{aligned} $$
+PCA 的问题于是变成：$$\boxed{ \text{在 }a^2+b^2=1\text{ 的条件下，使 }V(a,b)\text{ 最大。} } $$
 
-这次，结果恰好是原向量的 \(6\) 倍。因此，\((1,1)\) 就是 \(S\) 的一个**特征向量**，\(6\) 是对应的**特征值**。
+### 求导后，特征向量就出现了
 
-一般定义写成：
+用拉格朗日乘数法处理这个约束：引入一个辅助数 \(\lambda\)，构造
 
-\[ \boxed{A\mathbf v=\lambda\mathbf v,\qquad \mathbf v\ne\mathbf0} \]
+\[ L(a,b,\lambda) = \frac{10a^2+16ab+10b^2}{3} -\lambda(a^2+b^2-1). \]
 
-它的意思是：**矩阵 \(A\) 作用于这个非零向量后，结果只是它本身的某个倍数。** \(\mathbf v\) 叫特征向量，倍数 \(\lambda\) 叫特征值。
+分别对 \(a,b\) 求偏导，并令其为 \(0\)：
 
-所以，特征向量描述矩阵的一种特殊方向。正倍数会伸长或缩短箭头，负倍数还会使箭头反向，但结果都留在原来那条直线上。
+\[ \begin{cases} \dfrac{20a+16b}{3}-2\lambda a=0,\\[6pt] \dfrac{16a+20b}{3}-2\lambda b=0. \end{cases} \]
 
-至于这种特殊方向为什么与 PCA 有关，要从 PCA 的目标推出来。
+两式都除以 \(2\)，整理为
+
+\[ \begin{cases} \dfrac{10a+8b}{3}=\lambda a,\\[6pt] \dfrac{8a+10b}{3}=\lambda b. \end{cases} \]
+
+这两个方程合起来，恰好就是
+
+\[ \boxed{ S\begin{pmatrix}a\\b\end{pmatrix} = \lambda\begin{pmatrix}a\\b\end{pmatrix} }. \]
+
+**最大方差问题的候选方向，正是协方差矩阵的特征向量。** 这就是 PCA 要求特征向量的原因。
+
+而且，对于满足上述方程的单位向量，
+
+\[ \begin{aligned} V(a,b) &=a\frac{10a+8b}{3}+b\frac{8a+10b}{3}\\ &=\lambda a^2+\lambda b^2\\ &=\lambda. \end{aligned} \]
+
+于是又得到一个很有用的结论：
+
+\[ \boxed{ \text{协方差矩阵的特征值} = \text{沿对应单位特征向量投影后的方差} } \]
+
+所以，第一主成分要选择**最大特征值对应的方向**。
